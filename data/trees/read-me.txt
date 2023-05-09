@@ -1,0 +1,23 @@
+Dear Sean,
+
+I have attached the data file. It is a tab separated file that contains the location of all of the nodes in the Bantu tree. The first half of the rows are the location data of the current languages and the second half are the reconstructed locations of the internal nodes of the tree. (The method we used to generate these reconstructions is detailed in the supporting information of the paper.) 
+
+The columns are
+Node Id: Id number of the node. (Note that these start from 0.)
+Node Name: Either the language name or Node-XYZ for an internal node.
+Node Group: ‘Int’ for an internal node and one of the group labels ANS, NW, MB, CW, WW, SW, CE, or E for the languages.
+Node Lat: The latitude of the node.
+Node Lat SD: The standard deviation of the reconstructed latitude for a node.
+Node Long: The longitude of the node.
+Node Long SD: The standard deviation of the reconstructed longitude for a node.
+Node Age: Age of the node.
+Node Count: How many languages are covered by the node.
+Node List: A list of the languages covered by the node.
+Node Child 1/2: Node ids of the two child nodes. A -2 means the node has no child – i.e. it is a tip.
+Node Ancestor: The node id of the ancestor node. A -1 means the node has no ancestor – i.e. it is the root node.
+
+
+Fig. 1 was plotted using the first half of the table.
+
+Fig. 2A was plotted by drawing a line from each non-tip node to both of the child nodes. The node ids enable one to jump from a node to either its ancestor or child nodes.
+

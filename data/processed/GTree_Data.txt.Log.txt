@@ -1,0 +1,32 @@
+Options:
+Model:                           Independent Contrasts: Correlation
+Tree File Name:                  ../data/processed/GTree_phylo4g_combined_trimmed.nex
+Data File Name:                  ../data/processed/GTree_Data.txt
+Log File Name:                   ../data/processed/GTree_Data.txt.Log.txt
+Save Initial Trees:              False
+Save Trees:                      False
+Summary:                         False
+Seed:                            868784823
+Analsis Type:                    Maximum Likelihood
+ML Attempt Per Tree:             10
+ML Max Evaluations:              20000
+ML Tolerance:                    0.000001
+ML Algorithm:                    BOBYQA
+Rate Range:                      0.000000 - 100.000000
+Precision:                       64 bits
+Cores:                           1
+No of Rates:                     2
+Test for trait correlation:      True
+Kappa:                           Not in use
+Delta:                           Not in use
+Lambda:                          Not in use
+OU:                              Not in use
+Restrictions:
+    Alpha-1                      None
+    Alpha-2                      None
+Tree Information
+     Trees:                      1
+     Taxa:                       230
+     Sites:                      2
+Tree No	Lh	Alpha 1	Alpha 2	Sigma^2 1	Sigma^2 2	R Trait 1 2	
+1	855.125550	0.016526162309	2.733978786248	0.000063669717	249.324074332642	0.024986055734	

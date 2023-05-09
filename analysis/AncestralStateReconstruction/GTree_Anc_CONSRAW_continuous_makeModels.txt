@@ -1,0 +1,10 @@
+4
+2
+SaveModels ../../results/BayesTraitsOutput/AncestralStateReconstruction/Anc_CONSRAW_continuous_models.bin
+LogFile ../../results/BayesTraitsOutput/AncestralStateReconstruction/Anc_CONSRAW_continuous_make
+Burnin 1000000
+Iterations 2000000
+PriorAll gamma 6.85 0.286
+Seed 284
+
+Run

@@ -1,0 +1,10 @@
+4
+2
+SaveModels ../../results/BayesTraitsOutput/AncestralStateReconstruction/Anc_ASJP_continuous_models.bin
+LogFile ../../results/BayesTraitsOutput/AncestralStateReconstruction/Anc_ASJP_continuous_make
+Burnin 1000000
+Iterations 2000000
+PriorAll normal 0.4659 0.0556
+Seed 1000
+
+Run

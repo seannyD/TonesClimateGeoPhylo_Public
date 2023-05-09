@@ -1,0 +1,426 @@
+"Name_on_tree_tip2","glottolog_id","xd_ids","soc_ids","Language","Tones","Phonemes","Consonants","Vowels","Lang.Source","InventoryID","ASJPVowelRatio"
+"A11_Londo","orok1266","","","Lukundu",0,29,22,7,"Phoible (ph)",929,0.522321390996736
+"A121_Mbonge","orok1266","","","Lukundu",0,29,22,7,"Phoible (ph)",929,0.522321390996736
+"A122_Bakundu","orok1266","xd166","Ae45","Lukundu",0,29,22,7,"Phoible (ph)",929,0.522321390996736
+"A141_Lefo","bafa1247","","","Bafo",4,47,27,16,"Phoible (ph)",926,0.444837063211622
+"A15_Manenguba","mboc1235","","","Mbo (Ekanang)",2,35,19,14,"Phoible (ph)",1558,0.438923075805369
+"A151_Nkongho","nkon1247","","",NA,NA,NA,NA,NA,NA,NA,0.450381679389313
+"A15A_Mbuu","bafa1247","","","Bafo",4,47,27,16,"Phoible (ph)",926,0.444837063211622
+"A15B_Mienge_NW_Manenguba","bass1260","","","Bassossi",2,34,20,12,"Phoible (ph)",1559,0.379032258064516
+"A15C_Akossi","akoo1248","","","Akoose",2,32,18,12,"Phoible (ph)",1554,0.420667040042493
+"A15C_Elung_Central_Manenguba","akoo1248","","","Akoose",2,32,18,12,"Phoible (ph)",1554,0.420667040042493
+"A15C_Mkaa","baka1273","","","Bakaka (Mwaneka)",2,34,19,13,"Phoible (ph)",1555,0.415847623538826
+"A22_Bakweri","mokp1239","xd138","Ae2","Mokpwe",2,31,22,7,"Phoible (ph)",1626,0.518776771806854
+"A24_Duala","dual1243","xd130","Ae12","Duala",5,33,21,7,"Phoible (aa)",700,0.520806773233958
+"A27_Malimba","mali1280","","",NA,NA,NA,NA,NA,NA,NA,NA
+"A31_Bubi","bubi1250","","",NA,NA,NA,20,7,"Extra",NA,0.504096049738187
+"A32C_Batanga","bata1285","xd168","Ae47","Banoo",3,31,20,8,"Phoible (ph)",1184,0.516339869281046
+"A33a_Yasa","yasa1242","","","Yasa",0,NA,NA,NA,"ANU",2336,0.515320334261838
+"A34_Benga","beng1282","","","Benga",0,NA,NA,NA,"ANU",2103,0.493773165307635
+"A41_Barombi-Kang","baro1252","","",NA,NA,NA,NA,NA,NA,NA,0.420634920634921
+"A42_Abo","bank1256","","","Bankon",4,37,26,7,"Phoible (ph)",1522,0.458715596330275
+"A43a_Basaa","basa1284","","","Basaa",5,41,29,7,"Phoible (aa)",670,0.435759402813666
+"A44_Tunen","tune1261","","","Nen",2,26,17,7,"Phoible (ph)",1265,0.441831852358168
+"A45_Nyokon","nyok1243","","",NA,5,NA,22,7,"Extra",NA,0.465753424657534
+"A46_Nomaande","noma1260","","","Nɔmaa",2,30,14,14,"Phoible (aa)",798,0.476473307476492
+"A462_Yambeta","yamb1252","","","Yambɛta",2,28,18,8,"Phoible (aa)",843,0.409638554216867
+"A51_Bafia_maja","lefa1242","","",NA,NA,NA,NA,NA,NA,NA,0.384381779698386
+"A53_Bafia_rikpa","bafi1243","xd169","Ae48","kpaʔ",5,48,25,18,"Phoible (ph)",1258,0.448281786941581
+"A54_Tibea","tibe1274","","",NA,NA,NA,NA,NA,NA,NA,0.424137931034483
+"A601_Tuki","tuki1240","","","Tuki",4,39,25,10,"Phoible (ph)",1573,0.489389265571234
+"A61_Ngoro-Asom","tuki1240","","","Tuki",4,39,25,10,"Phoible (ph)",1573,0.489389265571234
+"A61_Ngoro-Bisoo","tuki1240","","","Tuki",4,39,25,10,"Phoible (ph)",1573,0.489389265571234
+"A61_Ngoro-lunda","tuki1240","","","Tuki",4,39,25,10,"Phoible (ph)",1573,0.489389265571234
+"A621_Nubaca","nuba1241","","",NA,NA,NA,NA,NA,NA,NA,0.443396226415094
+"A622_Nugunu","nugu1242","","","Nugunu",4,35,24,7,"Phoible (ph)",1629,0.545874656168774
+"A62A_Nuasue","yang1293","","",NA,NA,NA,NA,NA,NA,NA,0.456004563883
+"A62A_Nukalonge","yang1293","","",NA,NA,NA,NA,NA,NA,NA,0.456004563883
+"A62B_Mmala","mmaa1238","","","Numala",2,34,23,9,"Phoible (ph)",1596,0.47402225495009
+"A62C_Libie","elip1238","","","Nulibie",4,30,19,7,"Phoible (ph)",969,0.474747474747475
+"A63_Mangisa","leti1245","","",NA,NA,NA,NA,NA,NA,NA,NA
+"A71_Eton","eton1253","","","Eton",2,38,21,15,"Phoible (ph)",1563,0.403381545883413
+"A72a_Ewondo","ewon1239","","","Ewondo",3,25,15,7,"Phoible (aa)",709,0.416538618689131
+"A74a_Bulu","bulu1251","","","Bulu",5,36,24,7,"Phoible (aa)",684,0.419047619047619
+"A75a_Fang_Bitam","fang1246","xd149","Ae3","Fan",0,41,25,16,"Phoible (ph)",877,0.407947140716897
+"A75a_Fang_Medouneu","fang1246","","","Fan",0,41,25,16,"Phoible (ph)",877,0.407947140716897
+"A75a_Fang_Minvoul","fang1246","","","Fan",0,41,25,16,"Phoible (ph)",877,0.407947140716897
+"A803_Shiwa","maka1304","","","Mekaa",4,55,30,21,"Phoible (aa)",783,0.428046540110227
+"A81_Kwasio","kwas1243","xd163","Ae42","Ngumba",3,NA,NA,NA,"ANU",2263,0.446030584865918
+"A83_Mekaa","maka1304","","","Mekaa",4,55,30,21,"Phoible (aa)",783,0.428046540110227
+"A832_Bekol","kolc1235","","",NA,NA,NA,NA,NA,NA,NA,0.426356589147287
+"A84_Njem","koon1245","","","Kɔɔzime",6,52,22,24,"Phoible (aa)",747,0.449154589371981
+"A841_Badwe","koon1245","","","Kɔɔzime",6,52,22,24,"Phoible (aa)",747,0.449154589371981
+"A85b_Bekwil_Makokou","bekw1242","","",NA,NA,NA,NA,NA,NA,NA,0.427650242955734
+"A85b_Bekwil_Mv","bekw1242","","",NA,NA,NA,NA,NA,NA,NA,0.427650242955734
+"A86c_Mpiemo","mpie1238","","",NA,2,NA,20,7,"Extra",NA,0.479523272374486
+"A87_Bomwali","bomw1238","xd164","Ae43",NA,NA,NA,NA,NA,NA,NA,0.445054945054945
+"A91_Kwakum","kwak1266","","",NA,3,NA,31,7,"Extra",NA,0.423357664233577
+"A93_Kako","kako1242","","","Kako",2,47,33,12,"Phoible (ph)",1581,0.480469965764083
+"Aghem_Grassfields","aghe1239","","","Aghem",2,49,28,19,"Phoible (ph)",1524,0.451908288392692
+"B11a_Mpongwe","myen1241","xd167","Ae46","myene",0,36,29,7,"Phoible (ph)",1263,0.462041283866335
+"B11b_Orungu","myen1241","","","myene",0,36,29,7,"Phoible (ph)",1263,0.462041283866335
+"B11c_Galwa","myen1241","","","myene",0,36,29,7,"Phoible (ph)",1263,0.462041283866335
+"B11d_Dyumba","myen1241","","","myene",0,36,29,7,"Phoible (ph)",1263,0.462041283866335
+"B11F_Enenga","myen1241","","","myene",0,36,29,7,"Phoible (ph)",1263,0.462041283866335
+"B201_Ndasa","ndas1238","","",NA,NA,NA,NA,NA,NA,NA,0.489064622606062
+"B202_Sigu","sigh1238","","",NA,NA,NA,NA,NA,NA,NA,0.471153846153846
+"B203_Samaye","osam1235","","",NA,NA,NA,NA,NA,NA,NA,0.442307692307692
+"B204_Ndambomo_Li","ndam1254","","",NA,NA,NA,NA,NA,NA,NA,NA
+"B204_Ndambomo_Massoukou","ndam1254","","",NA,NA,NA,NA,NA,NA,NA,NA
+"B204_Ndambomo_Mbadi","ndam1254","","",NA,NA,NA,NA,NA,NA,NA,NA
+"B21_Seki","seki1238","","",NA,NA,NA,NA,NA,NA,NA,0.464526315374118
+"B22a_Kele","kele1257","","",NA,NA,NA,NA,NA,NA,NA,0.414492753623188
+"B22b_Koya","ngom1270","","",NA,NA,NA,NA,NA,NA,NA,0.478250297175784
+"B22b_Ngom","ngom1270","","",NA,NA,NA,NA,NA,NA,NA,0.478250297175784
+"B22E_Mwesa","mwes1234","","",NA,NA,NA,NA,NA,NA,NA,NA
+"B23_Mbangwe","mban1268","","",NA,NA,NA,NA,NA,NA,NA,0.486194947462553
+"B24_Wumbvu","wumb1242","","",NA,NA,NA,NA,NA,NA,NA,0.482712842712843
+"B25_Kota","kota1274","xd162","Ae41",NA,NA,NA,NA,NA,NA,NA,0.489004538900216
+"B251_Shake","sake1247","","",NA,NA,NA,NA,NA,NA,NA,0.486353318439764
+"B252_Mahongwe","maho1248","","",NA,NA,NA,NA,NA,NA,NA,0.485730161130406
+"B301_Viya","bubi1250","","",NA,NA,NA,NA,NA,NA,NA,0.504096049738187
+"B302_Himba","simb1254","","",NA,NA,NA,NA,NA,NA,NA,0.500435540069686
+"B304_Pinzi","pinj1243","","",NA,NA,NA,NA,NA,NA,NA,0.491996060304809
+"B305_Vove","bubi1250","","",NA,NA,NA,NA,NA,NA,NA,0.504096049738187
+"B31_Tsogo","tsog1243","xd40","Ac16",NA,NA,NA,NA,NA,NA,NA,0.50657657169202
+"B32_Kande","kand1300","","",NA,2,NA,14,7,"Extra",NA,0.46134900098213
+"B404_Ngubi","ngub1239","","",NA,NA,NA,NA,NA,NA,NA,NA
+"B41_Shira","sira1266","","",NA,NA,NA,NA,NA,NA,NA,0.495599656880145
+"B42_Sangu_Mb","sang1333","","",NA,2,NA,NA,NA,"Extra",NA,0.48036507382282
+"B42_Sangu_Mi","sang1333","","",NA,NA,NA,NA,NA,NA,NA,0.48036507382282
+"B43_Punu","punu1239","","",NA,NA,NA,NA,NA,NA,NA,0.483091613444992
+"B44_Lumbu","lumb1249","","",NA,NA,NA,NA,NA,NA,NA,0.4795641966759
+"B501_Wanzi_E","wand1266","","",NA,2,NA,15,5,"Extra",NA,0.45375478000596
+"B501_Wanzi_Mo","wand1266","","",NA,NA,NA,NA,NA,NA,NA,0.45375478000596
+"B503_Vili","vili1239","","",NA,NA,NA,NA,NA,NA,NA,NA
+"B51_Duma","duma1253","","",NA,NA,NA,NA,NA,NA,NA,0.470115181472929
+"B51_Duma_La","duma1253","","",NA,NA,NA,NA,NA,NA,NA,0.470115181472929
+"B52_Nzebi","njeb1242","","","Nzɛbi",2,34,24,8,"Phoible (ph)",1371,0.45803928594139
+"B53_Tsaangi_Poungi","tsaa1242","","",NA,NA,NA,NA,NA,NA,NA,0.446353371986573
+"B601_Lempini","mber1257","","",NA,NA,NA,NA,NA,NA,NA,0.517773710082157
+"B602_Kaningi_Nord","kani1279","","",NA,NA,NA,NA,NA,NA,NA,0.48383819373214
+"B602_Kaningi_Sud","kani1279","","",NA,NA,NA,NA,NA,NA,NA,0.48383819373214
+"B62_Mbaama","omba1241","","",NA,NA,NA,NA,NA,NA,NA,0.499676091537693
+"B63_Ndumu","ndum1239","","","Ndumu",2,NA,NA,NA,"ANU",775,0.497375088151653
+"B701_Atsitsege","tchi1245","","",NA,NA,NA,NA,NA,NA,NA,0.449404761904762
+"B71a_Teke_Dj","teke1275","","",NA,NA,NA,NA,NA,NA,NA,0.469959720610495
+"B71a_Teke_Os","teke1275","","",NA,NA,NA,NA,NA,NA,NA,0.469959720610495
+"B71aIb_Teke_Ibali_Congo","ibal1241","","",NA,NA,NA,NA,NA,NA,NA,0.407224892368739
+"B71aLe_Teke_Leconi","ibal1241","","",NA,NA,NA,NA,NA,NA,NA,0.407224892368739
+"B77b_Fumu","teke1274","","","Teke_South",0,NA,NA,NA,"ANU",2312,0.43997073078886
+"B78_Wuumu","teke1274","","","Teke_South",0,NA,NA,NA,"ANU",2312,0.43997073078886
+"B81_Tiene","tien1242","","",NA,NA,NA,NA,NA,NA,NA,0.475004887623577
+"B82_Buma","boma1246","","",NA,NA,NA,NA,NA,NA,NA,0.467428644833359
+"B84_Mbunda","mpuo1241","xd46","Ac21",NA,NA,NA,NA,NA,NA,NA,0.376508169821586
+"B85_Yanzi","yans1239","xd51","Ac26","Yanzi",3,42,17,22,"Phoible (ph)",1335,0.377287760781676
+"B85d_Nsongo","song1299","xd50","Ac25",NA,NA,NA,NA,NA,NA,NA,0.35779763041764
+"B85e_Mput",NA,"","",NA,NA,NA,NA,NA,NA,NA,NA
+"B86_Dinga","ding1239","xd47","Ac22",NA,NA,NA,NA,NA,NA,NA,0.3796620259858
+"B86_Dzing","song1299","","",NA,NA,NA,NA,NA,NA,NA,0.35779763041764
+"B861_Ngul","ngul1247","","",NA,NA,NA,NA,NA,NA,NA,0.414388285717739
+"B862_Lwel","lwel1234","","",NA,NA,NA,NA,NA,NA,NA,NA
+"B863_Pindi","song1299","","",NA,NA,NA,NA,NA,NA,NA,0.35779763041764
+"B864_Ngong","ngon1267","","",NA,NA,NA,NA,NA,NA,NA,0.384328821026069
+"B865_Nzadi","nzad1234","","",NA,NA,NA,NA,NA,NA,NA,0.374207276368491
+"Bamun_Grassfields","bamu1253","xd172","Ae50","Shupamem",0,38,28,10,"Phoible (ph)",1009,0.446303736440337
+"Bile_Jarawan","bile1244","","",NA,NA,NA,NA,NA,NA,NA,0.452054794520548
+"Bwazza_Jarawan","mbul1260","","",NA,NA,NA,NA,NA,NA,NA,0.459135316418781
+"C101_Babole_Dz","dibo1245","","","babole",4,31,21,6,"Phoible (ph)",1247,0.542595323734062
+"C101_Babole_Ep","dibo1245","","","babole",4,31,21,6,"Phoible (ph)",1247,0.542595323734062
+"C101_Babole_Ma","dibo1245","","","babole",4,31,21,6,"Phoible (ph)",1247,0.542595323734062
+"C104_Aka","yaka1272","xd923, xd924","B60, B61","Yaka",3,NA,NA,NA,"ANU",2333,0.55
+"C105_Mbenga","yaka1272","","","Yaka",3,NA,NA,NA,"ANU",2333,0.55
+"C141_Bonyala","bong1284","","",NA,NA,NA,NA,NA,NA,NA,0.482992016660882
+"C142_Mondongo","bamw1238","","",NA,NA,NA,NA,NA,NA,NA,0.497132775815086
+"C15_Bongili","bong1284","","",NA,NA,NA,NA,NA,NA,NA,0.482992016660882
+"C21_Ngare","mbok1243","","",NA,NA,NA,NA,NA,NA,NA,NA
+"C22_Akwa","akwa1248","","","Akwa",4,NA,NA,NA,"ANU",2078,0.5
+"C24_Koyo","koyo1242","","",NA,NA,NA,NA,NA,NA,NA,0.488283464566929
+"C25_Mboshi","mbos1242","","",NA,2,NA,18,7,"Extra",NA,0.48275990728998
+"C25A_Bunji","mbos1242","","",NA,NA,NA,NA,NA,NA,NA,0.48275990728998
+"C25B_Olee","mbos1242","","",NA,NA,NA,NA,NA,NA,NA,0.48275990728998
+"C25C_Ondinga","mbos1242","","",NA,NA,NA,NA,NA,NA,NA,0.48275990728998
+"C25E_Eboyi","mbos1242","","",NA,NA,NA,NA,NA,NA,NA,0.48275990728998
+"C302_Bolondo","bolo1263","","",NA,NA,NA,NA,NA,NA,NA,0.501022494887526
+"C32_Bobangi","bang1354","","","Bobangi",2,NA,NA,NA,"ANU",749,0.514633191201478
+"C322_Zamba","zamb1245","","",NA,NA,NA,NA,NA,NA,NA,NA
+"C323_Mpama","mpam1239","","",NA,NA,NA,NA,NA,NA,NA,NA
+"C34_Sakata","saka1287","xd49","Ac24",NA,4,NA,21,13,"Extra",NA,0.507724204301611
+"C36d_Lingala","ling1263","xd147","Ae28","Lingala",0,22,15,7,"Phoible (aa)",768,0.514879010245039
+"C36g_Monyongo","ndol1238","","",NA,NA,NA,NA,NA,NA,NA,0.486641221374046
+"C36g_Mosange","ndol1238","","",NA,NA,NA,NA,NA,NA,NA,0.486641221374046
+"C37_Ebudza","budz1238","xd157","Ae37",NA,NA,NA,NA,NA,NA,NA,0.506211462481573
+"C401_Babati_1919","pagi1243","","","Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete",2,51,42,7,"Phoible (ph)",1070,0.463538668201881
+"C401_Pakabete","pagi1243","","","Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete",2,51,42,7,"Phoible (ph)",1070,0.463538668201881
+"C41_Ngombe","binj1250","xd159","Ae39",NA,NA,NA,NA,NA,NA,NA,NA
+"C412_Libobi","bamw1238","","",NA,NA,NA,NA,NA,NA,NA,0.497132775815086
+"C42_Ebwela","bwel1238","","",NA,NA,NA,NA,NA,NA,NA,0.518987341772152
+"C43A_Baati","bwaa1238","","",NA,NA,NA,NA,NA,NA,NA,0.468789888320073
+"C44_Bwa","bwaa1238","","",NA,NA,NA,NA,NA,NA,NA,0.468789888320073
+"C52_Soko","sode1235","","",NA,NA,NA,NA,NA,NA,NA,0.556451612903226
+"C52_Soko_1919","sode1235","","",NA,NA,NA,NA,NA,NA,NA,0.556451612903226
+"C54_Turumba_1919","lomb1260","","",NA,NA,NA,NA,NA,NA,NA,0.486033519553073
+"C55_Lokele","sode1235","","",NA,NA,NA,NA,NA,NA,NA,0.556451612903226
+"C61_Mongo","mong1338","xd143, xd160","Ae24, Ae4, SCCS14","mongo-nkundu",4,56,45,7,"Phoible (ph)",1277,0.530418531852472
+"C61E_Konda","ekon1238","xd139","Ae20",NA,NA,NA,NA,NA,NA,NA,NA
+"C71_Tetela","tete1250","xd144","Ae25","Tetela",4,NA,NA,NA,"ANU",2313,0.491666666666667
+"C76_Ombo","ombo1238","","","Ombo",4,NA,NA,NA,"ANU",2275,0.476439790575916
+"C81_Dengese","deng1250","","",NA,NA,NA,NA,NA,NA,NA,0.508064516129032
+"C83_Bushong","bush1247","xd66","Ac4","Bushong",4,NA,NA,NA,"ANU",750,0.406484132377576
+"C85_Wongo","wong1247","","","Wongo",2,24,15,7,"Phoible (ph)",1340,0.420963640986524
+"D11_Mbole","mbol1247","","",NA,NA,NA,NA,NA,NA,NA,0.526055471412344
+"D12_Lengola","leng1258","","","Lengola",3,32,24,5,"Phoible (ph)",1338,0.550747442958301
+"D13_Metoko","mitu1240","","",NA,NA,NA,NA,NA,NA,NA,0.52991452991453
+"D14_Enya","enya1247","","",NA,NA,NA,NA,NA,NA,NA,0.492016387779226
+"D201_Liko","lika1243","","","Lika",3,45,33,9,"Phoible (ph)",1334,0.484276729559748
+"D20B_Vamba_1919","amba1263","","",NA,NA,NA,NA,NA,NA,NA,NA
+"D21_Baali","bali1274","xd153","Ae33",NA,NA,NA,NA,NA,NA,NA,NA
+"D211_Kango","kang1285","xd5","Aa5, B65, SCCS13",NA,NA,NA,NA,NA,NA,NA,NA
+"D23_Kibira-Kumu_1919","komo1260","xd152","Ae32","Komo",4,35,24,7,"Phoible (aa)",751,0.517537471483712
+"D24_Songola","song1300","xd129","Ae11",NA,NA,NA,NA,NA,NA,NA,0.499985526125344
+"D25_Lega","lega1250","","",NA,NA,NA,NA,NA,NA,NA,0.492424242424242
+"D28_Holoholo","holo1240","","","Holoholo",2,26,17,7,"Phoible (ph)",1389,0.490855264940484
+"D301_Kare","kari1306","","",NA,NA,NA,NA,NA,NA,NA,0.510204081632653
+"D304_Homa_1919","homa1239","","",NA,NA,NA,NA,NA,NA,NA,NA
+"D305_Nyanga-li","nyan1303","","",NA,NA,NA,NA,NA,NA,NA,NA
+"D308_Bodo2","bodo1272","","",NA,NA,NA,NA,NA,NA,NA,0.478438228438228
+"D308_Ebodo","bodo1272","","",NA,NA,NA,NA,NA,NA,NA,0.478438228438228
+"D311_Bila","bila1255","xd150","Ae30","bila",5,33,19,9,"Phoible (ph)",1251,0.563492063492063
+"D313_Mbuttu_1919","budu1250","","","Kibudu",3,43,31,9,"Phoible (ph)",1336,0.495540691192865
+"D32_Bira","bera1259","xd154","Ae34",NA,NA,NA,NA,NA,NA,NA,0.50757619238937
+"D32_Bira_Bunia","bera1259","","",NA,NA,NA,NA,NA,NA,NA,0.50757619238937
+"D33_Nyali","nyal1250","","",NA,NA,NA,NA,NA,NA,NA,0.501824817518248
+"D331_Bvanuma","vanu1242","","",NA,NA,NA,NA,NA,NA,NA,NA
+"D333_Ndaaka","ndak1241","","",NA,NA,NA,NA,NA,NA,NA,0.553846153846154
+"D334_Mbo","mbod1238","","",NA,NA,NA,NA,NA,NA,NA,NA
+"D43_Nyanga","nyan1304","","",NA,4,NA,16,7,"Extra",NA,0.504065040650406
+"D55_Buyu","buyu1239","xd57","Ac31",NA,NA,NA,NA,NA,NA,NA,0.464912280701754
+"Duguri_Jarawan","dugu1249","","",NA,NA,NA,NA,NA,NA,NA,0.388888888888889
+"E46_Sonjo","temi1247","xd108","Ad39",NA,NA,NA,NA,NA,NA,NA,NA
+"E51_Kikuyu","kiku1240","xd109","Ad4, SCCS11","Kikuyu",0,32,18,14,"Phoible (aa)",748,0.526832426832427
+"E52_Embu","embu1241","","",NA,NA,NA,NA,NA,NA,NA,0.495626822157434
+"E52_Mbeere","embu1241","","",NA,NA,NA,NA,NA,NA,NA,0.495626822157434
+"E53_Igoji","meru1245","","","Kimeru",0,27,17,10,"Phoible (ph)",1641,0.499460625674218
+"E53_Imenti","meru1245","","","Kimeru",0,27,17,10,"Phoible (ph)",1641,0.499460625674218
+"E53_Meru","meru1245","xd104","Ad35","Kimeru",0,27,17,10,"Phoible (ph)",1641,0.499460625674218
+"E53_Meruimenti","meru1245","","","Kimeru",0,27,17,10,"Phoible (ph)",1641,0.499460625674218
+"E53_Merutig","meru1245","","","Kimeru",0,27,17,10,"Phoible (ph)",1641,0.499460625674218
+"E53_Miutini","meru1245","","","Kimeru",0,27,17,10,"Phoible (ph)",1641,0.499460625674218
+"E53_Tigania","meru1245","","","Kimeru",0,27,17,10,"Phoible (ph)",1641,0.499460625674218
+"E531_Muthambi","mwim1241","","",NA,NA,NA,NA,NA,NA,NA,0.560606060606061
+"E531_Mwimbi","mwim1241","","",NA,NA,NA,NA,NA,NA,NA,0.560606060606061
+"E54_Tharaka","thar1283","","","Tharaka",0,NA,NA,NA,"ANU",2314,0.520711340206186
+"E541_Chuka","chuk1274","","",NA,NA,NA,NA,NA,NA,NA,0.477053990610329
+"E55_Kamba","kamb1297","xd103","Ad34","Kikamba",4,31,13,14,"Phoible (ph)",1443,0.522655638864504
+"E55_Kamba_Kitu","kamb1297","","","Kikamba",4,31,13,14,"Phoible (ph)",1443,0.522655638864504
+"E55_Kamba_Mach","kamb1297","","","Kikamba",4,31,13,14,"Phoible (ph)",1443,0.522655638864504
+"E56_Daiso","dhai1238","","",NA,NA,NA,NA,NA,NA,NA,0.536912751677852
+"E621B_Machame","mach1266","","","machame",3,46,33,10,"Phoible (ph)",1283,0.492677815863893
+"E621C_Siha","mach1266","","","machame",3,46,33,10,"Phoible (ph)",1283,0.492677815863893
+"E621D_Kibosho","mach1266","","","machame",3,46,33,10,"Phoible (ph)",1283,0.492677815863893
+"E622A_Kimochi","moch1256","xd98","Ad3","Kimochi",0,25,20,5,"Phoible (ph)",1644,0.488950276243094
+"E622C_Lema","vunj1238","","",NA,8,NA,35,5,"Extra",NA,0.497848620090584
+"E622C_Mamba","vunj1238","","",NA,NA,NA,NA,NA,NA,NA,0.497848620090584
+"E622C_Vunjo","vunj1238","","",NA,NA,NA,NA,NA,NA,NA,0.497848620090584
+"E623_Mkuu","romb1244","","",NA,NA,NA,NA,NA,NA,NA,0.495854715595364
+"E623A_Kiseri","romb1244","","",NA,NA,NA,NA,NA,NA,NA,0.495854715595364
+"E623D_Keni","romb1244","","",NA,NA,NA,NA,NA,NA,NA,0.495854715595364
+"E64_Kahe","kahe1238","","","Kikahe",0,32,22,10,"Phoible (ph)",1642,0.455882352941176
+"E65_Gweno","gwen1239","","","Kigweno",0,29,24,5,"Phoible (ph)",1638,0.504203323558162
+"E701_Elwana","ilwa1237","","",NA,NA,NA,NA,NA,NA,NA,0.501463811330984
+"E71A_Upper_Pokomo","poko1261","xd102","Ad33",NA,0,NA,32,5,"Extra",NA,0.499275821747256
+"E72a_Giryama","giry1241","xd101","Ad32","Giryama",2,47,40,5,"Phoible (ph)",1589,0.508108134178431
+"E73_Digo","digo1243","xd99","Ad30","Digo",2,48,41,5,"Phoible (ph)",1587,0.509738614993698
+"E74a_Dawida","tave1240","","",NA,NA,NA,NA,NA,NA,NA,0.4799515513145
+"E74a_Tuveta","tave1240","","",NA,NA,NA,NA,NA,NA,NA,0.4799515513145
+"F12_Bende","bend1258","xd85","Ad18",NA,NA,NA,NA,NA,NA,NA,0.48203326873385
+"F21_Ntuzu","suku1261","","","Sukuma",5,57,38,14,"Phoible (ph)",1568,0.482613162874282
+"F21_Sukuma","suku1261","xd90","Ad22","Sukuma",5,57,38,14,"Phoible (ph)",1568,0.482613162874282
+"F22_Nyamwezi","nyam1276","","","Kinyamwezi",3,53,36,14,"Phoible (ph)",970,0.507292162391612
+"F23_Sumbwa","sumb1240","xd117","Ad47","Sisumbwa",2,32,20,10,"Phoible (ph)",1639,0.456788909710825
+"F24_Kimbu","kimb1242","","",NA,NA,NA,NA,NA,NA,NA,0.489130299290727
+"F25_Bungu","bung1265","","",NA,NA,NA,NA,NA,NA,NA,0.484314068284657
+"F31_Nyiramba","nila1242","","",NA,NA,NA,NA,NA,NA,NA,0.540098514584776
+"F32_Nyaturucha","nyat1246","","","Nyaturu_Rimi",2,NA,NA,NA,"ANU",2280,0.49001369001369
+"F32_Nyaturuwil","nyat1246","xd94","Ad26","Nyaturu_Rimi",2,NA,NA,NA,"ANU",2280,0.49001369001369
+"F33_Langi","lang1320","xd93","Ad25","Langi",0,52,32,20,"Phoible (ph)",923,0.50210945740068
+"Fefe_Grassfields","fefe1239","xd171","Ae5","Fe'efe'fe",5,44,23,16,"Phoible (aa)",710,0.418658280922432
+"G11_Gogo","gogo1263","xd92","Ad24",NA,NA,NA,NA,NA,NA,NA,0.452830188679245
+"G12_Kagulu","kagu1239","xd121","Ad50","Kagulu",0,31,26,5,"Phoible (ph)",1381,0.495624835106851
+"G22_Asu","asut1235","xd105","Ad36","Pare",0,NA,NA,NA,"ANU",779,0.504911971789773
+"G22A_North_Pare","asut1235","","","Pare",0,NA,NA,NA,"ANU",779,0.504911971789773
+"G22B_South_Pare","asut1235","","","Pare",0,NA,NA,NA,"ANU",779,0.504911971789773
+"G23_Sambaa","asut1235","","","Pare",0,NA,NA,NA,"ANU",779,0.504911971789773
+"G24_Bondei","bond1247","","","Bondei",0,NA,NA,NA,"ANU",2109,0.51756987868099
+"G31_Zigua","zigu1242","xd96","Ad28",NA,2,NA,22,5,"Extra",NA,NA
+"G32_Doe","kwer1261","","",NA,NA,NA,NA,NA,NA,NA,0.501980991640902
+"G32_Kwere","kwer1261","xd95","Ad27",NA,NA,NA,NA,NA,NA,NA,0.501980991640902
+"G33_Zaramo","zara1247","","",NA,NA,NA,NA,NA,NA,NA,0.469514541756006
+"G34_Nguungulu","ngul1246","xd122","Ad51",NA,NA,NA,NA,NA,NA,NA,0.480447039871124
+"G35_Luguru","lugu1238","xd81","Ad14, SCCS10",NA,0,NA,NA,NA,"Extra",NA,0.457025761124122
+"G36_Kami","kami1256","","",NA,NA,NA,NA,NA,NA,NA,0.451603549266369
+"G37_Kutu","kutu1263","","",NA,NA,NA,NA,NA,NA,NA,0.476386451386451
+"G39_Saghala","saga1256","","",NA,0,NA,24,5,"Extra",NA,0.459183673469388
+"G401_Mwani","mwan1247","","","Kimwani",0,26,21,5,"Phoible (ph)",1448,0.481147655937054
+"G41_Bajuni","swah1253","","","Swahili",0,37,32,5,"Phoible (aa)",823,0.51039048934207
+"G412_Mwiini","chim1312","","",NA,NA,NA,NA,NA,NA,NA,NA
+"G42_Swahili","swah1253","","","Swahili",0,37,32,5,"Phoible (aa)",823,0.51039048934207
+"G42a_Amu","swah1253","","","Swahili",0,37,32,5,"Phoible (aa)",823,0.51039048934207
+"G42d_Unguja","swah1253","","","Swahili",0,37,32,5,"Phoible (aa)",823,0.51039048934207
+"G43_Kae","swah1253","","","Swahili",0,37,32,5,"Phoible (aa)",823,0.51039048934207
+"G44a_Ngazija","ngaz1238","","","Shindazidja",2,48,41,5,"Phoible (ph)",1531,0.504201680672269
+"G44b_Ndzwani","ndzw1235","","","Comorian, Ndzwani",2,39,32,5,"Phoible (ph)",1547,0.5
+"G44D_Maore","maor1244","","",NA,NA,NA,NA,NA,NA,NA,0.525163983303518
+"G51_Pogoro","pogo1243","","",NA,NA,NA,NA,NA,NA,NA,0.473221612749968
+"G52_Ndamba","ndam1239","","","Ndamba",0,24,19,5,"Phoible (ph)",1611,0.46800782388216
+"G61_Sangu","sang1330","xd91","Ad23",NA,NA,NA,NA,NA,NA,NA,0.480295566502463
+"G62_Hehe","hehe1240","xd125","Ad8",NA,NA,NA,NA,NA,NA,NA,0.496770025839793
+"G63_Bena","bena1262","xd78","Ad11","Bena",2,34,22,10,"Phoible (ph)",1513,0.469311475409836
+"G64_Pangwa","pang1287","","","Pangwa",0,35,23,12,"Phoible (ph)",1388,0.480488175893097
+"G65_Kinga","nucl1379","","",NA,NA,NA,NA,NA,NA,NA,0.469387755102041
+"G66_Wanji","vwan1235","","",NA,NA,NA,NA,NA,NA,NA,0.494623655913978
+"H11_Beembe","beem1239","","","BEEMBE",0,26,16,10,"Phoible (upsid)",251,0.512942879705186
+"H111_Hangala","laar1238","","",NA,NA,NA,NA,NA,NA,NA,0.489384522616921
+"H12_Civili_Congo","vili1238","","",NA,NA,NA,10,NA,"Extra",NA,0.465219421101774
+"H13_Kikunyi_1989","kuny1238","","","Nyanga",4,55,44,7,"Phoible (ph)",1365,0.456375838926175
+"H131_Kisundi_Congo_Kimongo_1988","suun1239","xd42","Ac18","Ngazidja",5,NA,NA,NA,"ANU",2201,0.445512820512821
+"H16_Cilinji","yomb1244","","","Yombe",4,NA,NA,NA,"ANU",2338,0.462021869986902
+"H16_Cimbala","sans1272","","",NA,NA,NA,NA,NA,NA,NA,0.493111618111618
+"H16_Cizobe","yomb1244","","","Yombe",4,NA,NA,NA,"ANU",2338,0.462021869986902
+"H16_Kikongo","koon1244","","","Kongo",2,NA,NA,NA,"ANU",760,0.46782601788391
+"H16_Kimbata_Ngidinga","east2782","","",NA,NA,NA,NA,NA,NA,NA,NA
+"H16_Kimbeko","east2782","","",NA,NA,NA,NA,NA,NA,NA,NA
+"H16a_Kisikongo_2013","sans1272","xd38","Ac14",NA,NA,NA,NA,NA,NA,NA,0.493111618111618
+"H16a_Kisolongo_DRC_2012","sans1272","","",NA,NA,NA,NA,NA,NA,NA,0.493111618111618
+"H16b_Kindibu_2013","koon1244","","","Kongo",2,NA,NA,NA,"ANU",760,0.46782601788391
+"H16c_Kiyombe_DRC_1982","yomb1244","","","Yombe",4,NA,NA,NA,"ANU",2338,0.462021869986902
+"H16c_Yombe","yomb1244","xd74","Ac8","Yombe",4,NA,NA,NA,"ANU",2338,0.462021869986902
+"H16d_Ciwoyo_DRC_2012","yomb1244","","","Yombe",4,NA,NA,NA,"ANU",2338,0.462021869986902
+"H16f_Laadi","laar1238","","",NA,NA,NA,NA,NA,NA,NA,0.489384522616921
+"H16g_Kimpangu_2012","east2782","","",NA,NA,NA,NA,NA,NA,NA,NA
+"H16g_Ntandu","east2782","","",NA,NA,NA,NA,NA,NA,NA,NA
+"H16h_Kinkanu_2012","east2782","","",NA,NA,NA,NA,NA,NA,NA,NA
+"H21a_Kimbundu","kimb1241","","","KiMbundu",0,NA,NA,NA,"ANU",2239,0.51108162946777
+"H31_Yaka","yaka1269","xd45","Ac20",NA,NA,NA,NA,NA,NA,NA,0.505010513835687
+"H32_Suku","suku1259","xd41","Ac17, SCCS6",NA,NA,NA,NA,NA,NA,NA,0.450189933523267
+"H321_Soonde","sond1250","xd54","Ac29",NA,NA,NA,NA,NA,NA,NA,0.465763792689925
+"H41_Mbala","mbal1257","xd39","Ac15",NA,NA,NA,NA,NA,NA,NA,0.457451641417762
+"H42_Hunganna","hung1278","","","Kihungan",3,33,20,10,"Phoible (ph)",1114,0.426775592902205
+"JD53_Shi","shii1238","xd131","Ae13",NA,NA,NA,NA,NA,NA,NA,0.505289803777061
+"JD62_Rundi","rund1242","xd184","Ae8","Rundi",2,29,22,5,"Phoible (ph)",989,0.490260466602748
+"JD64_Shubi","shub1238","","",NA,NA,NA,NA,NA,NA,NA,NA
+"JD65_Hangaza","hang1260","","","Kihangaza",2,35,23,10,"Phoible (ph)",1643,0.5
+"JD66_Kiha","haaa1252","xd132","Ae14",NA,2,NA,23,5,"Extra",NA,0.512334479246244
+"JD67_Kivinza","vinz1238","","",NA,NA,NA,NA,NA,NA,NA,0.472878055010137
+"JE11_Runyoro","nyor1246","xd87","Ad2",NA,NA,NA,NA,NA,NA,NA,0.522281639928699
+"JE12_Rutooro","toor1238","xd118","Ad48",NA,NA,NA,NA,NA,NA,NA,0.520108428727946
+"JE13_Runyankore","nyan1307","","","Runyankore",0,28,20,8,"Phoible (ph)",990,0.497817600568688
+"JE14_Rukiga","chig1238","","","Nkore-Kiga",2,NA,NA,NA,"ANU",776,0.522574369781957
+"JE15_Luganda","gand1255","xd124","Ad7, SCCS12","Luganda",4,33,19,10,"Phoible (aa)",770,0.462109404817924
+"JE16_Lusoga","soga1242","xd116","Ad46",NA,NA,NA,NA,NA,NA,NA,0.480341178617041
+"JE17_Gwere","gwer1238","","","Gwere",3,NA,NA,NA,"ANU",2170,0.493268466011796
+"JE21_Runyambo","nyam1277","","","Kinyambo",3,33,20,10,"Phoible (ph)",1392,0.508522727272727
+"JE22_Haya","haya1250","xd112","Ad42","Haya",0,29,19,10,"Phoible (ph)",884,0.508868088694361
+"JE23_Zinza","zinz1238","xd119","Ad49","Luzinza",0,30,20,10,"Phoible (ph)",1640,0.478842488303587
+"JE24_Kerebe","kere1283","xd113","Ad43",NA,NA,NA,NA,NA,NA,NA,0.496340614284163
+"JE25_Jita","jita1239","","","Jita",2,29,17,10,"Phoible (ph)",1439,0.488813945436462
+"JE25_Kilegi","jita1239","","","Jita",2,29,17,10,"Phoible (ph)",1439,0.488813945436462
+"JE25_Mkwaya","jita1239","","","Jita",2,29,17,10,"Phoible (ph)",1439,0.488813945436462
+"JE31_Lumasaaba","masa1299","xd126","Ad9","Orusyan",0,63,51,12,"Phoible (ph)",1367,0.504561483067438
+"JE31c_Bukusu","buku1249","xd111","Ad41","Bukusu",0,30,20,10,"Phoible (ph)",1201,0.483031674208145
+"JE32_Luyia","saam1283","","","Lusaamia",4,34,20,10,"Phoible (ph)",1489,0.45679012345679
+"JE34_Samialugwe","saam1283","","","Lusaamia",4,34,20,10,"Phoible (ph)",1489,0.45679012345679
+"JE401_Ngoreme","ngur1263","","",NA,NA,NA,NA,NA,NA,NA,0.467213114754098
+"JE402_Ikizu","ikiz1238","","",NA,NA,NA,NA,NA,NA,NA,0.485683738693927
+"JE403_Suba","suba1238","","",NA,NA,NA,NA,NA,NA,NA,0.488439306358382
+"JE404_Shasi","ikiz1238","","",NA,NA,NA,NA,NA,NA,NA,0.485683738693927
+"JE41_Maragoli","logo1258","","",NA,NA,NA,NA,NA,NA,NA,0.494538815396943
+"JE42_Gusii","gusi1247","xd79","Ad12","Gusii",5,NA,NA,NA,"ANU",2168,0.517728041839717
+"JE43_Kuria","kuri1259","","","Kuria",0,22,15,7,"Phoible (aa)",758,0.490337985076151
+"JE43_Kuria_Mago","kuri1259","","","Kuria",0,22,15,7,"Phoible (aa)",758,0.490337985076151
+"JE43_Kuria_Tari","kuri1259","","","Kuria",0,22,15,7,"Phoible (aa)",758,0.490337985076151
+"JE44_Zanaki","zana1238","","",NA,NA,NA,NA,NA,NA,NA,0.489971346704871
+"JE45_Nata","ikom1245","","",NA,2,NA,18,7,"Extra",NA,0.484567901234568
+"K11_Ciokwe","chok1245","xd36","Ac12","Chokwe",4,NA,NA,NA,"ANU",2119,0.473695054945055
+"K14_Lwena","luva1239","xd35","Ac11","Luvale",4,36,22,10,"Phoible (spa)",146,0.461720492422247
+"K15_Mbunda","mbun1249","","",NA,NA,NA,NA,NA,NA,NA,0.471068222172524
+"K21_Lozi","lozi1239","xd26","Ab3, SCCS4","Lozi",0,NA,NA,NA,"ANU",764,0.484756756756757
+"K31_Luyana","luya1241","","","Louyi",0,22,17,5,"Phoible (ph)",890,0.511083096659525
+"K33_Kwangali","kwan1273","","","kwangari",0,27,22,5,"Phoible (ph)",1272,0.475959256974753
+"K332_Rumanyo","diri1252","","","diriku",0,28,23,5,"Phoible (ph)",1271,0.46258445945946
+"Kom_Grassfields","komc1235","xd176","Ae54","Kom",7,75,59,9,"Phoible (aa)",750,0.41581069169811
+"Kulung_Jarawan","kulu1255","","",NA,NA,NA,NA,NA,NA,NA,0.477272727272727
+"L11_Pende","phen1239","xd44","Ac2",NA,NA,NA,NA,NA,NA,NA,0.459331471774523
+"L12b_Holu","holu1245","","",NA,NA,NA,NA,NA,NA,NA,0.483954628362973
+"L13_Kwese","kwes1244","","","kwezo",3,25,16,6,"Phoible (ph)",1291,0.48409718698912
+"L221_Lwalwa","lwal1238","","",NA,NA,NA,NA,NA,NA,NA,0.50139284020863
+"L23_Songe","song1303","xd136","Ae18",NA,NA,NA,NA,NA,NA,NA,0.50370110894008
+"L31a_Luba-Kasai","luba1250","xd182","Ae6","Kiluba",2,NA,NA,NA,"ANU",758,0.502385222381636
+"L32_Kanyok","kany1247","","",NA,NA,NA,NA,NA,NA,NA,0.377495179774048
+"L33_Luba-Shaba","luba1250","","","Kiluba",2,NA,NA,NA,"ANU",758,0.502385222381636
+"L34_Hemba","kaon1241","","",NA,NA,NA,NA,NA,NA,NA,0.492451473759885
+"L35_Sanga","sang1331","xd137","Ae19",NA,NA,NA,NA,NA,NA,NA,0.461538461538462
+"L41_Kaonde","kaon1241","xd58","Ac32",NA,NA,NA,NA,NA,NA,NA,0.492451473759885
+"L51_Salampasu","sala1268","","",NA,NA,NA,NA,NA,NA,NA,0.372093023255814
+"L52_Lunda","lund1266","xd72","Ac6","Lunda",0,32,22,10,"Phoible (ph)",927,0.483124353180454
+"L53_Runda","ruun1238","","",NA,NA,NA,NA,NA,NA,NA,0.358095238095238
+"L62_Nkoya","nkoy1244","","",NA,NA,NA,NA,NA,NA,NA,0.490416112274908
+"M11_Pimbwe","pimb1238","xd89","Ad21",NA,NA,NA,NA,NA,NA,NA,0.481792717086835
+"M12_Lungwa","rung1255","","",NA,NA,NA,NA,NA,NA,NA,0.495967594655602
+"M13_Fipa","fipa1238","xd86","Ad19","Fipa",1,35,20,14,"Phoible (ph)",1659,0.487465181058496
+"M14_Rungu","mamb1296","","","cilungu",7,36,19,10,"Phoible (ph)",1289,0.463244662148819
+"M15_Mambwe","mamb1296","","","cilungu",7,36,19,10,"Phoible (ph)",1289,0.463244662148819
+"M21_Ndali","ndal1241","","","Chindali",4,31,17,10,"Phoible (ph)",1471,0.475420436650445
+"M21_Wanda","wand1264","","",NA,NA,NA,NA,NA,NA,NA,0.473417721518987
+"M22_Namwanga","nyih1240","","",NA,NA,NA,NA,NA,NA,NA,0.501777154927289
+"M23_Nyiha","nyih1240","","",NA,NA,NA,NA,NA,NA,NA,0.501777154927289
+"M24_Malila","mali1279","","",NA,NA,NA,NA,NA,NA,NA,0.489913544668588
+"M25_Safwa","safw1238","xd84","Ad17",NA,1,NA,NA,NA,"Extra",NA,0.48936170212766
+"M28_Lambya","lamb1272","","",NA,NA,NA,NA,NA,NA,NA,0.468134374783991
+"M31_Nyakyusa","nyak1260","xd123, xd83","Ad6, SCCS8, Ad16","Nyakyusa",0,NA,NA,NA,"ANU",2266,0.475818162314701
+"M41_Taabwa","shil1264","xd61","Ac35",NA,NA,NA,NA,NA,NA,NA,NA
+"M42_Bemba","bemb1257","xd55, xd60","Ac3, SCCS7, Ac34","Bemba",0,25,15,10,"Phoible (ph)",1188,0.481151945475391
+"M52_Lala","lala1264","xd59","Ac33",NA,NA,NA,NA,NA,NA,NA,0.45985401459854
+"M54_Lamba","lamb1271","xd71","Ac5","Lamba",3,NA,NA,NA,"ANU",762,0.468700265251989
+"M61_Lenje","lenj1248","","","Lenje",0,NA,NA,NA,"ANU",2216,0.430656934306569
+"M62_Soli","soli1239","","",NA,NA,NA,NA,NA,NA,NA,0.423357664233577
+"M64_Tonga","tong1321","xd37","Ac13",NA,NA,NA,NA,NA,NA,NA,NA
+"Mbula_Jarawan","mbul1260","","",NA,NA,NA,NA,NA,NA,NA,0.459135316418781
+"Moghamo_Grassfields","meta1238","xd181","Ae59","Metta",5,33,20,8,"Phoible (aa)",785,NA
+"Mungaka_Grassfields","mung1266","xd170","Ae49","Mungaka",3,33,21,9,"Phoible (ph)",946,0.417153756062851
+"N11_Manda","mand1423","xd65","Ac39",NA,NA,NA,NA,NA,NA,NA,0.472584856396867
+"N12_Ngoni","ngon1269","xd75","Ac9",NA,2,NA,NA,NA,"Extra",NA,NA
+"N13_Matengo","mate1258","","",NA,NA,NA,NA,NA,NA,NA,0.482804054054054
+"N14_Mpoto","mpot1240","","",NA,NA,NA,NA,NA,NA,NA,0.480509745127436
+"N21_Tumbuka_Malawi","tumb1250","xd62","Ac36",NA,0,NA,21,5,"Extra",NA,0.436888454011742
+"N31_Chewa","nyan1308","xd34, xd64","Ac10, Ac38","ChiNyanja",2,NA,NA,NA,"ANU",751,0.47029133649641
+"N42_Kunda","kund1255","xd63","Ac37",NA,NA,NA,NA,NA,NA,NA,0.443037974683544
+"Njen_Grassfields","njen1238","","",NA,NA,NA,NA,NA,NA,NA,0.368421052631579
+"Oku_Grassfields","okuu1243","","","Oku",4,29,18,7,"Phoible (ph)",975,0.450327134986226
+"P11_Ndengeleko","nden1248","","",NA,NA,NA,NA,NA,NA,NA,0.483181037876998
+"P12_Rufiji","rufi1234","","",NA,NA,NA,NA,NA,NA,NA,NA
+"P13_Matumbi","matu1259","","","matuumbi",3,23,15,5,"Phoible (ph)",1266,0.478274086259924
+"P14_Ngindo","ngin1244","","",NA,NA,NA,NA,NA,NA,NA,0.455919395465995
+"P15_Mbunga","mbun1248","","",NA,NA,NA,NA,NA,NA,NA,0.452153110047847
+"P21_Yao","yaoo1241","xd73","Ac7","yao",4,29,18,7,"Phoible (ph)",1267,0.483167653023058
+"P22_Mwera","mwer1247","","",NA,NA,NA,NA,NA,NA,NA,NA
+"P23_Simakonde","mako1251","xd68","Ac41","Shimakonde",5,28,18,5,"Phoible (ph)",1007,0.494018769096464
+"P25_Mabia","mako1251","","","Shimakonde",5,28,18,5,"Phoible (ph)",1007,0.494018769096464
+"P31_Emakhua","makh1264","xd69","Ac42","Makua",2,NA,NA,NA,"ANU",768,0.486259338084134
+"P31G_Ikorovere","makh1261","","",NA,NA,NA,NA,NA,NA,NA,0.491978609625668
+"R11_Umbundu","umbu1257","xd28","Ab5, SCCS5","umbundu",0,30,20,10,"Phoible (ph)",1268,0.49012847156622
+"R21_Kwanyama","kuan1247","","","Kwanyama",2,33,26,5,"Phoible (ph)",1501,0.517543859649123
+"R22_Ndonga","shon1251","","","Shona",0,42,37,5,"Phoible (ph)",1008,0.478105478000045
+"R31_Herero","here1253","xd10","Ab1","herero",2,26,19,5,"Phoible (ph)",1255,0.517576955323991
+"S11_Shona","shon1251","xd19","Ab18","Shona",0,42,37,5,"Phoible (ph)",1008,0.478105478000045
+"S16_Kalanga","here1253","","","herero",2,26,19,5,"Phoible (ph)",1255,0.517576955323991
+"S21_Venda","vend1245","xd29","Ab6","Venda",2,NA,NA,NA,"ANU",792,0.458681765389082
+"S31_Tswana","tswa1253","xd14","Ab13","Tswana",2,NA,NA,NA,"ANU",2320,0.458971004799748
+"S311_Shekgalagari","kgal1244","","","Shekgalagari",2,53,43,8,"Phoible (ph)",1449,0.479166666666667
+"S41_Xhosa","xhos1239","xd12, xd24, xd11","Ab11, Ab21b, Ab10","Xhosa",2,84,75,7,"Phoible (ph)",1319,0.441826464247099
+"S42_Zulu","zulu1248","xd13","Ab12","ZULU",0,37,32,5,"Phoible (upsid)",647,0.475912835409125
+"S44_Ndebele","nort2795","xd32","Ab9","Ndebele",2,68,61,5,"Phoible (ph)",1491,0.442710919706209
+"S51_Tshwa","tswa1255","","","Tswa",2,NA,NA,NA,"ANU",2319,0.447552447552448
+"S53_Tsonga","tson1249","xd27","Ab4, SCCS3","Tsonga",2,NA,NA,NA,"ANU",2318,0.445259336288837
+"Tiv_Tivoid","tivv1240","xd320","Ah3, SCCS16","Tiv",3,40,31,6,"Phoible (ph)",1331,0.479502478122074
+"Zaambo_Jarawan","mbul1260","","",NA,NA,NA,NA,NA,NA,NA,0.459135316418781

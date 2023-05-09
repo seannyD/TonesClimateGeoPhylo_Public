@@ -1,0 +1,332 @@
+4
+2
+LoadModels ../../results/BayesTraitsOutput/AncestralStateReconstruction/Anc_CONSRAW_continuous_models.bin
+LogFile ../../results/BayesTraitsOutput/AncestralStateReconstruction/Anc_CONSRAW_continuous_est
+Burnin 1000000
+Iterations 2000000
+PriorAll gamma 6.85 0.286
+Seed 1093
+
+
+AddTag N162 Tiv_Tivoid Aghem_Grassfields Kom_Grassfields Oku_Grassfields Moghamo_Grassfields Fefe_Grassfields Mungaka_Grassfields Bamun_Grassfields A53_Bafia_rikpa A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie A43a_Basaa A42_Abo A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu A24_Duala A32C_Batanga A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba A91_Kwakum A93_Kako A803_Shiwa A83_Mekaa A84_Njem A841_Badwe A86c_Mpiemo B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga C85_Wongo C36d_Lingala C101_Babole_Ma C101_Babole_Dz C101_Babole_Ep C25_Mboshi D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete H42_Hunganna H11_Beembe H13_Kikunyi_1989 C34_Sakata B85_Yanzi B501_Wanzi_E B52_Nzebi L13_Kwese K31_Luyana L52_Lunda K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga D28_Holoholo D43_Nyanga M42_Bemba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A162 N162
+AddTag N163 Tiv_Tivoid Aghem_Grassfields Kom_Grassfields Oku_Grassfields Moghamo_Grassfields Fefe_Grassfields Mungaka_Grassfields Bamun_Grassfields
+AddMRCA A163 N163
+AddTag N164 Aghem_Grassfields Kom_Grassfields Oku_Grassfields Moghamo_Grassfields Fefe_Grassfields Mungaka_Grassfields Bamun_Grassfields
+AddMRCA A164 N164
+AddTag N165 Aghem_Grassfields Kom_Grassfields Oku_Grassfields
+AddMRCA A165 N165
+AddTag N166 Kom_Grassfields Oku_Grassfields
+AddMRCA A166 N166
+AddTag N167 Moghamo_Grassfields Fefe_Grassfields Mungaka_Grassfields Bamun_Grassfields
+AddMRCA A167 N167
+AddTag N168 Fefe_Grassfields Mungaka_Grassfields Bamun_Grassfields
+AddMRCA A168 N168
+AddTag N169 Mungaka_Grassfields Bamun_Grassfields
+AddMRCA A169 N169
+AddTag N170 A53_Bafia_rikpa A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie A43a_Basaa A42_Abo A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu A24_Duala A32C_Batanga A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba A91_Kwakum A93_Kako A803_Shiwa A83_Mekaa A84_Njem A841_Badwe A86c_Mpiemo B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga C85_Wongo C36d_Lingala C101_Babole_Ma C101_Babole_Dz C101_Babole_Ep C25_Mboshi D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete H42_Hunganna H11_Beembe H13_Kikunyi_1989 C34_Sakata B85_Yanzi B501_Wanzi_E B52_Nzebi L13_Kwese K31_Luyana L52_Lunda K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga D28_Holoholo D43_Nyanga M42_Bemba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A170 N170
+AddTag N171 A53_Bafia_rikpa A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie A43a_Basaa A42_Abo A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu A24_Duala A32C_Batanga A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba
+AddMRCA A171 N171
+AddTag N172 A53_Bafia_rikpa A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie
+AddMRCA A172 N172
+AddTag N173 A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie
+AddMRCA A173 N173
+AddTag N174 A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie
+AddMRCA A174 N174
+AddTag N175 A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie
+AddMRCA A175 N175
+AddTag N176 A44_Tunen A46_Nomaande
+AddMRCA A176 N176
+AddTag N177 A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie
+AddMRCA A177 N177
+AddTag N178 A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie
+AddMRCA A178 N178
+AddTag N179 A622_Nugunu A62B_Mmala A62C_Libie
+AddMRCA A179 N179
+AddTag N180 A62B_Mmala A62C_Libie
+AddMRCA A180 N180
+AddTag N181 A43a_Basaa A42_Abo A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu A24_Duala A32C_Batanga A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba
+AddMRCA A181 N181
+AddTag N182 A43a_Basaa A42_Abo A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu
+AddMRCA A182 N182
+AddTag N183 A43a_Basaa A42_Abo
+AddMRCA A183 N183
+AddTag N184 A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu
+AddMRCA A184 N184
+AddTag N185 A61_Ngoro-Asom A61_Ngoro-Bisoo A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu
+AddMRCA A185 N185
+AddTag N186 A61_Ngoro-Asom A61_Ngoro-Bisoo
+AddMRCA A186 N186
+AddTag N187 A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu
+AddMRCA A187 N187
+AddTag N188 A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu
+AddMRCA A188 N188
+AddTag N189 A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu
+AddMRCA A189 N189
+AddTag N190 A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu
+AddMRCA A190 N190
+AddTag N191 A75a_Fang_Minvoul A75a_Fang_Medouneu
+AddMRCA A191 N191
+AddTag N192 A24_Duala A32C_Batanga A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba
+AddMRCA A192 N192
+AddTag N193 A24_Duala A32C_Batanga
+AddMRCA A193 N193
+AddTag N194 A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba
+AddMRCA A194 N194
+AddTag N195 A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge
+AddMRCA A195 N195
+AddTag N196 A122_Bakundu A11_Londo A121_Mbonge
+AddMRCA A196 N196
+AddTag N197 A11_Londo A121_Mbonge
+AddMRCA A197 N197
+AddTag N198 A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba
+AddMRCA A198 N198
+AddTag N199 A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba
+AddMRCA A199 N199
+AddTag N200 A15C_Akossi A15C_Mkaa
+AddMRCA A200 N200
+AddTag N201 A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba
+AddMRCA A201 N201
+AddTag N202 A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba
+AddMRCA A202 N202
+AddTag N203 A15_Manenguba A15B_Mienge_NW_Manenguba
+AddMRCA A203 N203
+AddTag N204 A91_Kwakum A93_Kako A803_Shiwa A83_Mekaa A84_Njem A841_Badwe A86c_Mpiemo B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga C85_Wongo C36d_Lingala C101_Babole_Ma C101_Babole_Dz C101_Babole_Ep C25_Mboshi D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete H42_Hunganna H11_Beembe H13_Kikunyi_1989 C34_Sakata B85_Yanzi B501_Wanzi_E B52_Nzebi L13_Kwese K31_Luyana L52_Lunda K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga D28_Holoholo D43_Nyanga M42_Bemba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A204 N204
+AddTag N205 A91_Kwakum A93_Kako A803_Shiwa A83_Mekaa A84_Njem A841_Badwe A86c_Mpiemo
+AddMRCA A205 N205
+AddTag N206 A91_Kwakum A93_Kako
+AddMRCA A206 N206
+AddTag N207 A803_Shiwa A83_Mekaa A84_Njem A841_Badwe A86c_Mpiemo
+AddMRCA A207 N207
+AddTag N208 A803_Shiwa A83_Mekaa
+AddMRCA A208 N208
+AddTag N209 A84_Njem A841_Badwe A86c_Mpiemo
+AddMRCA A209 N209
+AddTag N210 A84_Njem A841_Badwe
+AddMRCA A210 N210
+AddTag N211 B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga C85_Wongo C36d_Lingala C101_Babole_Ma C101_Babole_Dz C101_Babole_Ep C25_Mboshi D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete H42_Hunganna H11_Beembe H13_Kikunyi_1989 C34_Sakata B85_Yanzi B501_Wanzi_E B52_Nzebi L13_Kwese K31_Luyana L52_Lunda K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga D28_Holoholo D43_Nyanga M42_Bemba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A211 N211
+AddTag N212 B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga
+AddMRCA A212 N212
+AddTag N213 B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga
+AddMRCA A213 N213
+AddTag N214 B11a_Mpongwe B11b_Orungu
+AddMRCA A214 N214
+AddTag N215 B11c_Galwa B11d_Dyumba B11F_Enenga
+AddMRCA A215 N215
+AddTag N216 B11d_Dyumba B11F_Enenga
+AddMRCA A216 N216
+AddTag N217 C85_Wongo C36d_Lingala C101_Babole_Ma C101_Babole_Dz C101_Babole_Ep C25_Mboshi D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete H42_Hunganna H11_Beembe H13_Kikunyi_1989 C34_Sakata B85_Yanzi B501_Wanzi_E B52_Nzebi L13_Kwese K31_Luyana L52_Lunda K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga D28_Holoholo D43_Nyanga M42_Bemba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A217 N217
+AddTag N218 C85_Wongo C36d_Lingala C101_Babole_Ma C101_Babole_Dz C101_Babole_Ep C25_Mboshi D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete
+AddMRCA A218 N218
+AddTag N219 C36d_Lingala C101_Babole_Ma C101_Babole_Dz C101_Babole_Ep C25_Mboshi D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete
+AddMRCA A219 N219
+AddTag N220 C36d_Lingala C101_Babole_Ma C101_Babole_Dz C101_Babole_Ep C25_Mboshi
+AddMRCA A220 N220
+AddTag N221 C101_Babole_Ma C101_Babole_Dz C101_Babole_Ep C25_Mboshi
+AddMRCA A221 N221
+AddTag N222 C101_Babole_Ma C101_Babole_Dz
+AddMRCA A222 N222
+AddTag N223 C101_Babole_Ep C25_Mboshi
+AddMRCA A223 N223
+AddTag N224 D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete
+AddMRCA A224 N224
+AddTag N225 D12_Lengola C61_Mongo
+AddMRCA A225 N225
+AddTag N226 D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete
+AddMRCA A226 N226
+AddTag N227 D23_Kibira-Kumu_1919 D311_Bila
+AddMRCA A227 N227
+AddTag N228 D201_Liko C401_Pakabete
+AddMRCA A228 N228
+AddTag N229 H42_Hunganna H11_Beembe H13_Kikunyi_1989 C34_Sakata B85_Yanzi B501_Wanzi_E B52_Nzebi L13_Kwese K31_Luyana L52_Lunda K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga D28_Holoholo D43_Nyanga M42_Bemba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A229 N229
+AddTag N230 H42_Hunganna H11_Beembe H13_Kikunyi_1989 C34_Sakata B85_Yanzi B501_Wanzi_E B52_Nzebi
+AddMRCA A230 N230
+AddTag N231 H42_Hunganna H11_Beembe H13_Kikunyi_1989
+AddMRCA A231 N231
+AddTag N232 H11_Beembe H13_Kikunyi_1989
+AddMRCA A232 N232
+AddTag N233 C34_Sakata B85_Yanzi B501_Wanzi_E B52_Nzebi
+AddMRCA A233 N233
+AddTag N234 C34_Sakata B85_Yanzi
+AddMRCA A234 N234
+AddTag N235 B501_Wanzi_E B52_Nzebi
+AddMRCA A235 N235
+AddTag N236 L13_Kwese K31_Luyana L52_Lunda K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga D28_Holoholo D43_Nyanga M42_Bemba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A236 N236
+AddTag N237 K31_Luyana L52_Lunda K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga D28_Holoholo D43_Nyanga M42_Bemba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A237 N237
+AddTag N238 K31_Luyana L52_Lunda K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga
+AddMRCA A238 N238
+AddTag N239 L52_Lunda K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga
+AddMRCA A239 N239
+AddTag N240 K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga
+AddMRCA A240 N240
+AddTag N241 K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga
+AddMRCA A241 N241
+AddTag N242 K33_Kwangali K332_Rumanyo
+AddMRCA A242 N242
+AddTag N243 R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga
+AddMRCA A243 N243
+AddTag N244 R31_Herero R21_Kwanyama R22_Ndonga
+AddMRCA A244 N244
+AddTag N245 R21_Kwanyama R22_Ndonga
+AddMRCA A245 N245
+AddTag N246 D28_Holoholo D43_Nyanga M42_Bemba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A246 N246
+AddTag N247 D28_Holoholo D43_Nyanga
+AddMRCA A247 N247
+AddTag N248 M42_Bemba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A248 N248
+AddTag N249 JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A249 N249
+AddTag N250 JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore
+AddMRCA A250 N250
+AddTag N251 JD66_Kiha JD62_Rundi JD65_Hangaza
+AddMRCA A251 N251
+AddTag N252 JD62_Rundi JD65_Hangaza
+AddMRCA A252 N252
+AddTag N253 JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore
+AddMRCA A253 N253
+AddTag N254 JE25_Mkwaya JE25_Jita JE25_Kilegi JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari
+AddMRCA A254 N254
+AddTag N255 JE25_Mkwaya JE25_Jita JE25_Kilegi
+AddMRCA A255 N255
+AddTag N256 JE25_Jita JE25_Kilegi
+AddMRCA A256 N256
+AddTag N257 JE45_Nata JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari
+AddMRCA A257 N257
+AddTag N258 JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari
+AddMRCA A258 N258
+AddTag N259 JE43_Kuria_Mago JE43_Kuria_Tari
+AddMRCA A259 N259
+AddTag N260 JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore
+AddMRCA A260 N260
+AddTag N261 JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu
+AddMRCA A261 N261
+AddTag N262 JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu
+AddMRCA A262 N262
+AddTag N263 JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu
+AddMRCA A263 N263
+AddTag N264 JE31_Lumasaaba JE31c_Bukusu
+AddMRCA A264 N264
+AddTag N265 JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore
+AddMRCA A265 N265
+AddTag N266 JE21_Runyambo JE22_Haya JE13_Runyankore
+AddMRCA A266 N266
+AddTag N267 JE21_Runyambo JE22_Haya
+AddMRCA A267 N267
+AddTag N268 F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A268 N268
+AddTag N269 F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma M13_Fipa M14_Rungu M15_Mambwe M21_Ndali
+AddMRCA A269 N269
+AddTag N270 F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma
+AddMRCA A270 N270
+AddTag N271 F22_Nyamwezi F21_Ntuzu F21_Sukuma
+AddMRCA A271 N271
+AddTag N272 F21_Ntuzu F21_Sukuma
+AddMRCA A272 N272
+AddTag N273 M13_Fipa M14_Rungu M15_Mambwe M21_Ndali
+AddMRCA A273 N273
+AddTag N274 M13_Fipa M14_Rungu M15_Mambwe
+AddMRCA A274 N274
+AddTag N275 M14_Rungu M15_Mambwe
+AddMRCA A275 N275
+AddTag N276 N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A276 N276
+AddTag N277 N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena
+AddMRCA A277 N277
+AddTag N278 N21_Tumbuka_Malawi S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele
+AddMRCA A278 N278
+AddTag N279 S11_Shona S16_Kalanga S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele
+AddMRCA A279 N279
+AddTag N280 S11_Shona S16_Kalanga
+AddMRCA A280 N280
+AddTag N281 S311_Shekgalagari S41_Xhosa S42_Zulu S44_Ndebele
+AddMRCA A281 N281
+AddTag N282 S41_Xhosa S42_Zulu S44_Ndebele
+AddMRCA A282 N282
+AddTag N283 S42_Zulu S44_Ndebele
+AddMRCA A283 N283
+AddTag N284 P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba G64_Pangwa G63_Bena
+AddMRCA A284 N284
+AddTag N285 P21_Yao P23_Simakonde P25_Mabia P13_Matumbi
+AddMRCA A285 N285
+AddTag N286 P21_Yao P23_Simakonde P25_Mabia
+AddMRCA A286 N286
+AddTag N287 P23_Simakonde P25_Mabia
+AddMRCA A287 N287
+AddTag N288 G52_Ndamba G64_Pangwa G63_Bena
+AddMRCA A288 N288
+AddTag N289 G64_Pangwa G63_Bena
+AddMRCA A289 N289
+AddTag N290 F33_Langi G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A290 N290
+AddTag N291 G31_Zigua G12_Kagulu E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A291 N291
+AddTag N292 G31_Zigua G12_Kagulu
+AddMRCA A292 N292
+AddTag N293 E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A293 N293
+AddTag N294 E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja
+AddMRCA A294 N294
+AddTag N295 E71A_Upper_Pokomo E72a_Giryama E73_Digo
+AddMRCA A295 N295
+AddTag N296 E72a_Giryama E73_Digo
+AddMRCA A296 N296
+AddTag N297 G44a_Ngazija G44b_Ndzwani G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja
+AddMRCA A297 N297
+AddTag N298 G44a_Ngazija G44b_Ndzwani
+AddMRCA A298 N298
+AddTag N299 G42a_Amu G41_Bajuni G401_Mwani G43_Kae G42_Swahili G42d_Unguja
+AddMRCA A299 N299
+AddTag N300 G42a_Amu G41_Bajuni
+AddMRCA A300 N300
+AddTag N301 G401_Mwani G43_Kae G42_Swahili G42d_Unguja
+AddMRCA A301 N301
+AddTag N302 G43_Kae G42_Swahili G42d_Unguja
+AddMRCA A302 N302
+AddTag N303 G42_Swahili G42d_Unguja
+AddMRCA A303 N303
+AddTag N304 G39_Saghala E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A304 N304
+AddTag N305 E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A305 N305
+AddTag N306 E65_Gweno E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema
+AddMRCA A306 N306
+AddTag N307 E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema
+AddMRCA A307 N307
+AddTag N308 E621D_Kibosho E621B_Machame E53_Meru E621C_Siha
+AddMRCA A308 N308
+AddTag N309 E621B_Machame E53_Meru E621C_Siha
+AddMRCA A309 N309
+AddTag N310 E53_Meru E621C_Siha
+AddMRCA A310 N310
+AddTag N311 E64_Kahe E622A_Kimochi E622C_Lema
+AddMRCA A311 N311
+AddTag N312 E622A_Kimochi E622C_Lema
+AddMRCA A312 N312
+AddTag N313 E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A313 N313
+AddTag N314 E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach
+AddMRCA A314 N314
+AddTag N315 E55_Kamba E55_Kamba_Mach
+AddMRCA A315 N315
+AddTag N316 E51_Kikuyu E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A316 N316
+AddTag N317 E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A317 N317
+AddTag N318 E53_Igoji E53_Miutini
+AddMRCA A318 N318
+AddTag N319 E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti
+AddMRCA A319 N319
+AddTag N320 E53_Tigania E53_Merutig
+AddMRCA A320 N320
+AddTag N321 E53_Imenti E53_Meruimenti
+AddMRCA A321 N321
+Run
+

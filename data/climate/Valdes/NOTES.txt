@@ -1,0 +1,43 @@
+ssh sr16171@eocene.ggy.bris.ac.uk
+
+http://www.bridge.bris.ac.uk/resources/simulations
+Login
+I have created an account on our webpage system too. Go to: www.bridge.bris.ac.uk/resources/simulations and login using sr16171 and a password of XXXXX
+
+I have given you access to the whole sequence of simulations which looks at the past 120,000 years. The simulations have names such as:
+
+teiia1 - 0k (i.e. the pre-industrial climate)
+teiib1 - 1 kaBP 
+teiic1 - 2 kaBP
+etc
+
+The web pages allow you to visualise the climates of these periods and produce a variety of plots. The "Table_of_Experiments" are prepared plots, whereas the "Analyse_Pages" section allows you to make your own plots. You can also download data from the site but since you have access to the bridge server, it is probably simpler to directly access the files.
+ 
+The data is located in ~swsvalde/ummodel/data/expt/climate   where expt is the 5 or 6 letter code for the particular simulation. Within this folder, there are a number of netcdf files representing the monthly means, as well as the seasonal and annual means. We didn't talk about seasonality but I am assuming you simply want the annual means. The files containing the specific humidity are called, for example fo 6kaBP - teiig1, 
+
+~swsvalde/ummodel/data/teiig1/climate/teiiga.pdclann.nc
+
+(note that only the first 5 letters are used for the actual file itself).
+
+Within this file there is a variable called  q_mm_1_5m  and is in units of kg/kg
+
+You could simply download this file, and then within R extract this variable. Alternatively, there is a tool set called cdo (see https://code.mpimet.mpg.de/projects/cdo/embedded/index.html) which can allow you to extract the humidity variable only e.g.
+
+cdo select,name=q_mm_1_5m  ~swsvalde/ummodel/data/teiig1/climate/teiiga.pdclann.nc ~/teiig_q_mm_1_5m.nc
+
+There is also a tool on our servers called xconv which is a relatively crude but is simple to use program to interrogate the contents of the file and plot it. You need to have Xming running (provided by the university) for it to work, as well turning on X-tunnelling in ssh.
+
+To make sure that you have access to all of these tools. At the start of your session, you need to type:
+
+module load bridge-default intel/fc netcdf/intel_fc_10.1 opt-local convsh
+
+
+---
+
+Q1: Within the q_mm_1_5m data, there several attributes:
+e.g. `latitude` and `latitude_1`.  `latitude_1` seems to be 1.25 degrees less than `latitude`.
+Which should I use?
+A: In a netcdf file, the longitude/latitudes are directly attributed to each variable and will differ between variables. So some use longitude/latitude and some use longitude_1/latitude_1. I won't go into the technical details why there are two but humidity uses longitude/latitude (i.e. longitudes go from 0 to 356.25 and latitudes go from 90 to -90. These coordinates represent the centre of the grid box (except for the pole itself).
+
+Q2: What is the reference year for the time estimates (BP)?
+A: Good question and surprisingly complicated.  Basically it should be thought of as 1850 but there is considerable debate about what is pre-industrial (some people saying it is 1750). For some strange model history reasons, the orbit is never changed so the orbit is for 1950 but the CO2/CH4/N2O values are for 1850. The differences between 1750/1800/1850 are quite small. The time attribute is largely meaningless and is related to how long the model has been run for.

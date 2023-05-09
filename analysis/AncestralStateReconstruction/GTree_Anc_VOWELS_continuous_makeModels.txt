@@ -1,0 +1,10 @@
+4
+2
+SaveModels ../../results/BayesTraitsOutput/AncestralStateReconstruction/Anc_VOWELS_continuous_models.bin
+LogFile ../../results/BayesTraitsOutput/AncestralStateReconstruction/Anc_VOWELS_continuous_VOWELS_make
+Burnin 1000000
+Iterations 2000000
+PriorAll gamma 5.8 19.7
+Seed 1565
+
+Run

@@ -1,0 +1,1293 @@
+Options:
+Model:                           Continuous: Random Walk
+Tree File Name:                  ../../data/processed/GTree_phylo4g_combined_trimmed.nex
+Data File Name:                  ../../data/processed/ContinuousA/GTree_Data_Tones_SpecHSimBi.txt
+Log File Name:                   ../../results/BayesTraitsOutput/ContinuousA/ContA_Tones_SpecHSimBi.Log.txt
+Save Initial Trees:              False
+Save Trees:                      False
+Summary:                         False
+Seed:                            2132370085
+Precision:                       64 bits
+Cores:                           1
+Analysis Type:                   MCMC
+Sample Period:                   1000
+Iterations:                      1050000
+Burn in:                         50000
+MCMC ML Start:                   False
+Schedule File:                   ../../results/BayesTraitsOutput/ContinuousA/ContA_Tones_SpecHSimBi.Schedule.txt
+Rate Dev:                        AutoTune
+No of Rates:                     2
+Test for trait correlation:      True
+Kappa:                           Not in use
+Delta:                           Not in use
+Lambda:                          Not in use
+OU:                              Not in use
+Min Trans Taxa No:               10
+RJ Local Kappa:                  False
+RJ Local Lambda:                 False
+RJ Local Delta:                  False
+RJ Local OU:                     False
+Tags:	249
+	N251	250	Tiv_Tivoid Aghem_Grassfields Kom_Grassfields Oku_Grassfields Moghamo_Grassfields Fefe_Grassfields Mungaka_Grassfields Bamun_Grassfields Zaambo_Jarawan A53_Bafia_rikpa A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie A43a_Basaa A42_Abo A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A63_Mangisa A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu A24_Duala A33a_Yasa A32C_Batanga A34_Benga A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba B204_Ndambomo_Li B204_Ndambomo_Mbadi B204_Ndambomo_Massoukou B22E_Mwesa A91_Kwakum A93_Kako A803_Shiwa A81_Kwasio A83_Mekaa A832_Bekol A84_Njem A841_Badwe A86c_Mpiemo B203_Samaye B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga C85_Wongo C83_Bushong C71_Tetela C76_Ombo C105_Mbenga C36d_Lingala C142_Mondongo C104_Aka C101_Babole_Ma C101_Babole_Dz C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete C43A_Baati H16c_Yombe B404_Ngubi B42_Sangu_Mb H42_Hunganna H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko C34_Sakata B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi B503_Vili B501_Wanzi_E B52_Nzebi B78_Wuumu B77b_Fumu B63_Ndumu H21a_Kimbundu L13_Kwese K31_Luyana L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga L31a_Luba-Kasai L33_Luba-Shaba D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N252	8	Tiv_Tivoid Aghem_Grassfields Kom_Grassfields Oku_Grassfields Moghamo_Grassfields Fefe_Grassfields Mungaka_Grassfields Bamun_Grassfields 
+	N253	7	Aghem_Grassfields Kom_Grassfields Oku_Grassfields Moghamo_Grassfields Fefe_Grassfields Mungaka_Grassfields Bamun_Grassfields 
+	N254	3	Aghem_Grassfields Kom_Grassfields Oku_Grassfields 
+	N255	2	Kom_Grassfields Oku_Grassfields 
+	N256	4	Moghamo_Grassfields Fefe_Grassfields Mungaka_Grassfields Bamun_Grassfields 
+	N257	3	Fefe_Grassfields Mungaka_Grassfields Bamun_Grassfields 
+	N258	2	Mungaka_Grassfields Bamun_Grassfields 
+	N259	242	Zaambo_Jarawan A53_Bafia_rikpa A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie A43a_Basaa A42_Abo A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A63_Mangisa A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu A24_Duala A33a_Yasa A32C_Batanga A34_Benga A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba B204_Ndambomo_Li B204_Ndambomo_Mbadi B204_Ndambomo_Massoukou B22E_Mwesa A91_Kwakum A93_Kako A803_Shiwa A81_Kwasio A83_Mekaa A832_Bekol A84_Njem A841_Badwe A86c_Mpiemo B203_Samaye B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga C85_Wongo C83_Bushong C71_Tetela C76_Ombo C105_Mbenga C36d_Lingala C142_Mondongo C104_Aka C101_Babole_Ma C101_Babole_Dz C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete C43A_Baati H16c_Yombe B404_Ngubi B42_Sangu_Mb H42_Hunganna H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko C34_Sakata B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi B503_Vili B501_Wanzi_E B52_Nzebi B78_Wuumu B77b_Fumu B63_Ndumu H21a_Kimbundu L13_Kwese K31_Luyana L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga L31a_Luba-Kasai L33_Luba-Shaba D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N260	38	Zaambo_Jarawan A53_Bafia_rikpa A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie A43a_Basaa A42_Abo A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A63_Mangisa A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu A24_Duala A33a_Yasa A32C_Batanga A34_Benga A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba 
+	N261	11	Zaambo_Jarawan A53_Bafia_rikpa A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie 
+	N262	10	A53_Bafia_rikpa A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie 
+	N263	9	A31_Bubi A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie 
+	N264	8	A45_Nyokon A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie 
+	N265	7	A44_Tunen A46_Nomaande A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie 
+	N266	2	A44_Tunen A46_Nomaande 
+	N267	5	A462_Yambeta A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie 
+	N268	4	A601_Tuki A622_Nugunu A62B_Mmala A62C_Libie 
+	N269	3	A622_Nugunu A62B_Mmala A62C_Libie 
+	N270	2	A62B_Mmala A62C_Libie 
+	N271	27	A43a_Basaa A42_Abo A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A63_Mangisa A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu A24_Duala A33a_Yasa A32C_Batanga A34_Benga A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba 
+	N272	12	A43a_Basaa A42_Abo A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A63_Mangisa A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu 
+	N273	2	A43a_Basaa A42_Abo 
+	N274	10	A61_Ngoro-lunda A61_Ngoro-Asom A61_Ngoro-Bisoo A63_Mangisa A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu 
+	N275	9	A61_Ngoro-Asom A61_Ngoro-Bisoo A63_Mangisa A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu 
+	N276	2	A61_Ngoro-Asom A61_Ngoro-Bisoo 
+	N277	7	A63_Mangisa A71_Eton A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu 
+	N278	2	A63_Mangisa A71_Eton 
+	N279	5	A72a_Ewondo A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu 
+	N280	4	A74a_Bulu A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu 
+	N281	3	A75a_Fang_Bitam A75a_Fang_Minvoul A75a_Fang_Medouneu 
+	N282	2	A75a_Fang_Minvoul A75a_Fang_Medouneu 
+	N283	15	A24_Duala A33a_Yasa A32C_Batanga A34_Benga A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba 
+	N284	4	A24_Duala A33a_Yasa A32C_Batanga A34_Benga 
+	N285	3	A33a_Yasa A32C_Batanga A34_Benga 
+	N286	2	A32C_Batanga A34_Benga 
+	N287	11	A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba 
+	N288	4	A22_Bakweri A122_Bakundu A11_Londo A121_Mbonge 
+	N289	3	A122_Bakundu A11_Londo A121_Mbonge 
+	N290	2	A11_Londo A121_Mbonge 
+	N291	7	A141_Lefo A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba 
+	N292	6	A15C_Akossi A15C_Mkaa A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba 
+	N293	2	A15C_Akossi A15C_Mkaa 
+	N294	4	A15C_Elung_Central_Manenguba A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba 
+	N295	3	A15A_Mbuu A15_Manenguba A15B_Mienge_NW_Manenguba 
+	N296	2	A15_Manenguba A15B_Mienge_NW_Manenguba 
+	N297	204	B204_Ndambomo_Li B204_Ndambomo_Mbadi B204_Ndambomo_Massoukou B22E_Mwesa A91_Kwakum A93_Kako A803_Shiwa A81_Kwasio A83_Mekaa A832_Bekol A84_Njem A841_Badwe A86c_Mpiemo B203_Samaye B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga C85_Wongo C83_Bushong C71_Tetela C76_Ombo C105_Mbenga C36d_Lingala C142_Mondongo C104_Aka C101_Babole_Ma C101_Babole_Dz C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete C43A_Baati H16c_Yombe B404_Ngubi B42_Sangu_Mb H42_Hunganna H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko C34_Sakata B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi B503_Vili B501_Wanzi_E B52_Nzebi B78_Wuumu B77b_Fumu B63_Ndumu H21a_Kimbundu L13_Kwese K31_Luyana L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga L31a_Luba-Kasai L33_Luba-Shaba D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N298	13	B204_Ndambomo_Li B204_Ndambomo_Mbadi B204_Ndambomo_Massoukou B22E_Mwesa A91_Kwakum A93_Kako A803_Shiwa A81_Kwasio A83_Mekaa A832_Bekol A84_Njem A841_Badwe A86c_Mpiemo 
+	N299	4	B204_Ndambomo_Li B204_Ndambomo_Mbadi B204_Ndambomo_Massoukou B22E_Mwesa 
+	N300	3	B204_Ndambomo_Li B204_Ndambomo_Mbadi B204_Ndambomo_Massoukou 
+	N301	2	B204_Ndambomo_Mbadi B204_Ndambomo_Massoukou 
+	N302	9	A91_Kwakum A93_Kako A803_Shiwa A81_Kwasio A83_Mekaa A832_Bekol A84_Njem A841_Badwe A86c_Mpiemo 
+	N303	2	A91_Kwakum A93_Kako 
+	N304	7	A803_Shiwa A81_Kwasio A83_Mekaa A832_Bekol A84_Njem A841_Badwe A86c_Mpiemo 
+	N305	4	A803_Shiwa A81_Kwasio A83_Mekaa A832_Bekol 
+	N306	2	A803_Shiwa A81_Kwasio 
+	N307	2	A83_Mekaa A832_Bekol 
+	N308	3	A84_Njem A841_Badwe A86c_Mpiemo 
+	N309	2	A84_Njem A841_Badwe 
+	N310	191	B203_Samaye B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga C85_Wongo C83_Bushong C71_Tetela C76_Ombo C105_Mbenga C36d_Lingala C142_Mondongo C104_Aka C101_Babole_Ma C101_Babole_Dz C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete C43A_Baati H16c_Yombe B404_Ngubi B42_Sangu_Mb H42_Hunganna H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko C34_Sakata B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi B503_Vili B501_Wanzi_E B52_Nzebi B78_Wuumu B77b_Fumu B63_Ndumu H21a_Kimbundu L13_Kwese K31_Luyana L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga L31a_Luba-Kasai L33_Luba-Shaba D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N311	190	B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga C85_Wongo C83_Bushong C71_Tetela C76_Ombo C105_Mbenga C36d_Lingala C142_Mondongo C104_Aka C101_Babole_Ma C101_Babole_Dz C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete C43A_Baati H16c_Yombe B404_Ngubi B42_Sangu_Mb H42_Hunganna H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko C34_Sakata B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi B503_Vili B501_Wanzi_E B52_Nzebi B78_Wuumu B77b_Fumu B63_Ndumu H21a_Kimbundu L13_Kwese K31_Luyana L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga L31a_Luba-Kasai L33_Luba-Shaba D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N312	6	B32_Kande B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga 
+	N313	5	B11a_Mpongwe B11b_Orungu B11c_Galwa B11d_Dyumba B11F_Enenga 
+	N314	2	B11a_Mpongwe B11b_Orungu 
+	N315	3	B11c_Galwa B11d_Dyumba B11F_Enenga 
+	N316	2	B11d_Dyumba B11F_Enenga 
+	N317	184	C85_Wongo C83_Bushong C71_Tetela C76_Ombo C105_Mbenga C36d_Lingala C142_Mondongo C104_Aka C101_Babole_Ma C101_Babole_Dz C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete C43A_Baati H16c_Yombe B404_Ngubi B42_Sangu_Mb H42_Hunganna H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko C34_Sakata B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi B503_Vili B501_Wanzi_E B52_Nzebi B78_Wuumu B77b_Fumu B63_Ndumu H21a_Kimbundu L13_Kwese K31_Luyana L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga L31a_Luba-Kasai L33_Luba-Shaba D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N318	28	C85_Wongo C83_Bushong C71_Tetela C76_Ombo C105_Mbenga C36d_Lingala C142_Mondongo C104_Aka C101_Babole_Ma C101_Babole_Dz C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete C43A_Baati 
+	N319	4	C85_Wongo C83_Bushong C71_Tetela C76_Ombo 
+	N320	2	C85_Wongo C83_Bushong 
+	N321	2	C71_Tetela C76_Ombo 
+	N322	24	C105_Mbenga C36d_Lingala C142_Mondongo C104_Aka C101_Babole_Ma C101_Babole_Dz C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete C43A_Baati 
+	N323	17	C105_Mbenga C36d_Lingala C142_Mondongo C104_Aka C101_Babole_Ma C101_Babole_Dz C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga 
+	N324	3	C105_Mbenga C36d_Lingala C142_Mondongo 
+	N325	2	C105_Mbenga C36d_Lingala 
+	N326	14	C104_Aka C101_Babole_Ma C101_Babole_Dz C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga 
+	N327	3	C104_Aka C101_Babole_Ma C101_Babole_Dz 
+	N328	2	C101_Babole_Ma C101_Babole_Dz 
+	N329	11	C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga 
+	N330	4	C32_Bobangi C323_Mpama C101_Babole_Ep C322_Zamba 
+	N331	3	C323_Mpama C101_Babole_Ep C322_Zamba 
+	N332	2	C101_Babole_Ep C322_Zamba 
+	N333	7	C141_Bonyala C22_Akwa C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga 
+	N334	2	C141_Bonyala C22_Akwa 
+	N335	5	C25E_Eboyi C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga 
+	N336	4	C25_Mboshi C25A_Bunji C25B_Olee C25C_Ondinga 
+	N337	3	C25A_Bunji C25B_Olee C25C_Ondinga 
+	N338	2	C25B_Olee C25C_Ondinga 
+	N339	7	D12_Lengola C61_Mongo D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete C43A_Baati 
+	N340	2	D12_Lengola C61_Mongo 
+	N341	5	D23_Kibira-Kumu_1919 D311_Bila D201_Liko C401_Pakabete C43A_Baati 
+	N342	2	D23_Kibira-Kumu_1919 D311_Bila 
+	N343	3	D201_Liko C401_Pakabete C43A_Baati 
+	N344	2	C401_Pakabete C43A_Baati 
+	N345	156	H16c_Yombe B404_Ngubi B42_Sangu_Mb H42_Hunganna H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko C34_Sakata B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi B503_Vili B501_Wanzi_E B52_Nzebi B78_Wuumu B77b_Fumu B63_Ndumu H21a_Kimbundu L13_Kwese K31_Luyana L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga L31a_Luba-Kasai L33_Luba-Shaba D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N346	32	H16c_Yombe B404_Ngubi B42_Sangu_Mb H42_Hunganna H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko C34_Sakata B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi B503_Vili B501_Wanzi_E B52_Nzebi B78_Wuumu B77b_Fumu B63_Ndumu 
+	N347	19	H16c_Yombe B404_Ngubi B42_Sangu_Mb H42_Hunganna H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko 
+	N348	3	H16c_Yombe B404_Ngubi B42_Sangu_Mb 
+	N349	2	B404_Ngubi B42_Sangu_Mb 
+	N350	16	H42_Hunganna H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko 
+	N351	15	H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko 
+	N352	3	H11_Beembe H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 
+	N353	2	H13_Kikunyi_1989 H131_Kisundi_Congo_Kimongo_1988 
+	N354	12	H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko 
+	N355	5	H16_Cimbala H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe 
+	N356	4	H16c_Kiyombe_DRC_1982 H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe 
+	N357	3	H16_Cilinji H16d_Ciwoyo_DRC_2012 H16_Cizobe 
+	N358	2	H16d_Ciwoyo_DRC_2012 H16_Cizobe 
+	N359	7	H16_Kikongo H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko 
+	N360	6	H16b_Kindibu_2013 H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko 
+	N361	5	H16g_Ntandu H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko 
+	N362	4	H16g_Kimpangu_2012 H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko 
+	N363	3	H16_Kimbata_Ngidinga H16h_Kinkanu_2012 H16_Kimbeko 
+	N364	2	H16h_Kinkanu_2012 H16_Kimbeko 
+	N365	13	C34_Sakata B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi B503_Vili B501_Wanzi_E B52_Nzebi B78_Wuumu B77b_Fumu B63_Ndumu 
+	N366	7	C34_Sakata B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi 
+	N367	6	B865_Nzadi B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi 
+	N368	5	B85e_Mput B862_Lwel B85_Yanzi B864_Ngong B863_Pindi 
+	N369	2	B85e_Mput B862_Lwel 
+	N370	3	B85_Yanzi B864_Ngong B863_Pindi 
+	N371	2	B85_Yanzi B864_Ngong 
+	N372	6	B503_Vili B501_Wanzi_E B52_Nzebi B78_Wuumu B77b_Fumu B63_Ndumu 
+	N373	3	B503_Vili B501_Wanzi_E B52_Nzebi 
+	N374	2	B501_Wanzi_E B52_Nzebi 
+	N375	3	B78_Wuumu B77b_Fumu B63_Ndumu 
+	N376	2	B78_Wuumu B77b_Fumu 
+	N377	124	H21a_Kimbundu L13_Kwese K31_Luyana L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga L31a_Luba-Kasai L33_Luba-Shaba D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N378	2	H21a_Kimbundu L13_Kwese 
+	N379	122	K31_Luyana L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga L31a_Luba-Kasai L33_Luba-Shaba D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N380	10	K31_Luyana L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga 
+	N381	9	L52_Lunda K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga 
+	N382	8	K11_Ciokwe K14_Lwena K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga 
+	N383	2	K11_Ciokwe K14_Lwena 
+	N384	6	K33_Kwangali K332_Rumanyo R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga 
+	N385	2	K33_Kwangali K332_Rumanyo 
+	N386	4	R11_Umbundu R31_Herero R21_Kwanyama R22_Ndonga 
+	N387	3	R31_Herero R21_Kwanyama R22_Ndonga 
+	N388	2	R21_Kwanyama R22_Ndonga 
+	N389	112	L31a_Luba-Kasai L33_Luba-Shaba D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N390	2	L31a_Luba-Kasai L33_Luba-Shaba 
+	N391	110	D28_Holoholo D20B_Vamba_1919 D43_Nyanga M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N392	3	D28_Holoholo D20B_Vamba_1919 D43_Nyanga 
+	N393	2	D20B_Vamba_1919 D43_Nyanga 
+	N394	107	M61_Lenje M42_Bemba M54_Lamba JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N395	3	M61_Lenje M42_Bemba M54_Lamba 
+	N396	2	M42_Bemba M54_Lamba 
+	N397	104	JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N398	24	JD66_Kiha JD62_Rundi JD65_Hangaza JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga 
+	N399	3	JD66_Kiha JD62_Rundi JD65_Hangaza 
+	N400	2	JD62_Rundi JD65_Hangaza 
+	N401	21	JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga 
+	N402	10	JE25_Mkwaya JE25_Jita JE25_Kilegi JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari 
+	N403	3	JE25_Mkwaya JE25_Jita JE25_Kilegi 
+	N404	2	JE25_Jita JE25_Kilegi 
+	N405	7	JE404_Shasi JE45_Nata JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari 
+	N406	2	JE404_Shasi JE45_Nata 
+	N407	5	JE42_Gusii JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari 
+	N408	4	JE403_Suba JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari 
+	N409	3	JE43_Kuria JE43_Kuria_Mago JE43_Kuria_Tari 
+	N410	2	JE43_Kuria_Mago JE43_Kuria_Tari 
+	N411	11	JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga 
+	N412	6	JE17_Gwere JE15_Luganda JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu 
+	N413	2	JE17_Gwere JE15_Luganda 
+	N414	4	JE32_Luyia JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu 
+	N415	3	JE34_Samialugwe JE31_Lumasaaba JE31c_Bukusu 
+	N416	2	JE31_Lumasaaba JE31c_Bukusu 
+	N417	5	JE23_Zinza JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga 
+	N418	4	JE21_Runyambo JE22_Haya JE13_Runyankore JE14_Rukiga 
+	N419	2	JE21_Runyambo JE22_Haya 
+	N420	2	JE13_Runyankore JE14_Rukiga 
+	N421	80	F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N422	12	F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa 
+	N423	6	F23_Sumbwa F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil 
+	N424	5	F22_Nyamwezi F21_Ntuzu F21_Sukuma F32_Nyaturucha F32_Nyaturuwil 
+	N425	3	F22_Nyamwezi F21_Ntuzu F21_Sukuma 
+	N426	2	F21_Ntuzu F21_Sukuma 
+	N427	2	F32_Nyaturucha F32_Nyaturuwil 
+	N428	6	M13_Fipa M14_Rungu M15_Mambwe M21_Ndali M31_Nyakyusa M25_Safwa 
+	N429	3	M13_Fipa M14_Rungu M15_Mambwe 
+	N430	2	M14_Rungu M15_Mambwe 
+	N431	3	M21_Ndali M31_Nyakyusa M25_Safwa 
+	N432	2	M21_Ndali M31_Nyakyusa 
+	N433	68	P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N434	23	P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena 
+	N435	15	P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele 
+	N436	4	P31_Emakhua P31G_Ikorovere N21_Tumbuka_Malawi N31_Chewa 
+	N437	2	P31_Emakhua P31G_Ikorovere 
+	N438	2	N21_Tumbuka_Malawi N31_Chewa 
+	N439	11	S11_Shona S16_Kalanga S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele 
+	N440	2	S11_Shona S16_Kalanga 
+	N441	9	S21_Venda K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele 
+	N442	8	K21_Lozi S31_Tswana S311_Shekgalagari S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele 
+	N443	3	K21_Lozi S31_Tswana S311_Shekgalagari 
+	N444	2	S31_Tswana S311_Shekgalagari 
+	N445	5	S51_Tshwa S53_Tsonga S41_Xhosa S42_Zulu S44_Ndebele 
+	N446	2	S51_Tshwa S53_Tsonga 
+	N447	3	S41_Xhosa S42_Zulu S44_Ndebele 
+	N448	2	S42_Zulu S44_Ndebele 
+	N449	8	P21_Yao P23_Simakonde P25_Mabia P13_Matumbi G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena 
+	N450	4	P21_Yao P23_Simakonde P25_Mabia P13_Matumbi 
+	N451	3	P21_Yao P23_Simakonde P25_Mabia 
+	N452	2	P23_Simakonde P25_Mabia 
+	N453	4	G52_Ndamba N12_Ngoni G64_Pangwa G63_Bena 
+	N454	3	N12_Ngoni G64_Pangwa G63_Bena 
+	N455	2	G64_Pangwa G63_Bena 
+	N456	45	F33_Langi G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N457	44	G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N458	5	G31_Zigua G23_Sambaa G24_Bondei G12_Kagulu G35_Luguru 
+	N459	3	G31_Zigua G23_Sambaa G24_Bondei 
+	N460	2	G23_Sambaa G24_Bondei 
+	N461	2	G12_Kagulu G35_Luguru 
+	N462	39	E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N463	13	E71A_Upper_Pokomo E72a_Giryama E73_Digo G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja 
+	N464	3	E71A_Upper_Pokomo E72a_Giryama E73_Digo 
+	N465	2	E72a_Giryama E73_Digo 
+	N466	10	G44a_Ngazija G44b_Ndzwani G44D_Maore G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja 
+	N467	3	G44a_Ngazija G44b_Ndzwani G44D_Maore 
+	N468	2	G44b_Ndzwani G44D_Maore 
+	N469	7	G42a_Amu G41_Bajuni G412_Mwiini G401_Mwani G43_Kae G42_Swahili G42d_Unguja 
+	N470	3	G42a_Amu G41_Bajuni G412_Mwiini 
+	N471	2	G41_Bajuni G412_Mwiini 
+	N472	4	G401_Mwani G43_Kae G42_Swahili G42d_Unguja 
+	N473	3	G43_Kae G42_Swahili G42d_Unguja 
+	N474	2	G42_Swahili G42d_Unguja 
+	N475	26	G22_Asu G22A_North_Pare G22B_South_Pare G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N476	3	G22_Asu G22A_North_Pare G22B_South_Pare 
+	N477	2	G22A_North_Pare G22B_South_Pare 
+	N478	23	G39_Saghala E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N479	22	E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N480	11	E65_Gweno E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema 
+	N481	10	E623A_Kiseri E623D_Keni E623_Mkuu E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema 
+	N482	3	E623A_Kiseri E623D_Keni E623_Mkuu 
+	N483	2	E623D_Keni E623_Mkuu 
+	N484	7	E621D_Kibosho E621B_Machame E53_Meru E621C_Siha E64_Kahe E622A_Kimochi E622C_Lema 
+	N485	4	E621D_Kibosho E621B_Machame E53_Meru E621C_Siha 
+	N486	3	E621B_Machame E53_Meru E621C_Siha 
+	N487	2	E53_Meru E621C_Siha 
+	N488	3	E64_Kahe E622A_Kimochi E622C_Lema 
+	N489	2	E622A_Kimochi E622C_Lema 
+	N490	11	E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N491	3	E55_Kamba_Kitu E55_Kamba E55_Kamba_Mach 
+	N492	2	E55_Kamba E55_Kamba_Mach 
+	N493	8	E51_Kikuyu E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N494	7	E54_Tharaka E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N495	6	E53_Igoji E53_Miutini E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N496	2	E53_Igoji E53_Miutini 
+	N497	4	E53_Tigania E53_Merutig E53_Imenti E53_Meruimenti 
+	N498	2	E53_Tigania E53_Merutig 
+	N499	2	E53_Imenti E53_Meruimenti 
+Restrictions:
+    alpha-1                      None
+    alpha-2                      None
+Prior Information:
+    Priors
+        alpha-1 - uniform -100.00 100.00 
+        alpha-2 - uniform -100.00 100.00 
+        AncState-1 - uniform -100.00 100.00 
+        AncState-2 - uniform -100.00 100.00 
+Tree Information
+     Trees:                      1
+     Taxa:                       499
+     Sites:                      2
+Iteration	Lh	Tree No	Alpha 1	Alpha 2	Sigma^2 1 	Sigma^2 2 	R Trait 1 2	
+51000	2064.984467	1	2.005774852424	0.015328396329	1073.314958228354	0.000053623267	0.068849734430	
+52000	2060.306355	1	1.971998647671	0.015324537395	1088.280895822284	0.000053957323	0.077723807057	
+53000	2064.534149	1	1.997006295315	0.015326089796	1072.796817934944	0.000053751032	0.069512021451	
+54000	2061.436670	1	2.026645700059	0.015331120751	1086.970409609387	0.000053747594	0.073994343735	
+55000	2064.944011	1	1.998282658987	0.015330047551	1072.680208059741	0.000053663033	0.068760089934	
+56000	2064.916990	1	2.006389469953	0.015328056925	1073.467085581068	0.000053628660	0.068645976673	
+57000	2062.724672	1	1.979388111460	0.015330548295	1081.091193040833	0.000053696732	0.065369261169	
+58000	2062.904330	1	1.992721879588	0.015323875213	1073.666673241053	0.000054074765	0.071508203833	
+59000	2062.028210	1	1.993000620129	0.015334094294	1073.587659706235	0.000054223527	0.065418051426	
+60000	2064.946666	1	2.006555045094	0.015328590130	1073.510662082401	0.000053622262	0.068936984317	
+61000	2064.247338	1	2.006536086320	0.015331462269	1073.505616643362	0.000053784205	0.070421562928	
+62000	2065.110983	1	2.002932364265	0.015328590602	1072.808731311657	0.000053622261	0.068969407590	
+63000	2064.680850	1	2.001396566420	0.015326423466	1072.670245430419	0.000053719330	0.068647766574	
+64000	2063.808963	1	1.994283972760	0.015324959758	1073.264129527180	0.000053891613	0.070513560800	
+65000	2064.182148	1	2.011859350422	0.015326995825	1075.489295392685	0.000053675364	0.067234183407	
+66000	2064.955180	1	1.996911710437	0.015329867461	1072.808063245466	0.000053653376	0.068643967784	
+67000	2064.392954	1	2.003294484104	0.015331422351	1072.855185595129	0.000053779684	0.069664972137	
+68000	2064.236946	1	1.989748977341	0.015330619345	1074.703511291106	0.000053702329	0.067167437206	
+69000	2064.555359	1	2.008204019584	0.015330473086	1074.004729207736	0.000053691028	0.070177068991	
+70000	2064.769942	1	1.992273127837	0.015329592832	1073.800434970932	0.000053641157	0.068312482502	
+71000	2064.218418	1	1.998471021372	0.015325456810	1072.668539451883	0.000053823460	0.069235994448	
+72000	2062.979605	1	2.021173755644	0.015329836231	1081.698131454499	0.000053651834	0.070825205398	
+73000	2064.940402	1	2.005090891526	0.015327729943	1073.163502914975	0.000053638232	0.068569472267	
+74000	2064.661237	1	2.009532684063	0.015327961032	1074.482271420727	0.000053631022	0.068386256533	
+75000	2065.111265	1	2.002345472640	0.015328257311	1072.744626866399	0.000053624916	0.068903615361	
+76000	2064.703782	1	2.009696251189	0.015328564480	1074.545961335798	0.000053622308	0.068874305461	
+77000	2063.823212	1	2.010539291605	0.015331718839	1074.891266240010	0.000053814791	0.071532901300	
+78000	2064.696325	1	1.992655438194	0.015330011537	1073.685967681689	0.000053660998	0.068080089066	
+79000	2063.731097	1	1.998241171129	0.015332476995	1072.682969628751	0.000053920621	0.068250219636	
+80000	2064.034367	1	1.993608610787	0.015331682620	1073.426141102432	0.000053810313	0.067223302484	
+81000	2064.900304	1	2.007193841177	0.015328999594	1073.689100388207	0.000053625100	0.069176992238	
+82000	2065.008515	1	2.003407969542	0.015329647756	1072.870827857426	0.000053643358	0.069261301922	
+83000	2062.141430	1	2.012672707141	0.015333737364	1075.892617517105	0.000054147643	0.073970915593	
+84000	2063.058748	1	2.012403777269	0.015332643241	1075.756322161870	0.000053946914	0.072859796249	
+85000	2063.547222	1	1.993547803560	0.015332416288	1073.441626977312	0.000053911297	0.066754084445	
+86000	2064.880909	1	1.994752410010	0.015327284917	1073.162516248272	0.000053658158	0.069521212245	
+87000	2064.995463	1	2.004359169084	0.015327849349	1073.022273143358	0.000053634239	0.068675571482	
+88000	2063.538632	1	1.989936596927	0.015324960689	1074.627582668920	0.000053891476	0.071796770523	
+89000	2065.075089	1	1.995824817261	0.015328480870	1072.963072282967	0.000053622643	0.069020672681	
+90000	2062.331582	1	1.976962866214	0.015330271587	1083.209110365983	0.000053676865	0.065457415880	
+91000	2057.434150	1	2.019087256476	0.015320841207	1080.004459967470	0.000054838059	0.055673907330	
+92000	2064.902596	1	2.001016785584	0.015330257503	1072.650608878021	0.000053675937	0.069098180467	
+93000	2064.512263	1	2.011019642329	0.015329638090	1075.100780773582	0.000053642962	0.069833408939	
+94000	2064.971133	1	2.004631167407	0.015327776559	1073.072260519411	0.000053636605	0.068626150816	
+95000	2064.035237	1	2.008288636600	0.015331659623	1074.033027957391	0.000053807497	0.070942764642	
+96000	2062.978877	1	2.018501306661	0.015331376659	1079.560273086722	0.000053774588	0.072929622141	
+97000	2064.874115	1	1.995976590622	0.015327075195	1072.938576837928	0.000053670306	0.069452788204	
+98000	2064.654206	1	1.989777038861	0.015328924770	1074.692065035038	0.000053624079	0.068659146738	
+99000	2065.100567	1	2.002316479530	0.015329191116	1072.741818611324	0.000053628739	0.069089550275	
+100000	2063.904732	1	1.994021405800	0.015325124133	1073.324939803018	0.000053867977	0.070526379870	
+101000	2065.063372	1	1.998293152484	0.015329510182	1072.679520531426	0.000053638072	0.068850516036	
+102000	2064.916232	1	1.993256889919	0.015329089574	1073.517769134275	0.000053626626	0.068691256776	
+103000	2064.725547	1	1.993014853105	0.015329997482	1073.583708874008	0.000053660218	0.068133720431	
+104000	2064.435415	1	1.993351829593	0.015326171800	1073.492546515724	0.000053742827	0.070223522498	
+105000	2064.526179	1	2.006796591208	0.015330812128	1073.576207573834	0.000053718538	0.070150256559	
+106000	2064.109177	1	1.986538130681	0.015326918143	1076.222047796473	0.000053680559	0.070735678394	
+107000	2064.159214	1	1.990000529766	0.015326077252	1074.602032351757	0.000053752311	0.070945596639	
+108000	2064.901680	1	1.996009207102	0.015327173506	1072.933433475634	0.000053664391	0.069420389275	
+109000	2064.568708	1	2.005144877470	0.015326493240	1073.174774529327	0.000053713266	0.067976649750	
+110000	2062.190225	1	1.984017027670	0.015323998097	1077.704566356751	0.000054051640	0.074664921078	
+111000	2064.790354	1	1.991503841910	0.015327898968	1074.048556368809	0.000053632748	0.069440135561	
+112000	2064.842182	1	1.998365109506	0.015326808679	1072.674925085251	0.000053688292	0.069175132226	
+113000	2064.586534	1	1.992802042320	0.015326633531	1073.643630150060	0.000053701666	0.070083327852	
+114000	2063.526886	1	2.001890307786	0.015332799290	1072.704435179845	0.000053972603	0.069443609832	
+115000	2064.529863	1	2.009327708759	0.015327266801	1074.403974922745	0.000053659138	0.067835898845	
+116000	2065.036448	1	1.995938851672	0.015329241847	1072.944581291727	0.000053629949	0.068761646184	
+117000	2063.324700	1	2.018962459190	0.015330146184	1079.908700080265	0.000053668875	0.071141038260	
+118000	2064.936698	1	1.998335115815	0.015330077834	1072.676815320404	0.000053664785	0.068761318585	
+119000	2064.745859	1	2.008363064518	0.015327856338	1074.058156841370	0.000053634023	0.068388590499	
+120000	2064.175361	1	1.985522987142	0.015328036239	1076.788297153411	0.000053629138	0.069550442054	
+121000	2061.162288	1	1.981612932526	0.015323222708	1079.356052738323	0.000054207717	0.076601622285	
+122000	2064.360096	1	1.987297944219	0.015329164999	1075.825304235863	0.000053628156	0.068304191061	
+123000	2063.863290	1	2.010231447849	0.015325867164	1074.761866556633	0.000053774672	0.066443763310	
+124000	2064.774086	1	2.000977539569	0.015330637018	1072.648909901318	0.000053703753	0.069108571521	
+125000	2064.858189	1	1.995873035477	0.015330088846	1072.955189839281	0.000053665431	0.068448355153	
+126000	2065.014839	1	2.005357720818	0.015328602630	1073.220354119100	0.000053622249	0.068955229806	
+127000	2063.181648	1	1.996015279757	0.015333071314	1072.932480583663	0.000054019723	0.067270442165	
+128000	2064.886514	1	1.995015728643	0.015329832714	1073.109266575064	0.000053651663	0.068452111563	
+129000	2064.534669	1	2.000598766078	0.015326067300	1072.635692176023	0.000053753331	0.068753623337	
+130000	2064.906387	1	1.999217964662	0.015330228226	1072.636297153869	0.000053674031	0.068855412768	
+131000	2065.038377	1	2.002284300104	0.015329635053	1072.738741261196	0.000053642838	0.069166927333	
+132000	2065.020550	1	1.997662254637	0.015327506764	1072.728716610520	0.000053647230	0.069174678908	
+133000	2064.950650	1	2.004358240510	0.015329779833	1073.022107580927	0.000053649148	0.069383310491	
+134000	2064.455332	1	1.998521371062	0.015331312686	1072.665661763459	0.000053767593	0.068574234349	
+135000	2064.809293	1	2.006905292075	0.015329846100	1073.606468965064	0.000053652317	0.069647797721	
+136000	2064.038874	1	2.004341805400	0.015325384314	1073.019182971410	0.000053832782	0.067639164570	
+137000	2064.472315	1	1.987857499115	0.015328615267	1075.547952626915	0.000053622242	0.068896608404	
+138000	2065.011137	1	1.997723193082	0.015329720575	1072.723267292782	0.000053646464	0.068762688131	
+139000	2065.025434	1	2.003902701503	0.015329445225	1072.945061729139	0.000053635841	0.069238693779	
+140000	2064.636302	1	1.998473817752	0.015330927153	1072.668376957114	0.000053728920	0.068634734890	
+141000	2059.828568	1	2.029633326656	0.015332741863	1090.356551752784	0.000053963035	0.078337460734	
+142000	2063.693271	1	1.987923204737	0.015331343203	1075.516209665571	0.000053770909	0.066069655825	
+143000	2065.100222	1	2.001859505963	0.015329272820	1072.702015923905	0.000053630739	0.069081052953	
+144000	2062.484115	1	1.978708465076	0.015325803813	1081.660890345689	0.000053781762	0.073569970664	
+145000	2063.924017	1	1.990813683434	0.015331483187	1074.291383097541	0.000053786600	0.066648196967	
+146000	2065.123081	1	2.001907928021	0.015329016504	1072.705836252671	0.000053625362	0.069044353452	
+147000	2064.043830	1	1.990380100319	0.015325768943	1074.453720079618	0.000053785734	0.071093423277	
+148000	2064.075770	1	1.986336934739	0.015326886125	1076.330986801354	0.000053682771	0.070795614485	
+149000	2063.581406	1	2.016784878775	0.015330510535	1078.338470525066	0.000053693840	0.071412155707	
+150000	2064.238989	1	2.003604037508	0.015325664453	1072.899071674719	0.000053797927	0.067950812296	
+151000	2065.076324	1	1.996630433962	0.015328034061	1072.843627542239	0.000053629190	0.069133785707	
+152000	2062.259524	1	2.019325616273	0.015325418422	1080.189097299069	0.000053828370	0.063431750974	
+153000	2064.611437	1	1.998253071308	0.015326220275	1072.682170442895	0.000053738103	0.069241826518	
+154000	2064.512982	1	2.010249662535	0.015330017205	1074.769417017387	0.000053661315	0.070094308755	
+155000	2064.526451	1	1.990774279230	0.015326890194	1074.305824440049	0.000053682488	0.070215183946	
+156000	2064.703177	1	1.990554666518	0.015329143214	1074.387453119514	0.000053627690	0.068515108402	
+157000	2064.778766	1	2.005342409894	0.015330298463	1073.217014609836	0.000053678660	0.069688564041	
+158000	2064.856499	1	1.997402742511	0.015326893734	1072.753593007920	0.000053682242	0.069304634584	
+159000	2064.521827	1	1.988632913071	0.015327812577	1075.184394355544	0.000053635407	0.069656911667	
+160000	2064.985894	1	2.002993212577	0.015327520512	1072.816169069028	0.000053646618	0.068678008165	
+161000	2064.477478	1	2.009823968196	0.015327247185	1074.596438956455	0.000053660213	0.067756644041	
+162000	2063.985291	1	2.006219261959	0.015331960244	1073.423437489558	0.000053845984	0.070570735321	
+163000	2065.120077	1	1.997293419608	0.015328448107	1072.764882231894	0.000053622851	0.069016728167	
+164000	2064.617801	1	2.008097164708	0.015327202573	1073.969404230476	0.000053662717	0.067942947393	
+165000	2062.445522	1	2.022721466348	0.015330745266	1083.067403276344	0.000053712747	0.072622454036	
+166000	2064.049065	1	2.003850068506	0.015325362344	1072.936696950368	0.000053835649	0.067765784888	
+167000	2064.093022	1	2.007339674010	0.015325806695	1073.732134425338	0.000053781436	0.067099718866	
+168000	2062.618828	1	1.989356263386	0.015323812923	1074.867017077300	0.000054086718	0.072845793105	
+169000	2065.112237	1	2.002479095300	0.015328317644	1072.758005822353	0.000053624105	0.068912554236	
+170000	2064.473750	1	1.991109618401	0.015326644182	1074.184917995565	0.000053700817	0.070339792477	
+171000	2064.237059	1	2.013674055723	0.015329443809	1076.425650324536	0.000053635794	0.069797093921	
+172000	2064.932665	1	1.993499210664	0.015327968765	1073.454108961415	0.000053630818	0.069302312497	
+173000	2064.909717	1	1.996057947381	0.015327198541	1072.925827145808	0.000053662947	0.069407569828	
+174000	2064.461313	1	1.995261802835	0.015326038729	1073.062021301510	0.000053756279	0.069889310551	
+175000	2063.942597	1	1.984666855623	0.015327220932	1077.298020375916	0.000053661677	0.070593405911	
+176000	2064.975814	1	2.001719818643	0.015327332144	1072.691522750925	0.000053655666	0.068765253858	
+177000	2064.508157	1	2.011061198769	0.015327950821	1075.119341973825	0.000053631295	0.068271776600	
+178000	2065.049146	1	2.003031683346	0.015327873619	1072.820948248395	0.000053633497	0.068774711863	
+179000	2064.034618	1	1.984564844235	0.015328854195	1077.360718632895	0.000053623321	0.068533360815	
+180000	2064.953039	1	2.004705782475	0.015327695573	1073.086492495995	0.000053639487	0.068586124334	
+181000	2064.750608	1	2.006053653523	0.015330274967	1073.382085700288	0.000053677090	0.069771902768	
+182000	2064.971076	1	1.994956822020	0.015327695176	1073.120937179596	0.000053639502	0.069341364079	
+183000	2065.078772	1	2.001598380210	0.015327835348	1072.683037203146	0.000053634677	0.068862834066	
+184000	2065.081759	1	1.999788726105	0.015327743744	1072.626762781006	0.000053637741	0.068982900170	
+185000	2064.839324	1	1.992110314990	0.015329067099	1073.850964918658	0.000053626214	0.068650715257	
+186000	2064.111364	1	2.006612527319	0.015331708747	1073.526047882499	0.000053813538	0.070557667242	
+187000	2058.315546	1	2.029876173622	0.015334487832	1090.647545616226	0.000054313124	0.082472163379	
+188000	2062.558808	1	1.995145681490	0.015333711321	1073.084013111127	0.000054142307	0.066612654982	
+189000	2064.963535	1	1.993557913388	0.015328398802	1073.439041998734	0.000053623244	0.069075511659	
+190000	2064.523858	1	1.990474588532	0.015329987228	1074.417699528640	0.000053659653	0.067823570537	
+191000	2065.115590	1	1.997325208132	0.015328310395	1072.761550097595	0.000053624195	0.069045416051	
+192000	2063.653500	1	1.989053123847	0.015325267869	1074.997464636079	0.000053848197	0.071804667620	
+193000	2064.516007	1	2.011473517576	0.015328398305	1075.307262342996	0.000053623249	0.068680158863	
+194000	2063.215748	1	1.980040290395	0.015327284133	1080.561961906223	0.000053658200	0.070924911195	
+195000	2064.529674	1	2.007836685384	0.015326863151	1073.885214222941	0.000053684384	0.067738072171	
+196000	2064.969674	1	1.998608282015	0.015327231616	1072.660934007855	0.000053661078	0.069109799640	
+197000	2064.749934	1	2.009103959692	0.015328432502	1074.320433536310	0.000053622965	0.068782560414	
+198000	2064.662380	1	2.002416333383	0.015330881400	1072.751632483507	0.000053724727	0.069385291262	
+199000	2064.656565	1	1.993329343732	0.015330293406	1073.498487617404	0.000053678320	0.067997977903	
+200000	2064.464044	1	2.000982659081	0.015325936361	1072.649128018808	0.000053767111	0.068650722164	
+201000	2064.396657	1	2.000455180417	0.015331470353	1072.632187744350	0.000053785128	0.069006160735	
+202000	2063.859322	1	1.993219010760	0.015331923677	1073.527933517964	0.000053841108	0.066966391778	
+203000	2064.757793	1	2.003139175252	0.015330597396	1072.834616913069	0.000053700578	0.069458318725	
+204000	2063.699387	1	1.982956028844	0.015329466126	1078.404800422223	0.000053636540	0.067593864229	
+205000	2064.553973	1	1.997117075912	0.015326127987	1072.784103951811	0.000053747177	0.069482514339	
+206000	2065.029236	1	1.999638094148	0.015327466913	1072.628008202896	0.000053649048	0.068993184650	
+207000	2064.903682	1	1.998114166643	0.015330177193	1072.691853189160	0.000053670792	0.068715063233	
+208000	2063.169747	1	1.979392248635	0.015328810818	1081.087781961169	0.000053622955	0.068389574453	
+209000	2063.056222	1	2.016860407248	0.015326027185	1078.389745109066	0.000053757479	0.065045371859	
+210000	2062.679248	1	1.988003156541	0.015332846001	1075.477818104904	0.000053980483	0.064468117951	
+211000	2062.943550	1	2.016133214056	0.015332123397	1077.905586151796	0.000053868390	0.073387430930	
+212000	2060.832500	1	1.980219078340	0.015323110552	1080.419862188782	0.000054232292	0.077354216590	
+213000	2064.668203	1	1.994251527558	0.015330427190	1073.271493874532	0.000053687659	0.068064741129	
+214000	2064.116556	1	2.011268538231	0.015326637610	1075.212986533281	0.000053701340	0.066967111603	
+215000	2064.514751	1	1.992835735957	0.015330591703	1073.634021818173	0.000053700128	0.067734178780	
+216000	2063.182694	1	2.007908355751	0.015332976914	1073.908107197994	0.000054003034	0.071599569650	
+217000	2062.535951	1	1.982535466083	0.015331959357	1078.694874216749	0.000053845865	0.063812354777	
+218000	2063.768740	1	1.988162940058	0.015325626838	1075.401861872139	0.000053802424	0.071718669612	
+219000	2064.824808	1	2.006303227685	0.015327503960	1073.444824221895	0.000053647356	0.068343405124	
+220000	2063.884093	1	2.016057980349	0.015329647006	1077.856708487272	0.000053643327	0.070183263172	
+221000	2065.065793	1	2.003881272535	0.015328285567	1072.941642670280	0.000053624518	0.068859989935	
+222000	2065.122275	1	1.999341012095	0.015329179834	1072.633135418234	0.000053628484	0.068952052016	
+223000	2063.306571	1	2.011203174141	0.015325133587	1075.183278584459	0.000053866650	0.065459902882	
+224000	2064.511466	1	1.988839926405	0.015329314563	1075.091418713228	0.000053631865	0.068256543698	
+225000	2065.082080	1	2.001532512125	0.015329444831	1072.678682401830	0.000053635828	0.069083950452	
+226000	2064.876643	1	2.007624474204	0.015328781452	1073.818639394721	0.000053622750	0.069047272143	
+227000	2065.115277	1	2.002786553102	0.015328721437	1072.791513280305	0.000053622439	0.069001642705	
+228000	2063.914749	1	2.008944930191	0.015331791246	1074.262278951331	0.000053823901	0.071190063689	
+229000	2063.305771	1	2.006442699627	0.015332923144	1073.480974619190	0.000053993688	0.071058397415	
+230000	2063.755268	1	2.009569737842	0.015325560765	1074.496605318512	0.000053810461	0.066335176010	
+231000	2064.761496	1	1.997223197651	0.015330535702	1072.772386881403	0.000053695761	0.068499721881	
+232000	2063.338424	1	2.018996331719	0.015330057511	1079.934629419841	0.000053663605	0.071006874141	
+233000	2063.587865	1	1.981912257153	0.015327569241	1079.137781222887	0.000053644510	0.070343194788	
+234000	2063.174660	1	1.979960567235	0.015327153774	1080.625739312783	0.000053665547	0.071143817945	
+235000	2064.088149	1	1.992870670064	0.015325529458	1073.624107887938	0.000053814330	0.070649311519	
+236000	2065.012269	1	2.003615993384	0.015327768411	1072.900843876504	0.000053636883	0.068700803978	
+237000	2063.045242	1	1.991979559049	0.015324093022	1073.892316644339	0.000054034191	0.071677126000	
+238000	2064.730078	1	2.002336625890	0.015326603341	1072.743766396420	0.000053704095	0.068518594043	
+239000	2064.637479	1	1.992766059460	0.015330232781	1073.653941640529	0.000053674325	0.067953120515	
+240000	2063.576743	1	2.005225243574	0.015332635079	1073.191770826172	0.000053945597	0.070535080728	
+241000	2063.474381	1	1.981800599639	0.015327071181	1079.218782584843	0.000053670555	0.071086258442	
+242000	2062.551233	1	2.009478758120	0.015333598982	1074.461509210443	0.000054119600	0.072568686085	
+243000	2064.495232	1	1.988609809244	0.015329261541	1075.194877711713	0.000053630447	0.068290985852	
+244000	2064.974418	1	2.006120176413	0.015328719581	1073.398563845905	0.000053622431	0.069008833986	
+245000	2064.003481	1	1.994301674197	0.015331808663	1073.260129515551	0.000053826124	0.067336675947	
+246000	2063.939355	1	1.991176279654	0.015325459928	1074.161421430594	0.000053823064	0.071114340605	
+247000	2063.803308	1	2.016306581865	0.015329906826	1078.019084844771	0.000053655376	0.070546874916	
+248000	2063.506005	1	2.011937992765	0.015325578961	1075.527131773276	0.000053808230	0.065717789611	
+249000	2064.176839	1	1.987698045152	0.015330165027	1075.625707197927	0.000053670035	0.067280565716	
+250000	2065.023189	1	2.000655448283	0.015329802541	1072.637303546963	0.000053650214	0.069037673645	
+251000	2064.642058	1	2.008459489647	0.015327401475	1074.091043407436	0.000053652170	0.068044843177	
+252000	2061.036460	1	1.985770810894	0.015334257460	1076.646241875812	0.000054259920	0.061824461769	
+253000	2064.979837	1	1.995723368200	0.015327567940	1072.979961510751	0.000053644565	0.069327848042	
+254000	2064.539077	1	1.992120416209	0.015326622794	1073.847798968083	0.000053702526	0.070196463174	
+255000	2063.618575	1	1.991683260501	0.015324885577	1073.988562399680	0.000053902635	0.071328541167	
+256000	2064.261563	1	1.990557990086	0.015330749991	1074.386203334774	0.000053713151	0.067203408795	
+257000	2064.807885	1	1.997578731060	0.015326737883	1072.736427864194	0.000053693549	0.069302959123	
+258000	2065.029121	1	1.994749572106	0.015328561176	1073.163105311875	0.000053622316	0.068992426148	
+259000	2063.936309	1	1.994746094391	0.015331958659	1073.163827622080	0.000053845771	0.067380885286	
+260000	2064.305149	1	1.995472723440	0.015331394987	1073.023460990314	0.000053776622	0.067840790491	
+261000	2064.150503	1	1.987277205107	0.015326766517	1075.835825553520	0.000053691399	0.070796158050	
+262000	2063.553837	1	1.983711364085	0.015326365186	1077.901660773058	0.000053724545	0.071801467688	
+263000	2064.892045	1	2.007393194144	0.015328627770	1073.748142018545	0.000053622242	0.068950660543	
+264000	2063.968634	1	1.993589028981	0.015325259397	1073.431111821845	0.000053849340	0.070589908354	
+265000	2064.715800	1	1.990547379719	0.015329026569	1074.390194779211	0.000053625523	0.068607544426	
+266000	2064.894214	1	2.005418216236	0.015327582977	1073.233641038261	0.000053643932	0.068471507199	
+267000	2061.430938	1	2.024514147352	0.015332141242	1084.773653219639	0.000053870906	0.075626959560	
+268000	2064.578405	1	2.009094425194	0.015327367666	1074.316918297483	0.000053653851	0.067945844158	
+269000	2065.036178	1	2.004699714124	0.015329039317	1073.085326674008	0.000053625734	0.069133162606	
+270000	2064.959455	1	2.005584571748	0.015329399394	1073.270936372711	0.000053634368	0.069323243091	
+271000	2061.452283	1	1.998515894703	0.015322305832	1072.665969824752	0.000054423432	0.069209101883	
+272000	2064.763197	1	2.000584011245	0.015326596983	1072.635293889558	0.000053704612	0.068817427956	
+273000	2064.227348	1	2.012702361526	0.015327493514	1075.907824351729	0.000053647827	0.067655513393	
+274000	2062.118688	1	2.015849508940	0.015333329145	1077.722456940850	0.000054067128	0.074773911606	
+275000	2064.729708	1	1.991677687799	0.015329564450	1073.990406344509	0.000053640067	0.068278354837	
+276000	2064.034715	1	1.984453604154	0.015328603064	1077.429565397536	0.000053622249	0.068854182095	
+277000	2064.831977	1	1.992370209995	0.015329278164	1073.770811608652	0.000053630880	0.068526633359	
+278000	2061.704738	1	2.018553997405	0.015324469246	1079.599651754338	0.000053968597	0.062100763223	
+279000	2064.771406	1	2.004778640778	0.015330401084	1073.100605154690	0.000053685780	0.069650383121	
+280000	2064.736538	1	2.000293586020	0.015330735897	1072.629234090222	0.000053711950	0.068991743725	
+281000	2064.457706	1	1.996492645868	0.015331185232	1072.862208848309	0.000053754147	0.068156643718	
+282000	2065.073981	1	2.001642165197	0.015329488121	1072.686028415609	0.000053637295	0.069096563480	
+283000	2064.854295	1	1.996560017944	0.015330192938	1072.853028173077	0.000053671780	0.068502615095	
+284000	2064.756083	1	1.995201239303	0.015326779242	1073.073423645360	0.000053690454	0.069652565738	
+285000	2064.292769	1	1.987148462979	0.015327388788	1075.901525160651	0.000053652795	0.070175221350	
+286000	2064.559329	1	1.991593912708	0.015326793058	1074.018276899645	0.000053689435	0.070168944271	
+287000	2062.942367	1	1.988856960066	0.015324259641	1075.083845042764	0.000054004440	0.072682196173	
+288000	2061.891631	1	1.980326297413	0.015332304753	1080.335260830029	0.000053894552	0.062558371499	
+289000	2064.650664	1	2.010285103038	0.015328924494	1074.784146213001	0.000053624075	0.069174846577	
+290000	2064.248373	1	1.986247968801	0.015327807875	1076.379676440125	0.000053635561	0.069784893050	
+291000	2064.838239	1	1.992292986400	0.015327818106	1073.794344592497	0.000053635228	0.069450587479	
+292000	2064.689495	1	1.991789101033	0.015329786540	1073.953777742882	0.000053649461	0.068131265603	
+293000	2065.044283	1	1.995796381881	0.015327990581	1072.967764509816	0.000053630255	0.069185176989	
+294000	2063.923148	1	1.985021446490	0.015329841616	1077.083332952156	0.000053652097	0.067303806289	
+295000	2063.917840	1	1.984402024800	0.015329487212	1077.461656632669	0.000053637264	0.067697578540	
+296000	2061.231400	1	2.024002150743	0.015332634528	1084.273174334924	0.000053945508	0.076428881880	
+297000	2064.817018	1	1.991449461344	0.015328640545	1074.066995450830	0.000053622248	0.068924059492	
+298000	2064.491288	1	2.004967246128	0.015326291820	1073.138128294278	0.000053731304	0.067912997131	
+299000	2064.502807	1	2.007099594726	0.015326640262	1073.661743424833	0.000053701129	0.067709154565	
+300000	2064.135789	1	1.993651145260	0.015325540233	1073.415397047827	0.000053812994	0.070449727291	
+301000	2063.499068	1	1.982707921981	0.015326640067	1078.575067382004	0.000053701144	0.071588909763	
+302000	2064.338962	1	1.990390990254	0.015326431272	1074.449550365509	0.000053718642	0.070607847679	
+303000	2065.129174	1	1.998849886724	0.015328150700	1072.649385126425	0.000053626707	0.069021890954	
+304000	2064.328322	1	1.995375993385	0.015331341830	1073.040923280854	0.000053770759	0.067841704705	
+305000	2064.950001	1	2.005675988377	0.015327986825	1073.291904322530	0.000053630350	0.068650482792	
+306000	2064.870912	1	1.997785951222	0.015326919006	1072.717811141150	0.000053680500	0.069246971656	
+307000	2064.875817	1	2.000288212914	0.015330347733	1072.629153895000	0.000053682026	0.068998038149	
+308000	2063.553430	1	1.987412110288	0.015331482262	1075.767695054362	0.000053786493	0.065791073197	
+309000	2065.069646	1	2.001108946829	0.015327730801	1072.654841773192	0.000053638201	0.068883309262	
+310000	2065.044715	1	2.002553516981	0.015327758145	1072.765768202334	0.000053637237	0.068778586886	
+311000	2064.611502	1	1.992867311240	0.015326694167	1073.625058957138	0.000053696896	0.070040427517	
+312000	2063.811119	1	2.010651938925	0.015331722252	1074.939567835043	0.000053815216	0.071563193574	
+313000	2065.049635	1	2.004380680514	0.015329039168	1073.026118272503	0.000053625731	0.069123878234	
+314000	2063.523442	1	2.012673118483	0.015325764251	1075.892828212951	0.000053786272	0.065730543030	
+315000	2064.985707	1	1.996801327390	0.015329718348	1072.821641154650	0.000053646366	0.068675430110	
+316000	2064.402468	1	2.010464194592	0.015330361094	1074.859348816096	0.000053682955	0.070405413515	
+317000	2063.651026	1	1.985343212291	0.015330739741	1076.892889724916	0.000053712277	0.066211742155	
+318000	2065.125038	1	1.997808972704	0.015328883862	1072.715849324245	0.000053623615	0.068933300825	
+319000	2063.518715	1	2.008510490070	0.015332470027	1074.108588497433	0.000053919544	0.071503711591	
+320000	2064.059417	1	2.009802836161	0.015331387024	1074.588041707681	0.000053775736	0.071104508750	
+321000	2064.843486	1	1.997330798520	0.015326857337	1072.760968298523	0.000053684795	0.069321037940	
+322000	2063.829367	1	1.984977790613	0.015330135151	1077.109491865905	0.000053668202	0.066922129504	
+323000	2062.742061	1	1.986510466389	0.015332522743	1076.236930426301	0.000053927746	0.064312658730	
+324000	2064.631537	1	1.996127456641	0.015326360377	1072.915144697742	0.000053724982	0.069625378705	
+325000	2062.679374	1	2.007959540923	0.015333570520	1073.924583061990	0.000054113927	0.071941759847	
+326000	2063.901027	1	2.015786859383	0.015327943828	1077.682452930667	0.000053631485	0.067916105178	
+327000	2064.329706	1	1.988477105055	0.015329955851	1075.255507412563	0.000053657953	0.067600296646	
+328000	2064.424315	1	1.987544030651	0.015328026884	1075.701778813521	0.000053629360	0.069496066370	
+329000	2064.147474	1	2.012680729566	0.015327194404	1075.896727949847	0.000053663184	0.067329217630	
+330000	2064.057799	1	2.013773967264	0.015330302682	1076.481044228796	0.000053678945	0.070768146710	
+331000	2064.374693	1	1.997146991416	0.015325763327	1072.780755153340	0.000053786378	0.069535572710	
+332000	2058.241580	1	2.038611380968	0.015328804180	1102.689463348182	0.000053622906	0.068617180990	
+333000	2063.554441	1	2.009945836009	0.015332254054	1074.645215593650	0.000053887105	0.071787532757	
+334000	2062.620461	1	1.979062782290	0.015325959500	1081.361577679982	0.000053764626	0.073238283315	
+335000	2058.052019	1	2.006827113199	0.015320105628	1073.584656717944	0.000055078798	0.063176294324	
+336000	2065.087546	1	2.003587257558	0.015328483641	1072.896594090539	0.000053622627	0.068931764277	
+337000	2063.601666	1	2.015526690345	0.015326749638	1077.518012143538	0.000053692662	0.066341271106	
+338000	2064.636066	1	1.990373621240	0.015329469343	1074.456203153522	0.000053636649	0.068238894809	
+339000	2065.056457	1	2.004039416744	0.015329126476	1072.967309241993	0.000053627346	0.069142936104	
+340000	2064.894707	1	2.005510384099	0.015327609636	1073.254166893495	0.000053642834	0.068476011012	
+341000	2064.755026	1	1.992836856483	0.015329838573	1073.633703063965	0.000053651948	0.068211071088	
+342000	2065.074241	1	2.003013118754	0.015328059254	1072.818634569532	0.000053628607	0.068827167151	
+343000	2064.867996	1	1.992901499325	0.015327741142	1073.615399582860	0.000053637833	0.069458935842	
+344000	2064.611644	1	1.989973893845	0.015327540652	1074.612657263923	0.000053645735	0.069804105244	
+345000	2064.782267	1	1.991269214915	0.015327999673	1074.128961725671	0.000053630026	0.069380614701	
+346000	2065.142717	1	2.000026431654	0.015328278726	1072.626651125346	0.000053624612	0.068978662159	
+347000	2063.846432	1	1.983809052906	0.015327348732	1077.838262226141	0.000053654812	0.070508680392	
+348000	2062.470269	1	2.018987381423	0.015325652991	1079.927773509996	0.000053799292	0.063919480814	
+349000	2064.775769	1	1.990921166291	0.015328428443	1074.252308481800	0.000053622996	0.069076509175	
+350000	2063.690498	1	1.982370039906	0.015327793857	1078.810919859422	0.000053636023	0.069990105089	
+351000	2063.741408	1	2.006419224986	0.015325118862	1073.474835434230	0.000053868718	0.066896439952	
+352000	2064.755032	1	1.993457808606	0.015329997545	1073.464818667546	0.000053660221	0.068188424320	
+353000	2064.260353	1	2.004054439985	0.015331633043	1072.969799733718	0.000053804269	0.069895995002	
+354000	2065.030978	1	1.996058738224	0.015329316908	1072.925704514681	0.000053631930	0.068742941214	
+355000	2064.675964	1	1.992019394187	0.015327089325	1073.879646002736	0.000053669432	0.069925675293	
+356000	2064.707822	1	1.991307459993	0.015329522148	1074.115704529544	0.000053638502	0.068276663858	
+357000	2063.729288	1	2.014389761201	0.015331036434	1076.831308844073	0.000053739276	0.071689629267	
+358000	2064.883930	1	1.992371598485	0.015328297399	1073.770390674683	0.000053624361	0.069150371318	
+359000	2064.206476	1	2.014086988821	0.015328487773	1076.657188236100	0.000053622605	0.068694514091	
+360000	2064.687138	1	1.994289819187	0.015326691471	1073.262807012311	0.000053697105	0.069823950181	
+361000	2063.302339	1	2.018043831603	0.015327043881	1079.223063711865	0.000053672271	0.066353107228	
+362000	2064.884942	1	1.992400237451	0.015328273646	1073.761725764827	0.000053624682	0.069164610704	
+363000	2065.037858	1	2.004345927404	0.015329202442	1073.019915458130	0.000053629000	0.069181261384	
+364000	2064.816237	1	2.007820555064	0.015329446714	1073.880090310367	0.000053635890	0.069479267629	
+365000	2064.999312	1	1.999604877353	0.015329899172	1072.628405471449	0.000053654982	0.068928558973	
+366000	2063.814143	1	1.988003638989	0.015325746775	1075.477587220160	0.000053788284	0.071646090718	
+367000	2061.896933	1	1.991941735443	0.015334134279	1073.904406448959	0.000054232346	0.064894403914	
+368000	2062.658388	1	1.977439988674	0.015329530077	1082.773783755304	0.000053638790	0.066948304508	
+369000	2064.929109	1	1.994184564997	0.015329405535	1073.286826575483	0.000053634560	0.068578192407	
+370000	2062.677561	1	2.012021780248	0.015324424729	1075.567716878222	0.000053976062	0.064428824017	
+371000	2063.847552	1	2.016365567121	0.015328172802	1078.057975938740	0.000053626299	0.068189276165	
+372000	2064.637037	1	1.994545349247	0.015330558048	1073.206345004519	0.000053697488	0.068046113659	
+373000	2064.840329	1	2.007780136777	0.015329261540	1073.867297046798	0.000053630447	0.069358615609	
+374000	2064.975469	1	2.005045144992	0.015327930232	1073.154043208658	0.000053631859	0.068663200443	
+375000	2064.975426	1	2.005578530986	0.015328153815	1073.269562643865	0.000053626649	0.068737853911	
+376000	2064.856348	1	2.007771309096	0.015328420295	1073.864511624269	0.000053623061	0.068810242876	
+377000	2064.790948	1	2.007327345096	0.015329803795	1073.728463214463	0.000053650273	0.069662161006	
+378000	2064.734676	1	1.992909232042	0.015327091196	1073.613221319366	0.000053669317	0.069819213012	
+379000	2065.065567	1	2.000312178568	0.015329594794	1072.629520537374	0.000053641233	0.069002952380	
+380000	2064.040389	1	1.984481262310	0.015328557129	1077.412401273544	0.000053622327	0.068913883041	
+381000	2065.096221	1	2.003427916682	0.015328625650	1072.873630718960	0.000053622242	0.068976314861	
+382000	2063.527908	1	2.015560956328	0.015326582370	1077.539514638998	0.000053705805	0.066108732986	
+383000	2064.747237	1	1.993348092696	0.015329999924	1073.493532453224	0.000053660353	0.068173496649	
+384000	2064.121962	1	1.988179616060	0.015330480376	1075.393993698679	0.000053691571	0.067027020435	
+385000	2064.648895	1	2.004763357874	0.015330750714	1073.097627185326	0.000053713212	0.069772078043	
+386000	2061.762756	1	1.995917294175	0.015322596384	1072.948036865640	0.000054351419	0.070514058337	
+387000	2064.907867	1	2.005922513868	0.015329625653	1073.350122099032	0.000053642458	0.069451108631	
+388000	2064.648890	1	1.993631111609	0.015330374069	1073.420448423874	0.000053683865	0.067996692799	
+389000	2064.772917	1	2.008251600923	0.015327971370	1074.020606605911	0.000053630750	0.068479213959	
+390000	2062.691367	1	1.989070194240	0.015323926793	1074.990020811114	0.000054064984	0.072867962176	
+391000	2063.924587	1	2.006381260335	0.015325397880	1073.464953601873	0.000053831022	0.067081894732	
+392000	2064.735251	1	2.009388170488	0.015328820728	1074.426894643752	0.000053623032	0.069082141085	
+393000	2064.971751	1	2.005151052791	0.015327941615	1073.176071322417	0.000053631545	0.068661546233	
+394000	2065.098811	1	2.000424780455	0.015327871957	1072.631551998172	0.000053633547	0.068944084663	
+395000	2063.841063	1	2.015727488364	0.015327606003	1077.644687863039	0.000053642982	0.067467346125	
+396000	2064.445899	1	1.987824088326	0.015328959236	1075.564160171348	0.000053624521	0.068546771901	
+397000	2064.882773	1	2.003672779697	0.015327200601	1072.909339616105	0.000053662829	0.068501498092	
+398000	2064.983626	1	2.005921018043	0.015328865738	1073.349761495095	0.000053623431	0.069081561176	
+399000	2064.266979	1	1.987367198904	0.015329703702	1075.790295266528	0.000053645725	0.067732032984	
+400000	2062.768461	1	2.022061236127	0.015330030896	1082.471526044496	0.000053662086	0.071242029728	
+401000	2064.445938	1	2.008479875730	0.015326777938	1074.098044064706	0.000053690550	0.067571857561	
+402000	2064.936415	1	2.002700117691	0.015330055670	1072.781709717321	0.000053663499	0.069285365615	
+403000	2063.149256	1	2.012612130222	0.015332481882	1075.861663301008	0.000053921379	0.072772568808	
+404000	2063.668227	1	1.986651267608	0.015325750441	1076.161503123137	0.000053787861	0.071944121335	
+405000	2064.124319	1	1.997597416467	0.015331860889	1072.734678418620	0.000053832862	0.068216358689	
+406000	2064.834821	1	1.991668000628	0.015328613780	1073.993614690151	0.000053622243	0.068945231370	
+407000	2064.716305	1	2.002746541633	0.015330731838	1072.786937851794	0.000053711606	0.069419654839	
+408000	2064.923907	1	2.003307571565	0.015327303294	1072.856963119267	0.000053657178	0.068579356320	
+409000	2063.346474	1	1.981823721934	0.015330084088	1079.201967527188	0.000053665152	0.066538060684	
+410000	2064.760314	1	1.994958023845	0.015326821930	1073.120697680829	0.000053687330	0.069672840928	
+411000	2064.408074	1	1.989196368388	0.015326961563	1074.935363444306	0.000053677625	0.070362305671	
+412000	2064.584713	1	1.994118405115	0.015326436136	1073.302152345396	0.000053718215	0.069960500457	
+413000	2059.607135	1	1.991720379433	0.015336005803	1073.976311980086	0.000054716989	0.063232034828	
+414000	2064.958759	1	1.994206818233	0.015329209789	1073.281711178550	0.000053629172	0.068676853364	
+415000	2064.921582	1	2.006845431766	0.015329028411	1073.589745657898	0.000053625553	0.069185603010	
+416000	2064.623035	1	1.992700241919	0.015330262613	1073.672937306846	0.000053676273	0.067924405143	
+417000	2064.404101	1	1.990495820591	0.015330369302	1074.409654837396	0.000053683530	0.067510112046	
+418000	2064.888299	1	1.998160614127	0.015326958913	1072.688529198161	0.000053677802	0.069190378606	
+419000	2063.511942	1	1.987859282110	0.015325225138	1075.547088957410	0.000053853991	0.072159595580	
+420000	2063.350510	1	1.993279823288	0.015324386372	1073.511643266239	0.000053982558	0.071070372427	
+421000	2064.441261	1	1.988144370692	0.015329279705	1075.410636527383	0.000053630920	0.068241071096	
+422000	2060.597302	1	2.003514182845	0.015321725144	1072.885936357126	0.000054577514	0.066311027989	
+423000	2065.106582	1	2.002406847373	0.015328217017	1072.750682961871	0.000053625540	0.068892752777	
+424000	2064.579166	1	1.991612323707	0.015330136193	1074.012127705812	0.000053668265	0.067857320854	
+425000	2062.248318	1	2.015392593717	0.015324477066	1077.434317565355	0.000053967293	0.063267350163	
+426000	2063.939023	1	2.013792790108	0.015330679169	1076.491525048524	0.000053707199	0.071188044406	
+427000	2063.378012	1	1.980426544946	0.015328039786	1080.256578021726	0.000053629055	0.069682176201	
+428000	2064.784583	1	1.993392485549	0.015329869924	1073.481856152629	0.000053653499	0.068254334781	
+429000	2064.314880	1	2.005215008205	0.015331453017	1073.189591775598	0.000053783151	0.070114929756	
+430000	2063.041354	1	1.985754144065	0.015331955577	1076.655718118626	0.000053845358	0.064773336087	
+431000	2064.862420	1	2.005792552048	0.015329892245	1073.319126997532	0.000053654628	0.069564345797	
+432000	2063.861393	1	2.015525698210	0.015327564698	1077.517390264262	0.000053644702	0.067433537145	
+433000	2064.932941	1	1.994580343591	0.015327571931	1073.198816801543	0.000053644396	0.069419966396	
+434000	2064.973021	1	2.005885223691	0.015329110692	1073.341159224014	0.000053627031	0.069201108362	
+435000	2064.989451	1	1.998972375196	0.015329914687	1072.644425650678	0.000053655782	0.068858697651	
+436000	2064.320436	1	2.012165461596	0.015327614643	1075.637969774446	0.000053642631	0.067841949342	
+437000	2063.537201	1	1.982699377763	0.015329945335	1078.580975011931	0.000053657392	0.066868315917	
+438000	2065.102443	1	2.000380256736	0.015327895773	1072.630687873969	0.000053632841	0.068948282617	
+439000	2064.277862	1	1.987022875293	0.015327387355	1075.966256399767	0.000053652866	0.070187555492	
+440000	2064.681692	1	2.005031436577	0.015330633729	1073.151224878167	0.000053703487	0.069774355769	
+441000	2065.048231	1	2.003058290443	0.015329468308	1072.824288388559	0.000053636614	0.069189985621	
+442000	2064.664990	1	1.994059560917	0.015330404093	1073.315931167755	0.000053685995	0.068046723685	
+443000	2064.785464	1	2.008118848529	0.015327985302	1073.976535562636	0.000053630389	0.068497637746	
+444000	2063.858542	1	1.998658667220	0.015332311632	1072.658332083941	0.000053895570	0.068418681161	
+445000	2064.274488	1	1.988163368479	0.015326857216	1075.401659592281	0.000053684804	0.070588243449	
+446000	2064.510175	1	1.990585620207	0.015326887171	1074.375830558094	0.000053682699	0.070242441788	
+447000	2063.350147	1	1.983724463311	0.015325875686	1077.893137325499	0.000053773730	0.072427657897	
+448000	2063.789034	1	2.002905128086	0.015324908705	1072.805450289725	0.000053899175	0.067874115501	
+449000	2064.843601	1	1.997301748323	0.015326859426	1072.764005276328	0.000053684647	0.069324868131	
+450000	2064.737476	1	2.006454311701	0.015327201542	1073.484019638194	0.000053662776	0.068152849485	
+451000	2064.114995	1	1.985240102719	0.015327788524	1076.953464351690	0.000053636201	0.069858199331	
+452000	2062.234147	1	2.015224108800	0.015333288833	1077.330183751174	0.000054059540	0.074496490038	
+453000	2062.728309	1	1.984393562204	0.015324645175	1077.466932027429	0.000053939874	0.073768608388	
+454000	2064.102231	1	2.012849201590	0.015330527084	1075.983644694055	0.000053695100	0.070886432014	
+455000	2064.248242	1	2.013815695625	0.015328598074	1076.504298350224	0.000053622253	0.068830779262	
+456000	2063.826588	1	1.989705770290	0.015325467060	1074.721197224828	0.000053822159	0.071478608795	
+457000	2065.015076	1	2.005246735373	0.015328964549	1073.196359998189	0.000053624594	0.069116073791	
+458000	2064.717891	1	2.009465541417	0.015328430744	1074.456438422765	0.000053622978	0.068771053613	
+459000	2064.975422	1	1.994389066802	0.015329154058	1073.240565754322	0.000053627920	0.068713732102	
+460000	2064.759703	1	2.003361202477	0.015326774498	1072.864319062717	0.000053690805	0.068399438441	
+461000	2064.865721	1	1.992474608324	0.015329068248	1073.739378202711	0.000053626235	0.068667114013	
+462000	2062.589550	1	1.977863293322	0.015330085555	1082.395214549364	0.000053665238	0.065954723125	
+463000	2064.975106	1	2.001624991226	0.015327321574	1072.684845982212	0.000053656216	0.068773846664	
+464000	2064.773538	1	2.005671793028	0.015327159000	1073.290934700141	0.000053665239	0.068229962492	
+465000	2064.633918	1	1.989386328914	0.015328618669	1074.854280396919	0.000053622242	0.068914940389	
+466000	2064.842586	1	2.003712160978	0.015327067432	1072.915307458828	0.000053670789	0.068449274830	
+467000	2060.768358	1	1.979431228908	0.015333428986	1081.055676675928	0.000054086202	0.060240066300	
+468000	2064.603658	1	1.998850412817	0.015331016453	1072.649362536793	0.000053737346	0.068694578778	
+469000	2064.273336	1	2.012130464799	0.015327404332	1075.620781733867	0.000053652030	0.067624819149	
+470000	2061.791755	1	1.977080643989	0.015325091422	1083.100800014742	0.000053872594	0.075193020658	
+471000	2062.705965	1	2.021221249739	0.015330855177	1081.738719044180	0.000053722361	0.072590266587	
+472000	2064.258030	1	2.005077617977	0.015331571760	1073.160749485980	0.000053796934	0.070125577001	
+473000	2061.318118	1	1.993328464013	0.015322274656	1073.498720465288	0.000054431360	0.071916288631	
+474000	2064.801550	1	2.000925474503	0.015326712715	1072.646751450568	0.000053695467	0.068774797674	
+475000	2062.540940	1	2.023296151587	0.015329871553	1083.600324972235	0.000053653581	0.071045203538	
+476000	2065.070079	1	2.002129184236	0.015329462995	1072.724490785075	0.000053636434	0.069126532321	
+477000	2064.886430	1	2.006621105185	0.015327940497	1073.528355229253	0.000053631576	0.068565890506	
+478000	2064.786930	1	1.993586823713	0.015327139988	1073.431672580271	0.000053666364	0.069714386823	
+479000	2064.889260	1	1.994212747112	0.015329630072	1073.280351650420	0.000053642636	0.068467849737	
+480000	2064.768000	1	2.008152869971	0.015329610308	1073.987762524401	0.000053641844	0.069607542055	
+481000	2064.799611	1	2.008482950288	0.015329112563	1074.099101327899	0.000053627068	0.069284160321	
+482000	2064.795605	1	1.991742437726	0.015327793876	1073.969058259729	0.000053636022	0.069498044438	
+483000	2064.910412	1	2.003288042194	0.015327249190	1072.854313188427	0.000053660102	0.068564473398	
+484000	2064.923694	1	1.996133224249	0.015329883232	1072.914267028238	0.000053654170	0.068553934865	
+485000	2063.240924	1	1.981344062868	0.015330149152	1079.555183882847	0.000053669056	0.066365431783	
+486000	2065.024049	1	1.996338445250	0.015327703260	1072.883907602456	0.000053639202	0.069239569444	
+487000	2064.378023	1	1.999471562255	0.015331490775	1072.630445728259	0.000053787473	0.068769742405	
+488000	2065.017507	1	2.002096359126	0.015327552236	1072.721599030391	0.000053645235	0.068770419739	
+489000	2064.289251	1	1.990585661547	0.015330690152	1074.375815061693	0.000053708109	0.067258499754	
+490000	2063.934671	1	1.983747007633	0.015328453305	1077.878484247198	0.000053622815	0.069042912565	
+491000	2064.946882	1	2.005682610713	0.015329455496	1073.293436305049	0.000053636182	0.069354781920	
+492000	2064.917022	1	1.992953158540	0.015328847379	1073.600893036868	0.000053623259	0.068820079688	
+493000	2063.913916	1	2.010412366503	0.015325997886	1074.837453153624	0.000053760550	0.066523100150	
+494000	2064.081685	1	1.991767593214	0.015331349610	1073.960809897889	0.000053771610	0.066986782932	
+495000	2064.861666	1	1.996653941977	0.015326964221	1072.840533529791	0.000053677448	0.069393972205	
+496000	2064.624472	1	1.999727452283	0.015326243616	1072.627159441180	0.000053735862	0.068948449100	
+497000	2065.062948	1	1.995658605294	0.015328814256	1072.990959392407	0.000053622981	0.068902610108	
+498000	2064.424196	1	1.992673143975	0.015330784763	1073.680808632395	0.000053716146	0.067578851318	
+499000	2064.114487	1	2.000787772877	0.015325310390	1072.641567526155	0.000053842505	0.068601194201	
+500000	2065.066580	1	1.997344390955	0.015329357832	1072.759558951956	0.000053633106	0.068813452668	
+501000	2065.053009	1	2.002615212042	0.015329508790	1072.772371797859	0.000053638023	0.069168507332	
+502000	2064.698514	1	1.990657048920	0.015327713053	1074.349157197022	0.000053638843	0.069621760634	
+503000	2063.648680	1	1.989914484350	0.015331799940	1074.636458015308	0.000053825009	0.066134317804	
+504000	2063.986850	1	2.011749723427	0.015326460152	1075.436966147451	0.000053716118	0.066695733299	
+505000	2063.007358	1	2.014111969014	0.015332438610	1076.671414683205	0.000053914708	0.073180988491	
+506000	2065.005838	1	2.004166725492	0.015329512786	1072.988701025566	0.000053638165	0.069277992732	
+507000	2063.793243	1	1.983050172849	0.015328974620	1078.340839754813	0.000053624734	0.068302329072	
+508000	2064.685110	1	2.009299522468	0.015329554951	1074.393340291286	0.000053639709	0.069647118858	
+509000	2064.346164	1	2.000843587562	0.015325708112	1072.643576948720	0.000053792779	0.068648109034	
+510000	2064.991523	1	1.995658967613	0.015327646788	1072.990897395804	0.000053641351	0.069307137922	
+511000	2062.772897	1	2.011943850321	0.015333084393	1075.529959898097	0.000054022063	0.073104621640	
+512000	2064.533153	1	1.999054412293	0.015331174805	1072.641440958844	0.000053753076	0.068714172627	
+513000	2063.023076	1	2.021281351589	0.015329251798	1081.790210851032	0.000053630199	0.069806509402	
+514000	2063.954501	1	2.002676319370	0.015325139379	1072.779063176041	0.000053865839	0.068020058045	
+515000	2062.338598	1	2.009695428503	0.015333813197	1074.545638309193	0.000054163337	0.072800613762	
+516000	2064.163285	1	1.996828372993	0.015331752339	1072.818269089821	0.000053818980	0.068042393049	
+517000	2062.809844	1	1.990519971496	0.015323928622	1074.400526223808	0.000054064640	0.072319556468	
+518000	2064.375766	1	1.992708222607	0.015326120508	1073.670624723650	0.000053747928	0.070377124935	
+519000	2065.036993	1	2.004465510096	0.015329159158	1073.041462556081	0.000053628029	0.069170527971	
+520000	2064.129185	1	1.985168931572	0.015328058791	1076.995524931750	0.000053628618	0.069533630351	
+521000	2062.671322	1	2.001528139265	0.015323504417	1072.678399462662	0.000054148219	0.067959681954	
+522000	2064.755382	1	2.009135348733	0.015328916097	1074.332032040425	0.000053623975	0.069153921254	
+523000	2064.332868	1	1.986960812437	0.015327785537	1075.998479116596	0.000053636301	0.069772440094	
+524000	2064.035956	1	2.004953718839	0.015331967083	1073.135389473900	0.000053846901	0.070229592240	
+525000	2064.945023	1	2.001758260973	0.015330085292	1072.694332343033	0.000053665222	0.069178641993	
+526000	2064.676450	1	1.996129467774	0.015326471827	1072.914838507600	0.000053715107	0.069596076994	
+527000	2064.226396	1	1.986809603165	0.015329580946	1076.077633786887	0.000053640696	0.067810274050	
+528000	2064.790892	1	2.001342415598	0.015330585711	1072.667091471106	0.000053699654	0.069166021718	
+529000	2065.067287	1	2.004191635168	0.015328811469	1072.992962758726	0.000053622960	0.069038693696	
+530000	2059.953606	1	2.018487049709	0.015322678094	1079.549637255350	0.000054331778	0.059159740688	
+531000	2064.437663	1	2.005286001477	0.015326213549	1073.204792448759	0.000053738753	0.067808939838	
+532000	2064.652207	1	2.009810232507	0.015328080310	1074.590978757940	0.000053628140	0.068467971036	
+533000	2065.072064	1	2.000276700877	0.015329558451	1072.628985977815	0.000053639840	0.068999889576	
+534000	2065.095390	1	2.003386945605	0.015328515622	1072.867890987881	0.000053622470	0.068944397719	
+535000	2065.150065	1	2.000827265452	0.015328614841	1072.642976380974	0.000053622242	0.068982177193	
+536000	2064.234738	1	2.010544369861	0.015330833709	1074.893432755353	0.000053720445	0.070811015301	
+537000	2065.044769	1	1.995952138083	0.015327944441	1072.942460833879	0.000053631468	0.069192296712	
+538000	2064.838435	1	2.008116502031	0.015328889382	1073.975762939986	0.000053623674	0.069122211506	
+539000	2064.310899	1	2.012174181790	0.015330045405	1075.642260194575	0.000053662911	0.070318088727	
+540000	2064.762650	1	1.998850920743	0.015326577380	1072.649340737804	0.000053706214	0.069111373125	
+541000	2064.070936	1	2.014372405484	0.015329925870	1076.821228314251	0.000053656365	0.070400884678	
+542000	2064.615070	1	1.997330785633	0.015330908925	1072.760969638292	0.000053727239	0.068416427870	
+543000	2064.876559	1	2.007349922684	0.015329194361	1073.735190845036	0.000053628813	0.069299151417	
+544000	2063.822897	1	2.001172293567	0.015324881605	1072.657949057882	0.000053903231	0.068410795944	
+545000	2064.455866	1	2.003692378461	0.015326084740	1072.912301828820	0.000053751547	0.068090456648	
+546000	2065.140280	1	1.999856275103	0.015328239862	1072.626500241103	0.000053625178	0.068983402450	
+547000	2065.144796	1	1.999403432399	0.015328323872	1072.631763990667	0.000053624030	0.068994843958	
+548000	2063.667334	1	2.011619126547	0.015331814658	1075.375257152901	0.000053826892	0.071881423984	
+549000	2064.713230	1	1.997078201437	0.015330651398	1072.788509334807	0.000053704921	0.068442655194	
+550000	2065.119990	1	2.001926389448	0.015329055014	1072.707317589359	0.000053626001	0.069050974854	
+551000	2064.485771	1	2.007946530232	0.015330726216	1073.920385110200	0.000053711130	0.070296739219	
+552000	2064.334682	1	2.012103183817	0.015329974322	1075.607417293457	0.000053658949	0.070240985130	
+553000	2063.887019	1	2.016194391708	0.015328281255	1077.945499494058	0.000053624577	0.068347779938	
+554000	2064.802923	1	1.994107150021	0.015329968268	1073.304777056543	0.000053658621	0.068283487564	
+555000	2064.457642	1	2.009292745854	0.015330514951	1074.390788246480	0.000053694175	0.070363681373	
+556000	2065.120463	1	2.000623426402	0.015329209467	1072.636377366265	0.000053629165	0.069013121100	
+557000	2063.234701	1	1.980461895681	0.015329620563	1080.228928010855	0.000053642253	0.067106926016	
+558000	2064.841096	1	2.004134551769	0.015330252725	1072.983233385632	0.000053675623	0.069512585454	
+559000	2064.525978	1	1.999924666535	0.015331210314	1072.626421124460	0.000053756742	0.068898090883	
+560000	2064.937519	1	1.995608705641	0.015329731375	1072.999548128828	0.000053646942	0.068555258928	
+561000	2064.010214	1	1.984586604646	0.015327668824	1077.347309177723	0.000053640497	0.070041459185	
+562000	2065.146567	1	2.001177205982	0.015328644354	1072.658196755239	0.000053622251	0.068984572354	
+563000	2065.089980	1	1.999005233137	0.015329408194	1072.643197756175	0.000053634644	0.068914619625	
+564000	2065.032488	1	1.996401364399	0.015329391710	1072.874938432357	0.000053634129	0.068741052701	
+565000	2064.930000	1	1.997713118948	0.015327123876	1072.724157865430	0.000053667328	0.069227819344	
+566000	2063.369374	1	1.988240957396	0.015331948058	1075.365147355457	0.000053844353	0.065511885772	
+567000	2062.691511	1	2.022704606506	0.015329700501	1083.051968949555	0.000053645586	0.070682218146	
+568000	2065.032626	1	2.004963730666	0.015328536839	1073.137415824886	0.000053622388	0.068930671229	
+569000	2063.814452	1	1.983061602625	0.015328771192	1078.333098689673	0.000053622687	0.068590596436	
+570000	2064.544813	1	1.990656430570	0.015326986967	1074.349387226129	0.000053675944	0.070160150455	
+571000	2063.964724	1	1.994943814429	0.015331931675	1073.123533033318	0.000053842170	0.067450729096	
+572000	2063.202169	1	1.988304352049	0.015324680285	1075.335494214275	0.000053934290	0.072514568304	
+573000	2064.123876	1	2.013311112115	0.015327389461	1076.227797122131	0.000053652762	0.067468472659	
+574000	2064.092728	1	1.986555948852	0.015329979172	1076.212478383547	0.000053659213	0.067329311604	
+575000	2063.259511	1	2.018473892629	0.015330676758	1079.539829182509	0.000053707000	0.071886855913	
+576000	2064.651399	1	1.989756724451	0.015328934621	1074.700348095279	0.000053624200	0.068649916734	
+577000	2064.805827	1	1.994930246307	0.015330117718	1073.126247990092	0.000053667149	0.068314054699	
+578000	2064.637888	1	2.002370370771	0.015330941273	1072.747065428912	0.000053730231	0.069385474804	
+579000	2063.597852	1	2.018066704902	0.015329393608	1079.239724223768	0.000053634188	0.069932238938	
+580000	2064.333995	1	2.004806271076	0.015325948115	1073.106012901259	0.000053765846	0.067783132995	
+581000	2065.080441	1	1.997208284439	0.015327934304	1072.774006158351	0.000053631746	0.069128565276	
+582000	2064.743201	1	1.990538360258	0.015328456815	1074.393591306254	0.000053622791	0.069056039997	
+583000	2065.057673	1	2.002216857234	0.015327784142	1072.732426554785	0.000053636348	0.068809581291	
+584000	2065.143017	1	2.000583735614	0.015328324982	1072.635286532480	0.000053624016	0.068965308921	
+585000	2064.378868	1	2.006664621510	0.015326275817	1073.540106140348	0.000053732807	0.067559570488	
+586000	2063.837454	1	2.015374394558	0.015330335710	1077.423014466776	0.000053681195	0.071002903409	
+587000	2065.055903	1	1.997174255970	0.015327761565	1072.777734413580	0.000053637118	0.069166637973	
+588000	2063.664680	1	2.003642665294	0.015332581115	1072.904818103105	0.000053936958	0.070003266792	
+589000	2064.769647	1	2.001367620831	0.015330642711	1072.668544873337	0.000053704214	0.069174086033	
+590000	2064.933829	1	1.998892579589	0.015327092083	1072.647588110645	0.000053669262	0.069083859825	
+591000	2060.501414	1	1.969200326130	0.015329901130	1091.576056664073	0.000053655083	0.065101253896	
+592000	2064.728104	1	2.000200216518	0.015326496841	1072.628005512589	0.000053712959	0.068874990808	
+593000	2064.446090	1	1.991123691378	0.015330410583	1074.179942731882	0.000053686460	0.067576849170	
+594000	2064.792945	1	2.004396379950	0.015327002892	1073.028936249522	0.000053674903	0.068329830085	
+595000	2065.081832	1	2.000414612725	0.015329499513	1072.631347646276	0.000053637694	0.069009558745	
+596000	2063.818385	1	1.995589306444	0.015332206716	1073.002914117595	0.000053880246	0.067509626903	
+597000	2064.121077	1	2.004144337584	0.015325503674	1072.984891999008	0.000053817546	0.067745393734	
+598000	2064.895322	1	2.002595927078	0.015330212729	1072.770291187572	0.000053673036	0.069302261654	
+599000	2064.615534	1	2.005846555856	0.015330712039	1073.331924203129	0.000053709936	0.069940240920	
+600000	2064.718429	1	2.008831613825	0.015327928356	1074.221460669061	0.000053631911	0.068408411176	
+601000	2064.650769	1	2.001401307344	0.015330937727	1072.670527167336	0.000053729901	0.069199750294	
+602000	2063.070975	1	2.016610137951	0.015331781343	1078.220721097121	0.000053822643	0.073071161922	
+603000	2064.481543	1	1.993247280221	0.015330745853	1073.520342317649	0.000053712797	0.067711545595	
+604000	2065.084096	1	2.002970531062	0.015328139222	1072.813379223614	0.000053626927	0.068850849527	
+605000	2063.957762	1	2.009297476126	0.015325869332	1074.392569453158	0.000053774432	0.066672006900	
+606000	2065.153778	1	2.000101183289	0.015328608344	1072.627085041497	0.000053622245	0.068983040429	
+607000	2064.828616	1	2.006217190970	0.015327497029	1073.422913570486	0.000053647668	0.068348302769	
+608000	2065.011682	1	1.995716417239	0.015329355631	1072.981133836676	0.000053633041	0.068706925844	
+609000	2064.323549	1	2.006951024922	0.015326200958	1073.619342425357	0.000053739974	0.067452382005	
+610000	2063.103350	1	1.985868870935	0.015331885553	1076.590713890392	0.000053836083	0.064894835238	
+611000	2064.058630	1	1.984735219130	0.015328858920	1077.256236679155	0.000053623366	0.068533961953	
+612000	2065.123471	1	1.998217229714	0.015329021054	1072.684594704972	0.000053625434	0.068922525895	
+613000	2064.403354	1	2.006205353040	0.015326261368	1073.419922115159	0.000053734173	0.067645006684	
+614000	2063.224319	1	2.019749242803	0.015329962036	1080.522876672760	0.000053658285	0.070923287949	
+615000	2063.539919	1	2.017885663958	0.015327809541	1079.108432177026	0.000053635506	0.067548430058	
+616000	2064.598048	1	2.003680377652	0.015326394666	1072.910486161505	0.000053721890	0.068209353495	
+617000	2064.350784	1	2.013037878890	0.015328744700	1076.082338769531	0.000053622542	0.069006464065	
+618000	2064.637352	1	1.992864841922	0.015326772107	1073.625758446552	0.000053690983	0.069998672772	
+619000	2064.358944	1	2.008829395535	0.015330888507	1074.220666753829	0.000053725373	0.070553735947	
+620000	2064.353042	1	1.994547350647	0.015331205705	1073.205913124882	0.000053756263	0.067718366210	
+621000	2064.183415	1	1.990330869946	0.015326069459	1074.472629634725	0.000053753109	0.070885335695	
+622000	2063.066907	1	1.988255023121	0.015332386299	1075.358554114411	0.000053906746	0.065051720989	
+623000	2062.919568	1	2.007694970523	0.015333313716	1073.840554861081	0.000054064216	0.071702115703	
+624000	2064.776199	1	2.006387289649	0.015327327298	1073.466519107543	0.000053655918	0.068233787076	
+625000	2062.647526	1	1.991453476980	0.015323668209	1074.065629788335	0.000054115091	0.072115777020	
+626000	2064.848049	1	2.003925971308	0.015330253075	1072.948795386247	0.000053675646	0.069485346397	
+627000	2063.921885	1	1.985473537337	0.015326734115	1076.816937516044	0.000053693835	0.071080918264	
+628000	2064.743731	1	1.990723480241	0.015328887747	1074.324533901358	0.000053623656	0.068723595767	
+629000	2064.623980	1	1.989270675617	0.015328555116	1074.903473455965	0.000053622332	0.068969946833	
+630000	2063.462253	1	1.993653086227	0.015332541490	1073.414908499966	0.000053930690	0.066710771870	
+631000	2061.676354	1	2.002810494518	0.015334740229	1072.794281797826	0.000054373861	0.069970163256	
+632000	2065.005717	1	1.997890237496	0.015327418543	1072.709094382744	0.000053651339	0.069166358079	
+633000	2064.842930	1	1.992595636305	0.015327705310	1073.703485628475	0.000053639127	0.069499759071	
+634000	2064.725547	1	1.995547438731	0.015330456506	1073.010230168522	0.000053689801	0.068256635919	
+635000	2064.771636	1	1.991415907904	0.015327799820	1074.078431827485	0.000053635825	0.069513035961	
+636000	2064.497284	1	2.011739363410	0.015329033824	1075.432045869414	0.000053625642	0.069297806474	
+637000	2064.389725	1	2.010169597147	0.015327070065	1074.736327276572	0.000053670625	0.067554122268	
+638000	2064.955942	1	2.005760449454	0.015329354629	1073.311575200636	0.000053633011	0.069312361571	
+639000	2064.995060	1	2.005733423789	0.015328817685	1073.305249786917	0.000053623008	0.069056057860	
+640000	2064.755706	1	2.001370956377	0.015330679521	1072.668739121733	0.000053707228	0.069177173218	
+641000	2064.458871	1	1.987937378085	0.015327916717	1075.509385131884	0.000053632238	0.069591203284	
+642000	2064.419906	1	2.003199326722	0.015325971946	1072.842468268663	0.000053763298	0.068158909375	
+643000	2064.246865	1	1.990973085485	0.015330871270	1074.233599826248	0.000053723810	0.067184646671	
+644000	2065.118782	1	1.997818067616	0.015328196110	1072.715080150589	0.000053625889	0.069053056281	
+645000	2065.101969	1	2.000769901800	0.015327915800	1072.640950581019	0.000053632264	0.068926048633	
+646000	2063.737456	1	1.999209234733	0.015324724717	1072.636544573128	0.000053927296	0.069018629472	
+647000	2065.097462	1	2.001878473335	0.015329293505	1072.703501163431	0.000053631288	0.069085077415	
+648000	2064.545330	1	1.998832672528	0.015331141680	1072.650130410119	0.000053749703	0.068671725932	
+649000	2064.426546	1	2.001601836448	0.015325888070	1072.683270520200	0.000053772367	0.068500426919	
+650000	2063.744591	1	2.011182535972	0.015331752820	1075.173934189109	0.000053819041	0.071718903287	
+651000	2064.597921	1	2.004156674319	0.015330931739	1072.986988452339	0.000053729345	0.069721357917	
+652000	2065.054075	1	2.003275754667	0.015327964400	1072.852653750736	0.000053630933	0.068785550892	
+653000	2064.010846	1	1.998207721367	0.015325123407	1072.685246491798	0.000053868078	0.069324072629	
+654000	2065.149973	1	2.000821830932	0.015328592314	1072.642778793558	0.000053622259	0.068980473602	
+655000	2064.670477	1	1.993292948074	0.015326796645	1073.508146930562	0.000053689171	0.069923833918	
+656000	2064.666701	1	2.009932392461	0.015328322064	1074.639805648419	0.000053624051	0.068665984427	
+657000	2064.502343	1	2.001655805482	0.015331256717	1072.686975993974	0.000053761608	0.069274407181	
+658000	2064.885049	1	2.005228565750	0.015329913887	1073.192479002476	0.000053655741	0.069517406766	
+659000	2063.952995	1	1.990974025223	0.015331457848	1074.233262196680	0.000053783701	0.066709055365	
+660000	2064.612748	1	2.010347184990	0.015328182511	1074.810069265555	0.000053626125	0.068527078972	
+661000	2064.711556	1	1.996809379191	0.015326516344	1072.820634179363	0.000053711301	0.069467702178	
+662000	2062.472970	1	1.977238102224	0.015326507313	1082.956869148423	0.000053712067	0.072590131911	
+663000	2065.117968	1	2.002052665360	0.015329051361	1072.717816931758	0.000053625938	0.069054600094	
+664000	2064.944859	1	1.994093906430	0.015327797735	1073.307872004632	0.000053635894	0.069354612063	
+665000	2062.939578	1	2.016724187528	0.015331986482	1078.297434617748	0.000053849515	0.073367638119	
+666000	2064.144515	1	2.014469402336	0.015328355980	1076.877721052369	0.000053623665	0.068522255743	
+667000	2059.192661	1	1.964320977820	0.015329174248	1098.074008449392	0.000053628359	0.066549413890	
+668000	2064.679877	1	1.990944932113	0.015327460432	1074.243731226774	0.000053649349	0.069786101652	
+669000	2065.137759	1	1.998183646293	0.015328444918	1072.686913047906	0.000053622873	0.069006701755	
+670000	2064.354036	1	2.007290338954	0.015331150705	1073.717480466398	0.000053750617	0.070423697419	
+671000	2063.195437	1	2.019627289367	0.015327653918	1080.426049613429	0.000053641072	0.067129817634	
+672000	2064.211006	1	1.986350252119	0.015329362954	1076.323725765461	0.000053633257	0.068017640584	
+673000	2063.968647	1	1.984109547036	0.015328847177	1077.645648882776	0.000053623257	0.068524789418	
+674000	2061.368532	1	2.012372344391	0.015334551310	1075.740581372372	0.000054328158	0.074567485131	
+675000	2064.521606	1	1.992671398198	0.015330542859	1073.681316751136	0.000053696312	0.067737632947	
+676000	2062.692902	1	2.014257203086	0.015332857878	1076.754623233922	0.000053982501	0.073679067827	
+677000	2064.655018	1	1.989978964092	0.015329104341	1074.610632576392	0.000053626908	0.068515730180	
+678000	2064.875457	1	2.000837981042	0.015330347063	1072.643369451872	0.000053681979	0.069076941949	
+679000	2065.057316	1	2.003263514050	0.015327986008	1072.851006677288	0.000053630371	0.068792687561	
+680000	2064.029890	1	1.989178718187	0.015325954517	1074.942970868451	0.000053765159	0.071210689956	
+681000	2064.664088	1	2.009722873667	0.015328109284	1074.556429297429	0.000053627526	0.068497185615	
+682000	2064.113809	1	1.994325004744	0.015331625554	1073.254876711906	0.000053803365	0.067442895645	
+683000	2064.474731	1	2.006701308385	0.015330953161	1073.550071950903	0.000053731341	0.070205279781	
+684000	2062.948337	1	1.985958784349	0.015332135346	1076.540138453722	0.000053870073	0.064609559070	
+685000	2060.970902	1	2.023982251926	0.015324978073	1084.253935696957	0.000053888925	0.061157454501	
+686000	2063.075327	1	1.984824318561	0.015331690453	1077.202060944988	0.000053811277	0.064852700330	
+687000	2065.002232	1	2.002743430411	0.015329770300	1072.786584768682	0.000053648707	0.069232495873	
+688000	2064.883669	1	2.007421767472	0.015328455034	1073.756735255907	0.000053622803	0.068841582135	
+689000	2063.894355	1	1.997010332469	0.015332187095	1072.796345948205	0.000053877429	0.067948107731	
+690000	2064.792904	1	2.003558871256	0.015326892505	1072.892428557683	0.000053682327	0.068409318970	
+691000	2064.827865	1	1.993174178548	0.015327417311	1073.540038127520	0.000053651399	0.069615253115	
+692000	2064.168169	1	1.999979995292	0.015331866811	1072.626494580048	0.000053833633	0.068864164201	
+693000	2061.782244	1	2.018781899552	0.015333209229	1079.771259607320	0.000054044748	0.075677730480	
+694000	2065.112364	1	2.002610988086	0.015328951227	1072.771914807478	0.000053624414	0.069051330780	
+695000	2063.996949	1	1.986122841322	0.015330107272	1076.448694666142	0.000053666523	0.067120581220	
+696000	2064.776470	1	2.005429820844	0.015330292556	1073.236206619640	0.000053678263	0.069697733617	
+697000	2064.652302	1	1.994226331228	0.015330467443	1073.277242052429	0.000053690609	0.068039714818	
+698000	2064.285948	1	1.989260760802	0.015330357791	1074.907715717182	0.000053682725	0.067324860540	
+699000	2064.645464	1	2.008412121325	0.015327399346	1074.074841396870	0.000053652275	0.068048615061	
+700000	2065.083094	1	2.003082281995	0.015328163961	1072.827324561775	0.000053626460	0.068852733649	
+701000	2064.385766	1	1.998275246157	0.015325757812	1072.680696409820	0.000053787012	0.069269495366	
+702000	2065.144228	1	1.998975933101	0.015328851415	1072.644290599120	0.000053623295	0.068963926532	
+703000	2062.289689	1	1.988422961942	0.015333355081	1075.280447391852	0.000054072044	0.064079690332	
+704000	2063.689006	1	1.983414795487	0.015329815902	1078.096477220607	0.000053650851	0.067144817769	
+705000	2064.757209	1	1.990702557958	0.015328534161	1074.332269791089	0.000053622397	0.068996347845	
+706000	2063.696310	1	2.014349799332	0.015331127634	1076.808116372842	0.000053748285	0.071786192231	
+707000	2064.529563	1	1.988609980947	0.015328991591	1075.194799722733	0.000053624980	0.068549795729	
+708000	2061.736044	1	1.979103396033	0.015324415558	1081.327590947536	0.000053977609	0.075757144837	
+709000	2064.478044	1	2.006847345199	0.015326533416	1073.590277991214	0.000053709863	0.067685808865	
+710000	2063.551428	1	1.982553745041	0.015329810700	1078.682119049300	0.000053650602	0.067048493672	
+711000	2063.951795	1	1.985326997810	0.015326900029	1076.902387085823	0.000053681806	0.070906965682	
+712000	2062.959252	1	2.010883909622	0.015324608264	1075.040638936892	0.000053945797	0.065028776684	
+713000	2064.416557	1	1.987623004823	0.015329018696	1075.662652488218	0.000053625397	0.068476277632	
+714000	2063.215247	1	2.019354018251	0.015330314317	1080.211250073822	0.000053679732	0.071446136862	
+715000	2064.073102	1	2.006166782191	0.015325620932	1073.410214272305	0.000053803135	0.067275219059	
+716000	2064.862853	1	1.993006856034	0.015327664063	1073.585927723579	0.000053640680	0.069494862460	
+717000	2065.129769	1	2.001045825906	0.015328198605	1072.651905867915	0.000053625846	0.068940174758	
+718000	2064.866486	1	2.005106632293	0.015327388905	1073.166777308385	0.000053652790	0.068410839320	
+719000	2065.142245	1	2.001291677535	0.015328467192	1072.664243153468	0.000053622724	0.068963926985	
+720000	2064.360348	1	1.994374881199	0.015331170641	1073.243720498125	0.000053752650	0.067698451433	
+721000	2063.947227	1	1.985820946927	0.015330135616	1076.617803337491	0.000053668230	0.067043406736	
+722000	2064.502097	1	2.009153613402	0.015327118572	1074.338799194593	0.000053667648	0.067737840493	
+723000	2063.371699	1	1.999468064213	0.015332979018	1072.630508872751	0.000054003402	0.068575251316	
+724000	2064.678411	1	1.993318955972	0.015326816759	1073.501239076757	0.000053687705	0.069909937713	
+725000	2061.411785	1	1.977181042356	0.015324472035	1083.008911915997	0.000053968132	0.076270006262	
+726000	2063.969502	1	2.005628352049	0.015325390001	1073.280936245246	0.000053832043	0.067286067579	
+727000	2065.141508	1	1.998315543314	0.015328665857	1072.678068282188	0.000053622279	0.068975741605	
+728000	2064.394354	1	2.012591615378	0.015328480868	1075.851213822005	0.000053622643	0.068729717850	
+729000	2063.383107	1	2.004654927056	0.015324474706	1073.076768138383	0.000053967686	0.067108703558	
+730000	2063.073928	1	1.980130371355	0.015326654334	1080.490205569003	0.000053700013	0.071928595340	
+731000	2062.003370	1	2.021713125125	0.015325774102	1082.164394378220	0.000053785143	0.063407815418	
+732000	2063.880876	1	2.003236141013	0.015325061298	1072.847345190101	0.000053876884	0.067826431153	
+733000	2062.651942	1	1.987770221643	0.015332844096	1075.590385260919	0.000053980160	0.064384873513	
+734000	2063.476388	1	2.015996735244	0.015326618946	1077.817086757530	0.000053702835	0.066076930334	
+735000	2064.687372	1	1.990137881796	0.015328934396	1074.547695743617	0.000053624197	0.068664937263	
+736000	2062.970808	1	1.985059986670	0.015331910285	1077.060303014337	0.000053839336	0.064627962175	
+737000	2064.378169	1	1.987070346026	0.015328673494	1075.941714252984	0.000053622294	0.068821880607	
+738000	2065.039646	1	2.004667123370	0.015328385124	1073.079090797722	0.000053623371	0.068873733966	
+739000	2062.883454	1	2.020244158818	0.015330870103	1080.921954620478	0.000053723704	0.072460252258	
+740000	2064.031555	1	2.005147753985	0.015325443762	1073.175378395530	0.000053825122	0.067446981912	
+741000	2062.998829	1	2.018644582626	0.015326542663	1079.667611659730	0.000053709089	0.065454966063	
+742000	2063.639699	1	1.982123115563	0.015327698817	1078.986180709909	0.000053639367	0.070140492696	
+743000	2064.821255	1	2.008357497889	0.015328812082	1074.056269698904	0.000053622965	0.069070884639	
+744000	2064.082029	1	1.989870047142	0.015325933947	1074.654353206334	0.000053767372	0.071081981985	
+745000	2064.816553	1	2.001050573117	0.015330519280	1072.652121107346	0.000053694505	0.069115586459	
+746000	2064.694659	1	1.991888193750	0.015327199283	1073.921618561461	0.000053662905	0.069871515478	
+747000	2064.212971	1	1.993726848969	0.015325674750	1073.396454310929	0.000053796706	0.070371905753	
+748000	2064.838365	1	1.993689618808	0.015329723222	1073.405741354145	0.000053646581	0.068368656033	
+749000	2064.751559	1	1.991548597600	0.015329389571	1074.033469938453	0.000053634063	0.068393109020	
+750000	2064.961274	1	1.997850299925	0.015327233833	1072.712380953783	0.000053660954	0.069196065296	
+751000	2064.713818	1	2.004021653021	0.015330648987	1072.964376140118	0.000053704724	0.069614951405	
+752000	2063.673548	1	2.017371721439	0.015329704656	1078.742890394166	0.000053645767	0.070349198391	
+753000	2064.587170	1	1.998819121448	0.015331051515	1072.650725472143	0.000053740743	0.068682872428	
+754000	2064.814284	1	2.008395738306	0.015328539194	1074.069258670596	0.000053622380	0.068877898263	
+755000	2064.510487	1	1.988220514985	0.015328210512	1075.374743803172	0.000053625646	0.069295718923	
+756000	2063.856849	1	2.002084366468	0.015332346085	1072.720553320651	0.000053900699	0.069475140463	
+757000	2065.128233	1	1.999282689476	0.015329116336	1072.634558228357	0.000053627143	0.068953530096	
+758000	2064.384541	1	2.005331365035	0.015331304009	1073.214611429756	0.000053766657	0.070084984873	
+759000	2063.918642	1	1.995718729449	0.015325048538	1072.980743651629	0.000053878712	0.070061290703	
+760000	2064.542622	1	1.998452946368	0.015331132011	1072.669597347392	0.000053748726	0.068592903710	
+761000	2064.607777	1	1.989950238385	0.015329406340	1074.622117177786	0.000053634586	0.068257477667	
+762000	2064.565405	1	2.000541010891	0.015331133322	1072.634183025451	0.000053748858	0.069032294836	
+763000	2063.488909	1	1.981245116686	0.015329000939	1079.629196566457	0.000053625120	0.068167222004	
+764000	2062.425420	1	2.017745750072	0.015332559473	1079.007867498546	0.000053933527	0.074422693822	
+765000	2061.288081	1	1.984867305473	0.015322892301	1077.176037340014	0.000054281561	0.075580627152	
+766000	2064.538071	1	2.011379106810	0.015328984158	1075.263630531899	0.000053624871	0.069243735602	
+767000	2063.738441	1	1.986764846230	0.015330971078	1076.101239169368	0.000053733025	0.066220558199	
+768000	2064.797531	1	2.006384680067	0.015327410729	1073.465841352986	0.000053651718	0.068281897969	
+769000	2064.745652	1	2.008824577934	0.015329397610	1074.218943238580	0.000053634312	0.069501995692	
+770000	2064.142692	1	1.994154406700	0.015331556614	1073.293790866003	0.000053795145	0.067437221615	
+771000	2062.611030	1	1.980503518528	0.015331232989	1080.196436528226	0.000053759109	0.064429597021	
+772000	2064.198766	1	1.992283934659	0.015331205132	1073.797118686459	0.000053756204	0.067211392160	
+773000	2064.322459	1	1.998446732790	0.015325639226	1072.669964046838	0.000053800937	0.069234412253	
+774000	2065.106082	1	2.002395685969	0.015328207829	1072.749570366075	0.000053625691	0.068891165083	
+775000	2065.149883	1	1.999430615041	0.015328437158	1072.631215675248	0.000053622930	0.068990254837	
+776000	2064.827380	1	2.006298779314	0.015329927334	1073.443684083721	0.000053656442	0.069631656113	
+777000	2064.195103	1	2.012648453527	0.015330292163	1075.880206465463	0.000053678237	0.070619142450	
+778000	2063.780496	1	1.994244376195	0.015332149681	1073.273122763028	0.000053872100	0.067130664839	
+779000	2058.943605	1	1.985938439307	0.015335973377	1076.551553923027	0.000054707394	0.059666893808	
+780000	2064.538121	1	1.995258716720	0.015330892859	1073.062598764635	0.000053725769	0.068017745363	
+781000	2064.513071	1	2.011561917214	0.015329103677	1075.348440637727	0.000053626895	0.069361592706	
+782000	2064.693760	1	2.008497499308	0.015327638713	1074.104109519307	0.000053641668	0.068217461508	
+783000	2064.939812	1	1.994330765583	0.015329389391	1073.253583041439	0.000053634058	0.068596711914	
+784000	2064.044435	1	2.012930690521	0.015330672675	1076.026094847412	0.000053706664	0.071048610451	
+785000	2063.935610	1	2.009659297178	0.015331651594	1074.531478192860	0.000053806519	0.071268104905	
+786000	2063.500835	1	1.989481708300	0.015331960815	1074.814115030112	0.000053846060	0.065860969198	
+787000	2064.075267	1	2.013833788064	0.015330208649	1076.514402525701	0.000053672776	0.070670207521	
+788000	2064.782178	1	2.008844110500	0.015328762539	1074.225936861510	0.000053622636	0.069036372587	
+789000	2064.062245	1	2.000062639855	0.015325210862	1072.626833280679	0.000053855943	0.068792565717	
+790000	2063.222997	1	1.996101837248	0.015324099942	1072.919059403833	0.000054032934	0.070151072141	
+791000	2064.773573	1	1.991255316986	0.015327922893	1074.133793828168	0.000053632064	0.069435520176	
+792000	2063.437730	1	2.005894340031	0.015332784749	1073.343345222911	0.000053970168	0.070812671719	
+793000	2064.224988	1	2.008441111420	0.015331263766	1074.084746561470	0.000053762355	0.070727630317	
+794000	2063.580354	1	2.016504681204	0.015330646817	1078.150252244584	0.000053704548	0.071555743528	
+795000	2064.450271	1	2.008022600458	0.015326688403	1073.945025803363	0.000053697343	0.067582251062	
+796000	2061.813222	1	1.973431973717	0.015329171599	1086.714882819599	0.000053628301	0.067320506548	
+797000	2063.744793	1	1.994277363314	0.015324865312	1073.265626296897	0.000053905685	0.070550815088	
+798000	2064.185867	1	1.990747106843	0.015330959945	1074.315819241858	0.000053731977	0.067066512681	
+799000	2063.806017	1	1.982928650970	0.015328176825	1078.423467536198	0.000053626226	0.069427080450	
+800000	2064.884465	1	2.007376260325	0.015329062062	1073.743064760366	0.000053626125	0.069219335075	
+801000	2064.971887	1	1.999869654132	0.015327228708	1072.626469983998	0.000053661240	0.068963991281	
+802000	2065.096624	1	1.998119241794	0.015329265029	1072.691485772024	0.000053630537	0.068878986278	
+803000	2065.115178	1	1.997086868667	0.015328696789	1072.787521878375	0.000053622353	0.068960358901	
+804000	2064.858092	1	2.005788987935	0.015327513183	1073.318286534916	0.000053646944	0.068400354109	
+805000	2063.546045	1	1.991938209679	0.015324755802	1073.905536339139	0.000053922449	0.071325123589	
+806000	2064.948401	1	2.005217114971	0.015327812945	1073.190039949940	0.000053635395	0.068597815458	
+807000	2064.900009	1	2.007166804229	0.015329038972	1073.681215869944	0.000053625728	0.069199871806	
+808000	2064.541482	1	2.003973307752	0.015331075253	1072.956457669447	0.000053743070	0.069726687130	
+809000	2063.533671	1	1.981937483976	0.015327237137	1079.119549899099	0.000053660770	0.070829260344	
+810000	2063.853517	1	2.005924796031	0.015332192494	1073.350672441695	0.000053878202	0.070586416378	
+811000	2064.442356	1	1.994870675556	0.015326029988	1073.138255482587	0.000053757187	0.069974411795	
+812000	2065.020803	1	1.999493259149	0.015329803017	1072.630065046720	0.000053650237	0.068923052407	
+813000	2064.998867	1	1.994437745442	0.015328934661	1073.229801537373	0.000053624201	0.068819294969	
+814000	2062.865094	1	1.981422509969	0.015331070133	1079.496784154515	0.000053742566	0.064911558922	
+815000	2064.103753	1	1.996385902952	0.015325313754	1072.877127737900	0.000053842058	0.069811010210	
+816000	2063.383669	1	2.015960620781	0.015326395722	1077.793793579233	0.000053721796	0.065773188825	
+817000	2063.514141	1	2.007782965114	0.015332544575	1073.868190141699	0.000053931175	0.071319333492	
+818000	2065.134175	1	1.999345839925	0.015329054341	1072.633023763174	0.000053625990	0.068959909485	
+819000	2062.881595	1	1.979468468164	0.015326434398	1081.025062339543	0.000053718367	0.072381874120	
+820000	2063.863715	1	1.999706304244	0.015324907337	1072.627331347052	0.000053899379	0.068871747466	
+821000	2064.062883	1	2.013034756299	0.015330582064	1076.080693756847	0.000053699367	0.070970183071	
+822000	2065.146428	1	1.999022943763	0.015328407845	1072.642553898399	0.000053623165	0.068998258368	
+823000	2064.753236	1	1.992002389521	0.015327426237	1073.885047000061	0.000053650968	0.069716563729	
+824000	2063.998223	1	2.006292898265	0.015331932739	1073.442177962992	0.000053842312	0.070578413663	
+825000	2065.079899	1	1.995977557319	0.015328435207	1072.938423783039	0.000053622944	0.069034531912	
+826000	2064.820160	1	2.001383397661	0.015326787131	1072.669467592057	0.000053689871	0.068713599408	
+827000	2064.367999	1	1.996646542798	0.015325769668	1072.841504980856	0.000053785651	0.069651946013	
+828000	2064.964794	1	1.994728057044	0.015329363731	1073.167581714025	0.000053633281	0.068636616439	
+829000	2065.084264	1	1.999963388433	0.015329484586	1072.626459619288	0.000053637173	0.068976857837	
+830000	2065.138591	1	1.998619706714	0.015328884522	1072.660335090777	0.000053623622	0.068952764265	
+831000	2064.483599	1	1.988016188884	0.015328756103	1075.471584519085	0.000053622601	0.068758550222	
+832000	2064.478952	1	2.001605708126	0.015325991589	1072.683532451832	0.000053761215	0.068521236332	
+833000	2063.987676	1	1.985879518128	0.015330031991	1076.584707998104	0.000053662148	0.067177191936	
+834000	2063.413010	1	2.006124893399	0.015332803681	1073.399739021586	0.000053973340	0.070898596900	
+835000	2063.086204	1	2.020994165721	0.015328812137	1081.545476121680	0.000053622965	0.069031407960	
+836000	2064.332885	1	1.996147526027	0.015325726451	1072.912096459590	0.000053790640	0.069779040702	
+837000	2064.999530	1	2.002757656587	0.015329781684	1072.788202429639	0.000053649234	0.069236175004	
+838000	2065.064653	1	2.003519741664	0.015328124246	1072.886739557981	0.000053627222	0.068821581011	
+839000	2064.214224	1	1.987763543702	0.015330070917	1075.593644547206	0.000053664382	0.067389176021	
+840000	2061.912143	1	1.994083552699	0.015334282190	1073.310296515917	0.000054265529	0.065803012914	
+841000	2064.917779	1	1.999163365881	0.015330188117	1072.637894855934	0.000053671476	0.068852199242	
+842000	2064.077166	1	1.984750597311	0.015328604195	1077.246863413190	0.000053622248	0.068858110751	
+843000	2064.701709	1	1.990196104501	0.015328815607	1074.524891441558	0.000053622992	0.068764583142	
+844000	2064.672105	1	1.996987391694	0.015330747278	1072.799036680284	0.000053712919	0.068398293056	
+845000	2064.670726	1	1.996315185642	0.015326443988	1072.887263528668	0.000053717526	0.069570389186	
+846000	2065.058489	1	2.001460164624	0.015329594203	1072.674100022846	0.000053641210	0.069094918436	
+847000	2061.039379	1	1.983238507426	0.015333873764	1078.213955108154	0.000054176038	0.061173446942	
+848000	2064.226624	1	2.002580927388	0.015325574089	1072.768683232629	0.000053808826	0.068180889543	
+849000	2064.910629	1	1.995192483409	0.015329766553	1073.075084312753	0.000053648534	0.068499277474	
+850000	2064.488281	1	2.010853142735	0.015329864239	1075.027109298529	0.000053653215	0.070021738149	
+851000	2065.140724	1	1.998501411847	0.015328398054	1072.666790332682	0.000053623251	0.069007950128	
+852000	2060.730276	1	2.007630215331	0.015335418139	1073.820416695873	0.000054549659	0.072704201159	
+853000	2064.900958	1	1.997012060948	0.015330086003	1072.796144070510	0.000053665264	0.068594029619	
+854000	2064.760650	1	1.992005391493	0.015329537834	1073.884092674067	0.000053639074	0.068325823340	
+855000	2065.130633	1	1.997763065536	0.015328458041	1072.719782483537	0.000053622783	0.069009579536	
+856000	2064.685371	1	1.997673687615	0.015330765963	1072.727682869901	0.000053714521	0.068518039456	
+857000	2063.938734	1	2.004209109588	0.015332161218	1072.995967285751	0.000053873737	0.070078201220	
+858000	2064.088025	1	1.994886619379	0.015325363782	1073.135027767465	0.000053835461	0.070200288856	
+859000	2064.847269	1	2.007811090713	0.015329156388	1073.877088755330	0.000053627970	0.069292117409	
+860000	2064.238190	1	2.013334617357	0.015329733695	1076.240450429111	0.000053647046	0.070097478812	
+861000	2064.892352	1	1.996559854965	0.015330062620	1072.853050162047	0.000053663900	0.068544261363	
+862000	2063.020519	1	1.999927460584	0.015323845184	1072.626421886296	0.000054080508	0.068687119573	
+863000	2062.363326	1	2.007617290573	0.015333931707	1073.816417397063	0.000054188326	0.071986457444	
+864000	2064.255966	1	1.999953735552	0.015325527306	1072.626444388253	0.000053814597	0.068850963469	
+865000	2064.536164	1	2.001956307758	0.015331180014	1072.709747287426	0.000053753611	0.069331961475	
+866000	2065.141450	1	2.001385133039	0.015328807204	1072.669569697070	0.000053622928	0.069004142924	
+867000	2063.554078	1	2.015334463041	0.015331156394	1077.398260490957	0.000053751196	0.072007436583	
+868000	2064.486183	1	2.010578691740	0.015329998826	1074.908102513738	0.000053660292	0.070112450109	
+869000	2062.390252	1	1.986310915830	0.015323897116	1076.345193645965	0.000054070599	0.073930384409	
+870000	2058.546796	1	2.037630421497	0.015328455097	1101.184412737972	0.000053622803	0.067561495772	
+871000	2064.458541	1	1.988482414807	0.015329399716	1075.253067917103	0.000053634378	0.068147681561	
+872000	2064.706772	1	1.990309232019	0.015328889568	1074.480971629658	0.000053623676	0.068707917352	
+873000	2062.532898	1	2.013358135757	0.015324461507	1076.253133027454	0.000053969889	0.063985785481	
+874000	2063.818484	1	1.991320342978	0.015331743004	1074.111252025009	0.000053817808	0.066568921302	
+875000	2061.375482	1	1.971425671479	0.015327784256	1088.929998540364	0.000053636344	0.070440038708	
+876000	2061.960188	1	1.979607020361	0.015324606342	1080.911647890932	0.000053946107	0.075295391894	
+877000	2064.456180	1	1.987893812168	0.015328934714	1075.530388039611	0.000053624201	0.068574674373	
+878000	2062.951707	1	1.987913940217	0.015332485634	1075.520674935636	0.000053921960	0.064831143026	
+879000	2063.676067	1	1.988877003124	0.015331570002	1075.074948227853	0.000053796726	0.066074938459	
+880000	2065.030042	1	2.005009753148	0.015328876818	1073.146782364604	0.000053623542	0.069074173719	
+881000	2065.057432	1	2.002911091124	0.015329431997	1072.806166083210	0.000053635407	0.069171829142	
+882000	2064.931968	1	1.999240541994	0.015330142409	1072.635671472508	0.000053668644	0.068866798098	
+883000	2062.934256	1	1.990761176503	0.015324056564	1074.310640305908	0.000054040850	0.072146492798	
+884000	2064.952474	1	1.999806120592	0.015327155497	1072.626677655548	0.000053665446	0.068969386522	
+885000	2061.562983	1	2.027030353216	0.015330439288	1087.386265068632	0.000053688539	0.072565261801	
+886000	2064.514017	1	2.005178037730	0.015331037764	1073.181756022206	0.000053739405	0.069952367095	
+887000	2062.832097	1	1.982477727754	0.015331469610	1078.735252509248	0.000053785043	0.064543293160	
+888000	2064.763316	1	1.997442105494	0.015330548500	1072.749645720762	0.000053696748	0.068532211590	
+889000	2064.581181	1	2.009794259175	0.015329895434	1074.584638582973	0.000053654791	0.069950906856	
+890000	2064.597198	1	2.007876967200	0.015327075786	1073.898055664926	0.000053670269	0.067882181225	
+891000	2064.588797	1	2.009656286111	0.015327628103	1074.530300501541	0.000053642090	0.068099690097	
+892000	2063.656054	1	1.996497171766	0.015324642627	1072.861586400402	0.000053940281	0.069908909906	
+893000	2065.147522	1	1.999983639503	0.015328361817	1072.626503733811	0.000053623604	0.068980993946	
+894000	2061.749795	1	2.026252597288	0.015327611800	1086.551558685716	0.000053642746	0.066313378469	
+895000	2064.877905	1	1.992393951594	0.015328859023	1073.763624771156	0.000053623367	0.068796928379	
+896000	2064.693775	1	2.003579051145	0.015326619657	1072.895386519365	0.000053702778	0.068309739204	
+897000	2063.929619	1	1.999927653304	0.015325006730	1072.626421950403	0.000053884748	0.068812510779	
+898000	2064.865720	1	2.002845314333	0.015327040768	1072.798349349808	0.000053672469	0.068558200175	
+899000	2064.409836	1	1.991368911116	0.015326416646	1074.094526263135	0.000053719934	0.070449999457	
+900000	2063.142072	1	1.984370933567	0.015331462810	1077.481052345207	0.000053784267	0.065039797585	
+901000	2062.332152	1	1.982251235643	0.015324516211	1078.894938556420	0.000053960807	0.074604215379	
+902000	2064.648539	1	2.008874353059	0.015327577588	1074.236795419899	0.000053644158	0.068134868819	
+903000	2064.751239	1	2.004552293433	0.015330489615	1073.057459312980	0.000053692262	0.069648209772	
+904000	2063.572760	1	2.013334916798	0.015326011210	1076.240611766836	0.000053759149	0.065855185817	
+905000	2063.690822	1	2.014658939327	0.015326653919	1076.989201439113	0.000053700046	0.066370873716	
+906000	2062.828344	1	2.020974297971	0.015327264534	1081.528667679824	0.000053659261	0.066292075160	
+907000	2064.202630	1	1.998616824902	0.015331775234	1072.660485669646	0.000053821869	0.068510928112	
+908000	2064.193691	1	2.001443352193	0.015325462637	1072.673065250962	0.000053822720	0.068450729471	
+909000	2063.599164	1	2.017274376346	0.015330165505	1078.674848610474	0.000053670065	0.070994215190	
+910000	2064.946365	1	2.002329030681	0.015330046259	1072.743030164113	0.000053662959	0.069240546813	
+911000	2064.483287	1	1.992865234543	0.015326350710	1073.625647211734	0.000053725862	0.070224432517	
+912000	2064.692447	1	2.009604408793	0.015329275068	1074.510067379027	0.000053630798	0.069446152584	
+913000	2064.281077	1	2.013414632870	0.015328327943	1076.283690599298	0.000053623981	0.068532813484	
+914000	2064.489009	1	2.009511047133	0.015330356043	1074.473926883549	0.000053682603	0.070275645103	
+915000	2064.424960	1	2.003771234535	0.015326028756	1072.924376264123	0.000053757316	0.068051657259	
+916000	2064.797802	1	2.005433423512	0.015327196198	1073.237004208273	0.000053663081	0.068279398887	
+917000	2064.519209	1	1.988431506074	0.015328896531	1075.276503878815	0.000053623752	0.068633788379	
+918000	2063.157868	1	2.007436528733	0.015333043502	1073.761187451803	0.000054014769	0.071467106393	
+919000	2064.793631	1	2.008583938058	0.015329080772	1074.134039516857	0.000053626462	0.069264520338	
+920000	2064.663165	1	2.007294977554	0.015330325467	1073.718854103299	0.000053680493	0.069961500144	
+921000	2062.106977	1	1.982993830234	0.015332650905	1078.379075697502	0.000053948152	0.062914024834	
+922000	2064.621108	1	2.009565898701	0.015327745489	1074.495117623023	0.000053637679	0.068205842038	
+923000	2064.669189	1	2.005978487496	0.015330543845	1073.363680462010	0.000053696388	0.069885845141	
+924000	2064.965402	1	2.006141162135	0.015329006600	1073.403799021331	0.000053625207	0.069156521127	
+925000	2062.888366	1	2.013448320252	0.015324940536	1076.301972088590	0.000053894448	0.064538167352	
+926000	2064.425603	1	1.988277406252	0.015327429702	1075.348078512635	0.000053650802	0.070038336062	
+927000	2064.894256	1	2.007370966455	0.015328807834	1073.741479865106	0.000053622933	0.069062710897	
+928000	2064.747537	1	1.991685010736	0.015327515939	1073.987983523602	0.000053646821	0.069685881595	
+929000	2061.316079	1	2.005290581237	0.015335010702	1073.205779990850	0.000054441788	0.071294312747	
+930000	2064.802235	1	1.999895969928	0.015326685689	1072.626431446744	0.000053697554	0.068938659860	
+931000	2063.292389	1	2.019610631306	0.015328144411	1080.412870022844	0.000053626827	0.067946257840	
+932000	2064.893938	1	1.996911392751	0.015327052434	1072.808101620958	0.000053671730	0.069340789386	
+933000	2063.450116	1	1.984119690699	0.015330785034	1077.639210185424	0.000053716170	0.065910451335	
+934000	2063.304230	1	1.998754665467	0.015324164926	1072.653656864812	0.000054021216	0.069160240484	
+935000	2065.084841	1	1.997313935439	0.015327950760	1072.762727078792	0.000053631297	0.069119543658	
+936000	2060.823215	1	2.020817264548	0.015333924911	1081.396372674998	0.000054186878	0.077536810063	
+937000	2063.071137	1	2.009681133190	0.015324585136	1074.540029608588	0.000053949536	0.065425507591	
+938000	2064.017571	1	1.985669010795	0.015329826746	1076.704296292350	0.000053651373	0.067399780842	
+939000	2064.714827	1	2.007786367294	0.015327477826	1073.869264862926	0.000053648544	0.068173173379	
+940000	2064.265376	1	2.006704858727	0.015326045379	1073.551039252659	0.000053755590	0.067406306627	
+941000	2064.128612	1	2.008583666390	0.015331440881	1074.133944979732	0.000053781775	0.070872915214	
+942000	2064.991256	1	2.002990162683	0.015329794121	1072.815792727165	0.000053649816	0.069260669374	
+943000	2064.605029	1	2.006468632768	0.015326794765	1073.487782491066	0.000053689309	0.067911341453	
+944000	2062.806679	1	1.978770853071	0.015326602687	1081.607821788668	0.000053704148	0.072202583916	
+945000	2063.449785	1	2.000156565777	0.015332893447	1072.627551251935	0.000053988577	0.068833376439	
+946000	2062.793204	1	1.980807480291	0.015325664417	1079.961268359700	0.000053797932	0.073345854552	
+947000	2064.814601	1	2.000786354519	0.015330527692	1072.641518092986	0.000053695147	0.069074185657	
+948000	2063.887663	1	2.014814122017	0.015330428161	1077.081549811518	0.000053687729	0.071044663143	
+949000	2064.824318	1	1.992193181481	0.015329240424	1073.825113768990	0.000053629914	0.068540201087	
+950000	2064.457927	1	1.992912221035	0.015330746113	1073.612379980317	0.000053712820	0.067648977452	
+951000	2064.785232	1	2.000690895061	0.015330609241	1072.638376812191	0.000053701521	0.069060233655	
+952000	2064.387065	1	1.990043946446	0.015326645387	1074.584774769192	0.000053700721	0.070501991157	
+953000	2064.564281	1	1.994368019710	0.015330717315	1073.245249328221	0.000053710380	0.067934055084	
+954000	2065.113036	1	1.996959380224	0.015328569865	1072.802350816731	0.000053622296	0.068990577100	
+955000	2061.805142	1	2.005840604647	0.015334558811	1073.330508210973	0.000054329945	0.071433194691	
+956000	2064.744652	1	1.998587933557	0.015330669406	1072.662013718309	0.000053706395	0.068700045376	
+957000	2064.719597	1	2.009563589838	0.015328825352	1074.494223206653	0.000053623069	0.069086595778	
+958000	2065.102126	1	2.001761292685	0.015329269856	1072.694556443312	0.000053630662	0.069075536686	
+959000	2064.998549	1	1.994151626549	0.015328505251	1073.294434709805	0.000053622516	0.069018134846	
+960000	2063.772752	1	2.012432418265	0.015326176639	1075.770699398405	0.000053742351	0.066249547202	
+961000	2064.253889	1	2.000824521506	0.015325543728	1072.642876468748	0.000053812561	0.068627718439	
+962000	2065.036517	1	1.999937550209	0.015327503995	1072.626427247750	0.000053647355	0.068965417654	
+963000	2062.648715	1	1.982339925411	0.015331734009	1078.832163277888	0.000053816682	0.064101359182	
+964000	2064.843720	1	2.007781262006	0.015328262635	1073.867652318088	0.000053624839	0.068705108509	
+965000	2065.030081	1	1.996433270286	0.015329414224	1072.870450980130	0.000053634835	0.068736228878	
+966000	2065.143793	1	1.998552648229	0.015328477235	1072.663925415121	0.000053622664	0.068998397664	
+967000	2064.902565	1	1.993346080335	0.015327793308	1073.494063623688	0.000053636041	0.069402541326	
+968000	2063.750165	1	1.998279307158	0.015324742004	1072.680428601622	0.000053924596	0.069319202298	
+969000	2063.010602	1	2.000298642102	0.015333415769	1072.629310612654	0.000054083654	0.068839904519	
+970000	2064.861974	1	2.005900701285	0.015327560484	1073.344872559328	0.000053644882	0.068414129562	
+971000	2064.767509	1	2.006546260137	0.015327333652	1073.508322374671	0.000053655588	0.068218966062	
+972000	2064.621875	1	2.009286312116	0.015329910509	1074.388367033781	0.000053655566	0.069914513605	
+973000	2064.946597	1	2.006069575653	0.015329289578	1073.386013535089	0.000053631183	0.069296601779	
+974000	2064.925394	1	1.998163059681	0.015330105916	1072.688356584484	0.000053666443	0.068734799144	
+975000	2064.807430	1	2.004628788523	0.015330304321	1073.071810452356	0.000053679055	0.069595248643	
+976000	2064.610535	1	2.005341165261	0.015330787273	1073.216743553114	0.000053716364	0.069885593863	
+977000	2060.735400	1	1.974113714586	0.015332012627	1085.998986850478	0.000053853061	0.061145357651	
+978000	2064.471875	1	2.003153571591	0.015331271171	1072.836482787995	0.000053763142	0.069602421255	
+979000	2061.607595	1	2.016246714533	0.015333852134	1077.979755051559	0.000054171485	0.075557890714	
+980000	2064.247529	1	2.000128712255	0.015331735233	1072.627301382874	0.000053816836	0.068912910288	
+981000	2064.442093	1	1.995091421264	0.015326011360	1073.094474911761	0.000053759134	0.069934248204	
+982000	2064.524162	1	1.992581317154	0.015330518542	1073.707701493496	0.000053694448	0.067738430426	
+983000	2063.573963	1	2.012841135669	0.015325893238	1075.979457406995	0.000053771800	0.065835800116	
+984000	2063.134427	1	1.991906795315	0.015324208680	1073.915625642470	0.000054013421	0.071640339975	
+985000	2063.474288	1	2.018871943550	0.015329197193	1079.839636669682	0.000053628878	0.069657462525	
+986000	2064.949183	1	2.000146999662	0.015327149488	1072.627461923016	0.000053665800	0.068927169827	
+987000	2063.577887	1	2.005210011477	0.015332634305	1073.188529529545	0.000053945472	0.070529825737	
+988000	2060.902671	1	1.977513459768	0.015332825736	1082.707561053363	0.000053977054	0.060611959779	
+989000	2061.845037	1	1.990812326117	0.015322882395	1074.291879506738	0.000054283843	0.072855235838	
+990000	2064.935381	1	1.996321012910	0.015329864886	1072.886420723035	0.000053653247	0.068580757471	
+991000	2065.153786	1	1.999922396967	0.015328665312	1072.626420736407	0.000053622278	0.068983264110	
+992000	2062.587700	1	2.020587181139	0.015326446490	1081.204324296569	0.000053717308	0.064901179275	
+993000	2064.288902	1	2.012939699119	0.015329714985	1076.030804081200	0.000053646218	0.070047802162	
+994000	2064.506585	1	2.011443021319	0.015328254689	1075.293129396955	0.000053624955	0.068541687612	
+995000	2064.978659	1	2.004232948303	0.015327718219	1073.000085857460	0.000053638655	0.068634273316	
+996000	2063.949465	1	1.987799074536	0.015330791627	1075.576323686133	0.000053716743	0.066631400684	
+997000	2064.346089	1	2.003881910470	0.015331483018	1072.941744188513	0.000053786580	0.069815285421	
+998000	2064.196818	1	1.986868087114	0.015327101924	1076.046909849193	0.000053668659	0.070501860152	
+999000	2064.904310	1	2.002527231019	0.015330186361	1072.763001097735	0.000053671366	0.069288676899	
+1000000	2064.499664	1	2.010545090665	0.015329952738	1074.893740353075	0.000053657787	0.070069739171	
+1001000	2063.848553	1	2.012971199483	0.015331161428	1076.047296484214	0.000053751709	0.071557718105	
+1002000	2065.011788	1	1.994536197623	0.015328809539	1073.208321872258	0.000053622945	0.068879744692	
+1003000	2063.951748	1	2.015628208096	0.015328117166	1077.581853382331	0.000053627365	0.068158338642	
+1004000	2064.114198	1	1.986286297675	0.015327051466	1076.358660683955	0.000053671791	0.070620966048	
+1005000	2064.969207	1	1.996851897831	0.015329799937	1072.815359886109	0.000053650091	0.068656938553	
+1006000	2064.947166	1	1.999195956420	0.015327135479	1072.636926768761	0.000053666633	0.069044413567	
+1007000	2065.098515	1	2.003299426185	0.015328823362	1072.855856014593	0.000053623053	0.069032279646	
+1008000	2064.346219	1	1.996651331808	0.015325728243	1072.840875972388	0.000053790431	0.069659045557	
+1009000	2062.895301	1	1.980666247204	0.015330718014	1080.070075606275	0.000053710439	0.065324615207	
+1010000	2063.673103	1	2.009955811473	0.015325489452	1074.649234605421	0.000053819331	0.066166540100	
+1011000	2063.849353	1	1.988123154716	0.015331087876	1075.420678744969	0.000053744317	0.066385952881	
+1012000	2065.008797	1	1.994681049244	0.015328115512	1073.177426793383	0.000053627399	0.069184458708	
+1013000	2063.704518	1	1.992674422756	0.015332098352	1073.680436513037	0.000053864881	0.066691058146	
+1014000	2064.481158	1	1.988600231514	0.015327552389	1075.199229890431	0.000053645228	0.069898517777	
+1015000	2064.516759	1	1.988250272078	0.015328296939	1075.360780254658	0.000053624367	0.069211634481	
+1016000	2062.995852	1	1.978808544171	0.015327340843	1081.575836683484	0.000053655217	0.070931233748	
+1017000	2064.944352	1	2.006491270040	0.015329014643	1073.493747222835	0.000053625333	0.069169227596	
+1018000	2063.650734	1	1.982621900497	0.015327272069	1078.634678058269	0.000053658851	0.070716879201	
+1019000	2064.923689	1	2.004190825860	0.015329931583	1072.992823904593	0.000053656665	0.069417427494	
+1020000	2063.472336	1	1.995390094088	0.015332669698	1073.038354339970	0.000053951200	0.067229499280	
+1021000	2063.996797	1	2.014742414992	0.015330043443	1077.038757150707	0.000053662799	0.070575418790	
+1022000	2064.333188	1	1.987821201098	0.015327221278	1075.565562867930	0.000053661657	0.070280414582	
+1023000	2065.061017	1	2.003254808189	0.015329334510	1072.849838895691	0.000053632428	0.069168419447	
+1024000	2063.824527	1	1.999152915036	0.015332374665	1072.638214326414	0.000053904990	0.068561589689	
+1025000	2064.428005	1	2.011870919753	0.015328008552	1075.494846042844	0.000053629805	0.068273036743	
+1026000	2064.683540	1	1.990420096894	0.015329201007	1074.438428922808	0.000053628967	0.068460877110	
+1027000	2062.785348	1	1.979337331448	0.015330372003	1081.133116902294	0.000053683719	0.065670206949	
+1028000	2061.554550	1	2.025812182046	0.015326728110	1086.089667996774	0.000053694291	0.064429934394	
+1029000	2064.228096	1	1.985921501402	0.015328043582	1076.561070351463	0.000053628967	0.069529783650	
+1030000	2064.800119	1	1.993607291801	0.015329862620	1073.426475435161	0.000053653134	0.068282610074	
+1031000	2064.214381	1	2.007752702626	0.015326102308	1073.858650923911	0.000053749763	0.067211883561	
+1032000	2063.185355	1	1.985441306229	0.015325139726	1076.835658011950	0.000053865791	0.072896510417	
+1033000	2062.613340	1	2.016031332216	0.015325091393	1077.839450308038	0.000053872598	0.063915235956	
+1034000	2063.866892	1	1.985029149087	0.015326745338	1077.078725444911	0.000053692986	0.071128954041	
+1035000	2063.636229	1	2.006747838741	0.015324999942	1073.562789451633	0.000053885734	0.066719217012	
+1036000	2064.090802	1	2.008211218304	0.015325934587	1074.007125507925	0.000053767303	0.066983502197	
+1037000	2064.894538	1	2.006456364250	0.015327924034	1073.484558438881	0.000053632032	0.068567390695	
+1038000	2063.618381	1	2.009424002194	0.015332220276	1074.440546947773	0.000053882201	0.071612672667	
+1039000	2064.805311	1	2.005520385772	0.015327240569	1073.256414794171	0.000053660579	0.068290791761	
+1040000	2063.201845	1	1.996360112634	0.015324068017	1072.880800952272	0.000054038753	0.070060611344	
+1041000	2063.779081	1	2.016714372331	0.015329688055	1078.290812046459	0.000053645050	0.070281729811	
+1042000	2064.360749	1	1.990754348560	0.015326411320	1074.313152627183	0.000053720406	0.070559907427	
+1043000	2063.979020	1	2.009532203756	0.015331589574	1074.482085980869	0.000053799051	0.071192737597	
+1044000	2063.504139	1	1.993839194083	0.015324554576	1073.368767328329	0.000053954510	0.070810516262	
+1045000	2064.872013	1	1.997505988986	0.015326937311	1072.743371987349	0.000053679255	0.069283157910	
+1046000	2064.346102	1	2.010090131946	0.015330642517	1074.703740154503	0.000053704199	0.070581469268	
+1047000	2064.571221	1	1.988820291420	0.015328158999	1075.100163467862	0.000053626552	0.069331142846	
+1048000	2062.866593	1	1.988775516038	0.015332727977	1075.120162814141	0.000053960742	0.064872265582	
+1049000	2064.840402	1	2.002033584051	0.015326888674	1072.716189322204	0.000053682594	0.068634877578	
+1050000	2065.034154	1	2.002944177810	0.015329575136	1072.810163700855	0.000053640473	0.069206921274	
