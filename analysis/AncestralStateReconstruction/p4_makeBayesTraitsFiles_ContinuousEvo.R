@@ -8,15 +8,15 @@ library(gplots)
 #biocLite("ggtree",type="source")
 #library(ggtree)
 
-setwd("~/OneDrive - Cardiff University/Research/MPI/ClimateAndLanguage/Grollemund/analysis/AncestralStateReconstruction/")
+setwd("~/OneDrive - Cardiff University/Research/MPI/ClimateAndLanguage/Grollemund_public/analysis/AncestralStateReconstruction/")
 
-load("../../data/processed/GTree_phylo4g_withClimateSimData.RDat")
+load("../../data/processed/GTree_phylo4g_withClimateSimData_withToneSim.RDat")
 tree.chosen = tree4d
 
 # Prune tree
 # This breaks if you give it too many things to trim at once, so do it the slow way:
 tips.to.remove  = tree4d@label[is.na(tree4d@data[1:length(tree4d@label),]$Tones)]
-tree.chosen = prune(tree.chosen,tips.exclude = tips.to.remove, trim.internal=T)
+tree.chosen = phylobase::prune(tree.chosen,tips.exclude = tips.to.remove,trim.internal=TRUE)
 
 # Tree file
 write.nexus(as(tree.chosen,'phylo'),file = "../../data/processed/GTree_phylo4g_combined_trimmed.nex")
@@ -31,7 +31,6 @@ write.nexus(as(tree.chosen,'phylo'),file = "../../data/processed/GTree_phylo4g_c
 write.table(tipData(tree.chosen[,c("Tones")]),
             sep=" ",col.names=F, quote=F,
             file="../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_continuous.txt")
-
 
 # Chain lengths (as string to avoid floating point conversion)
 burnin = "1000000"
@@ -122,6 +121,50 @@ runFileA = paste0(btVersion," ../../data/processed/GTree_phylo4g_combined_trimme
                   btVersion, " ../../data/processed/GTree_phylo4g_combined_trimmed.nex ../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_continuous.txt < GTree_Anc_Tones_continuous_estimateAnc.txt\n")
 
 cat(paste(runFileA,"\n",sep="\n"),file="p5_runBayesTraits_Anc_Tones_continuous.sh")
+
+################
+# Run ancestral states for simulated tones
+
+tree.chosen@data[is.na(tree.chosen@data$Tones.sim),c("Tones.sim")] = 3
+tree.chosen@data[is.na(tree.chosen@data$Tones.sim2),c("Tones.sim2")] = 3
+tree.chosen@data[is.na(tree.chosen@data$Tones.sim10),c("Tones.sim10")] = 3
+
+write.table(tipData(tree.chosen[,c("Tones.sim")]),
+            sep=" ",col.names=F, quote=F,
+            file="../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_SIM1_continuous.txt")
+write.table(tipData(tree.chosen[,c("Tones.sim2")]),
+            sep=" ",col.names=F, quote=F,
+            file="../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_SIM2_continuous.txt")
+write.table(tipData(tree.chosen[,c("Tones.sim10")]),
+            sep=" ",col.names=F, quote=F,
+            file="../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_SIM10_continuous.txt")
+
+outCor1SIM = gsub("Anc_Tones_continuous","Anc_Tones_SIM1_continuous",outCor1)
+cat(outCor1SIM,file="GTree_Anc_Tones_SIM1_continuous_makeModels.txt")
+outCor2SIM = gsub("Anc_Tones_continuous","Anc_Tones_SIM1_continuous",outCor2)
+cat(outCor2SIM,file="GTree_Anc_Tones_SIM1_continuous_estimateAnc.txt")
+
+outCor1SIM = gsub("Anc_Tones_continuous","Anc_Tones_SIM2_continuous",outCor1)
+cat(outCor1SIM,file="GTree_Anc_Tones_SIM2_continuous_makeModels.txt")
+outCor2SIM = gsub("Anc_Tones_continuous","Anc_Tones_SIM2_continuous",outCor2)
+cat(outCor2SIM,file="GTree_Anc_Tones_SIM2_continuous_estimateAnc.txt")
+
+outCor1SIM = gsub("Anc_Tones_continuous","Anc_Tones_SIM10_continuous",outCor1)
+cat(outCor1SIM,file="GTree_Anc_Tones_SIM10_continuous_makeModels.txt")
+outCor2SIM = gsub("Anc_Tones_continuous","Anc_Tones_SIM10_continuous",outCor2)
+cat(outCor2SIM,file="GTree_Anc_Tones_SIM10_continuous_estimateAnc.txt")
+
+runFileASIM = paste0(btVersion," ../../data/processed/GTree_phylo4g_combined_trimmed.nex ../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_SIM1_continuous.txt < GTree_Anc_Tones_SIM1_continuous_makeModels.txt\n",
+                  btVersion, " ../../data/processed/GTree_phylo4g_combined_trimmed.nex ../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_SIM1_continuous.txt < GTree_Anc_Tones_SIM1_continuous_estimateAnc.txt\n")
+
+cat(paste(runFileASIM,"\n",sep="\n"),file="p5_runBayesTraits_Anc_Tones_SIM1_continuous.sh")
+
+runFileASIM2 = gsub("SIM1","SIM2",runFileASIM)
+cat(paste(runFileASIM2,"\n",sep="\n"),file="p5_runBayesTraits_Anc_Tones_SIM2_continuous.sh")
+runFileASIM10 = gsub("SIM1","SIM10",runFileASIM)
+cat(paste(runFileASIM10,"\n",sep="\n"),file="p5_runBayesTraits_Anc_Tones_SIM10_continuous.sh")
+
+##########3
 
 # Switch back to Bayestraits v4
 btVersion = "/Applications/BayesTraitsV4.0.0-OSX/BayesTraitsV4"
