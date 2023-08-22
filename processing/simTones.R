@@ -52,10 +52,10 @@ simTone = function (tree, anc = 0, sdX = 0.001, ngen = 1000,
     }
     T[[i]] <- h[i] + 0:tr$edge.length[i]
   }
-  if (type == "BM") 
-    cols <- phytools:::bm(X, T, ...)
-  else if (type == "threshold") 
-    cols <- th(X, T, ...)
+#  if (type == "BM") 
+#    cols <- phytools:::bm(X, T, ...)
+#  else if (type == "threshold") 
+#    cols <- th(X, T, ...)
 #  if (return.tree) {
 #    if (type == "BM") 
 #      tr$X <- X
@@ -71,13 +71,13 @@ simTone = function (tree, anc = 0, sdX = 0.001, ngen = 1000,
   xx <- c(x[tr$tip], a[as.character(N + 1:tr$Nnode)])
   if (!return.tree) 
     return(xx)
-  else return(list(x = xx, tree = tr, colors = cols,treeO = trO))
+  else return(list(x = xx, tree = tr, treeO = trO))
 }
 
 set.seed(45678)
-st1 = simTone(tree.chosen,anc=2,effectSize=1)
-st2 = simTone(tree.chosen,anc=2,effectSize=2)
-st10 = simTone(tree.chosen,anc=2,effectSize=10)
+st1 = simTone(tree.chosen,anc=2,effectSize=1/10)
+st2 = simTone(tree.chosen,anc=2,effectSize=2/10)
+st10 = simTone(tree.chosen,anc=2,effectSize=1/2)
 
 tree4d = st1$treeO
 
