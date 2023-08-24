@@ -125,6 +125,10 @@ cat(paste(runFileA,"\n",sep="\n"),file="p5_runBayesTraits_Anc_Tones_continuous.s
 ################
 # Run ancestral states for simulated tones
 
+fhSim = read.csv("../../data/reconstrutions/purelin_df_altsim.csv",stringsAsFactors = F)
+
+tree.chosen@data$Tones.simFH = 8*(fhSim$Tones/max(fhSim$Tones))
+
 tree.chosen@data[is.na(tree.chosen@data$Tones.sim),c("Tones.sim")] = 3
 tree.chosen@data[is.na(tree.chosen@data$Tones.sim2),c("Tones.sim2")] = 3
 tree.chosen@data[is.na(tree.chosen@data$Tones.sim10),c("Tones.sim10")] = 3
@@ -138,6 +142,9 @@ write.table(tipData(tree.chosen[,c("Tones.sim2")]),
 write.table(tipData(tree.chosen[,c("Tones.sim10")]),
             sep=" ",col.names=F, quote=F,
             file="../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_SIM10_continuous.txt")
+write.table(round(tipData(tree.chosen[,c("Tones.simFH")]),3),
+            sep=" ",col.names=F, quote=F,
+            file="../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_SIMFH_continuous.txt")
 
 outCor1SIM = gsub("Anc_Tones_continuous","Anc_Tones_SIM1_continuous",outCor1)
 cat(outCor1SIM,file="GTree_Anc_Tones_SIM1_continuous_makeModels.txt")
@@ -154,6 +161,11 @@ cat(outCor1SIM,file="GTree_Anc_Tones_SIM10_continuous_makeModels.txt")
 outCor2SIM = gsub("Anc_Tones_continuous","Anc_Tones_SIM10_continuous",outCor2)
 cat(outCor2SIM,file="GTree_Anc_Tones_SIM10_continuous_estimateAnc.txt")
 
+outCor1SIM = gsub("Anc_Tones_continuous","Anc_Tones_SIMFH_continuous",outCor1)
+cat(outCor1SIM,file="GTree_Anc_Tones_SIMFH_continuous_makeModels.txt")
+outCor2SIM = gsub("Anc_Tones_continuous","Anc_Tones_SIMFH_continuous",outCor2)
+cat(outCor2SIM,file="GTree_Anc_Tones_SIMFH_continuous_estimateAnc.txt")
+
 runFileASIM = paste0(btVersion," ../../data/processed/GTree_phylo4g_combined_trimmed.nex ../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_SIM1_continuous.txt < GTree_Anc_Tones_SIM1_continuous_makeModels.txt\n",
                   btVersion, " ../../data/processed/GTree_phylo4g_combined_trimmed.nex ../../data/processed/AncestralStateReconstruction/GTree_Data_Tones_SIM1_continuous.txt < GTree_Anc_Tones_SIM1_continuous_estimateAnc.txt\n")
 
@@ -161,8 +173,12 @@ cat(paste(runFileASIM,"\n",sep="\n"),file="p5_runBayesTraits_Anc_Tones_SIM1_cont
 
 runFileASIM2 = gsub("SIM1","SIM2",runFileASIM)
 cat(paste(runFileASIM2,"\n",sep="\n"),file="p5_runBayesTraits_Anc_Tones_SIM2_continuous.sh")
+
 runFileASIM10 = gsub("SIM1","SIM10",runFileASIM)
 cat(paste(runFileASIM10,"\n",sep="\n"),file="p5_runBayesTraits_Anc_Tones_SIM10_continuous.sh")
+
+runFileASIMFH = gsub("SIM1","SIMFH",runFileASIM)
+cat(paste(runFileASIMFH,"\n",sep="\n"),file="p5_runBayesTraits_Anc_Tones_SIMFH_continuous.sh")
 
 ##########3
 
